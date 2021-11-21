@@ -4,7 +4,7 @@ import pathlib
 import urllib.request
 
 URL_FS = "https://koronavirus.gov.hu/elhunytak?page={page}"
-FILE = "elhunytak_gov_hu.csv"
+FILE = "../elhunytak-hivatalos.csv"
 
 TÁBLA_FEJLÉC = ('Sorszám', 'Nem', 'Kor', 'Alapbetegségek')
 

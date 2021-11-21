@@ -4,12 +4,12 @@ import io
 import pathlib
 import re
 
-FORRÁS_FILE = "elhunytak_gov_hu.csv"
-CÉL_FILE = "elhunytak_gov_hu_tisztitott.csv"
-SOR_CSERE_FILE = "elhunytak_gov_hu_sor_csere.csv"
-NEM_CSERE_FILE = "elhunytak_gov_hu_nem_csere.csv"
-KARAKTER_CSERE_FILE = "elhunytak_gov_hu_alapbetegseg_karakter_csere.csv"
-ALAPBETEGSÉG_CSERE_FILE = "elhunytak_gov_hu_alapbetegseg_csere.csv"
+FORRÁS_FILE = "../elhunytak-hivatalos.csv"
+CÉL_FILE = "../elhunytak-tisztitott.csv"
+SOR_CSERE_FILE = "../seged_csv/sor_csere.csv"
+NEM_CSERE_FILE = "../seged_csv/nem_csere.csv"
+KARAKTER_CSERE_FILE = "../seged_csv/karakter_csere.csv"
+ALAPBETEGSÉG_CSERE_FILE = "../seged_csv/alapbetegseg_csere.csv"
 
 if __name__ == '__main__':
     karakter_csere_filepath = pathlib.Path(KARAKTER_CSERE_FILE)
