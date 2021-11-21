@@ -260,7 +260,7 @@ MVT,MVT
 Magas koleszterin,Magas koleszterin
 Magas vérnyomás,Magas vérnyomás
 Magas vérnyomás betegség,Magas vérnyomás betegség
-Magas vérnyomás.,Magas vérnyomás.
+Magas vérnyomás.,Magas vérnyomás
 Magas vérnyomásbetegség,Magas vérnyomásbetegség
 Magas vérzsírszint,Magas vérzsírszint
 Magasa vérnyomás,Magasa vérnyomás
@@ -455,7 +455,7 @@ a sav-bázis egyensúly kevert zavara,a sav-bázis egyensúly kevert zavara
 a sigmabél-végbél határ rosszindulatú daganata,a sigmabél-végbél határ rosszindulatú daganata
 a testnedvek csökkenése,a testnedvek csökkenése
 a torok és a tüdõ nyálkahártyájának gyulladása (Wegener-granulomatosis),a torok és a tüdő nyálkahártyájának gyulladása (Wegener-granulomatosis)
-a tüd? másodlagos rosszindulatú daganata,a tüd? másodlagos rosszindulatú daganata
+a tüd? másodlagos rosszindulatú daganata,a tüdő másodlagos rosszindulatú daganata
 a tüdõ egyéb sérülése,a tüdő egyéb sérülése
 a tüdõ felsõ lebeny,a tüdő felső lebeny
 a tüdõ másodlagos rosszindulatú daganata,a tüdő másodlagos rosszindulatú daganata
@@ -513,8 +513,9 @@ agyi aneurizma,agyi aneurizma
 agyi artéria elzáródás,agyi artéria elzáródás
 agyi artéria elzáródása,agyi artéria elzáródása
 agyi artéria elzáródása és szûkülete,agyi artéria elzáródása és szűkülete
-agyi artériák elzáródása és sz?külete,agyi artériák elzáródása és sz?külete
+agyi artériák elzáródása és sz?külete,??? agyi artériák elzáródása és sz?külete
 agyi artériák elzáródása és szûkülete,agyi artériák elzáródása és szűkülete
+agyi artériák elzáródása és szűkülete,agyi artériák elzáródása és szűkülete
 agyi atrófia,agyi atrófia
 agyi bénulás,agyi bénulás
 agyi ciszta,agyi ciszta
@@ -611,7 +612,7 @@ agyi-,agyi-
 agyi- és általános érelmeszesedés,agyi- és általános érelmeszesedés
 agyideg károsodás,agyideg károsodás
 agyinfarktus,agyinfarktus
-agyinfarktus.,agyinfarktus.
+agyinfarktus.,agyinfarktus
 agyinfraktus,agyinfraktus
 agyiér betegség,agyiér betegség
 agykarásodás,agykarásodás
@@ -854,7 +855,7 @@ aorta vitium,aorta vitium
 aorta érelmeszesedés,aorta érelmeszesedés
 aorta érelmeszesedésa,aorta érelmeszesedésa
 aorta érelmeszesedése,aorta érelmeszesedése
-aorta és billenty? rendellenesség,aorta és billenty? rendellenesség
+aorta és billenty? rendellenesség,aorta és billentyű rendellenesség
 aorta és koszorúér közé beültetett áthidalás,aorta és koszorúér közé beültetett áthidalás
 aorta és mitrális billentyűelégtelenség,aorta és mitrális billentyűelégtelenség
 aorta és mitrális mechanikus mûbillentyû,aorta és mitrális mechanikus műbillentyű
@@ -953,7 +954,7 @@ az arc és a nyak nyirokcsomóinak rosszindulatú daganata,az arc és a nyak nyi
 az emlő és a mellhártya rosszindulatú daganata,az emlő és a mellhártya rosszindulatú daganata
 az erek jóindulatú megnagyobbodása,az erek jóindulatú megnagyobbodása
 azbesztózis,azbesztózis
-b?rdaganat,b?rdaganat
+b?rdaganat,bőrdaganat
 bakteriális enteritis,bakteriális enteritis
 bakteriális fertõzés,bakteriális fertőzés
 bakteriális gennyes agyhártyagyulladás,bakteriális gennyes agyhártyagyulladás
@@ -1121,7 +1122,7 @@ csont-áttét,csont-áttét
 csontbetegség,csontbetegség
 csontdeformitás,csontdeformitás
 csontok többszörös másodlagos rosszindulatú daganata,csontok többszörös másodlagos rosszindulatú daganata
-csontok és csontvel? másodlagos rosszindulatú daganata,csontok és csontvel? másodlagos rosszindulatú daganata
+csontok és csontvel? másodlagos rosszindulatú daganata,csontok és csontvelő másodlagos rosszindulatú daganata
 csontok és csontvelõ másodlagos rosszindulatú daganata,csontok és csontvelő másodlagos rosszindulatú daganata
 csontok és csontvelõ rosszindulatú daganata,csontok és csontvelő rosszindulatú daganata
 csontok és csontvelõ-,csontok és csontvelő-
@@ -1235,7 +1236,7 @@ cukorbetegség perifériás keringési szövõdményekkel,cukorbetegség perifé
 cukorbetegség perifériás keringési szövődményekkel,cukorbetegség perifériás keringési szövődményekkel
 cukorbetegség szívbetegség,cukorbetegség szívbetegség
 cukorbetegség szívinfarktus,cukorbetegség szívinfarktus
-cukorbetegség szöv?dményekkel,cukorbetegség szöv?dményekkel
+cukorbetegség szöv?dményekkel,cukorbetegség szövődményekkel
 cukorbetegség szövõcukorbetegségényekkel,cukorbetegség szövőcukorbetegségényekkel
 cukorbetegség szövõdménnyel,cukorbetegség szövődménnyel
 cukorbetegség szövõdmények,cukorbetegség szövődmények
@@ -1254,7 +1255,7 @@ cukorbetegség érelmeszesedés,cukorbetegség érelmeszesedés
 cukorbetegség és annak szövõdményei,cukorbetegség és annak szövődményei
 cukorbetegség és egyéb krónikus betegségek,cukorbetegség és egyéb krónikus betegségek
 cukorbetegség és vesekárosodás,cukorbetegség és vesekárosodás
-cukorbetegség.,cukorbetegség.
+cukorbetegség.,cukorbetegség
 cukorbetegség. agyi érelmeszesedés. iszkémiás szívbetegség,cukorbetegség. agyi érelmeszesedés. iszkémiás szívbetegség
 cukorbetegség. iszkémiás szívbetegség,cukorbetegség. iszkémiás szívbetegség
 cukorbetegség. magas húgysavszint a vérben,cukorbetegség. magas húgysavszint a vérben
@@ -1316,7 +1317,7 @@ demencia,demencia
 demencia  tüdõbetegség,demencia  tüdőbetegség
 demencia (pszichiátriai kezelés),demencia (pszichiátriai kezelés)
 demencia vascularis,demencia vascularis
-demencia.,demencia.
+demencia.,demencia
 demenciához társuló delírium,demenciához társuló delírium
 demenetia,demenetia
 dementia,dementia
@@ -1756,7 +1757,7 @@ hashártyadaganat,hashártyadaganat
 hashártyagyulladás,hashártyagyulladás
 hasi aorta akut elzáródása,hasi aorta akut elzáródása
 hasi aorta aneorizma,hasi aorta aneorizma
-hasi aorta aneurysmája.,hasi aorta aneurysmája.
+hasi aorta aneurysmája.,hasi aorta aneurysmája
 hasi aorta emboliája és rögösödése,hasi aorta emboliája és rögösödése
 hasi aorta-elzáródás,hasi aorta-elzáródás
 hasi aortatágulat,hasi aortatágulat
@@ -1932,7 +1933,7 @@ hörgő- és tüdő átfedő daganata áttétekkel,hörgő- és tüdő átfedő 
 hörgő- és tüdőgyulladás,hörgő- és tüdőgyulladás
 hörgő/ tüdő rosszindulatú daganat,hörgő/ tüdő rosszindulatú daganat
 hörgőasztma,hörgőasztma
-hörgőasztma.,hörgőasztma.
+hörgőasztma.,hörgőasztma
 hörgőgyulladás,hörgőgyulladás
 hörgőhurut,hörgőhurut
 hörgőtüdőszöveti gócos tüdőgyulladás,hörgőtüdőszöveti gócos tüdőgyulladás
@@ -2049,9 +2050,9 @@ idült obstructiv tüdõbetegség,idült obstructiv tüdőbetegség
 idült obstructív tüdõbetegség,idült obstructív tüdőbetegség
 idült obstruktiv tüdõbetegség,idült obstruktiv tüdőbetegség
 idült obstruktív légúti betegség,idült obstruktív légúti betegség
-idült obstruktív tüd?betegség,idült obstruktív tüd?betegség
+idült obstruktív tüd?betegség,idült obstruktív tüdőbetegség
 idült obstruktív tüdõbetegség,idült obstruktív tüdőbetegség
-idült obstruktív tüdõbetegség.,idült obstruktív tüdőbetegség.
+idült obstruktív tüdõbetegség.,idült obstruktív tüdőbetegség
 idült obstruktív tüdőbetegség,idült obstruktív tüdőbetegség
 idült obstruktív tüdőbetegség heveny fellánggolással,idült obstruktív tüdőbetegség heveny fellánggolással
 idült oxigénhiányos szívbetegség,idült oxigénhiányos szívbetegség
@@ -2068,7 +2069,7 @@ idült tüdőgyulladás,idült tüdőgyulladás
 idült tüdőtágulat,idült tüdőtágulat
 idült veseelégtelenség,idült veseelégtelenség
 idült veseelégtelenség miatti hemodialízis,idült veseelégtelenség miatti hemodialízis
-idült veseelégtelenség.,idült veseelégtelenség.
+idült veseelégtelenség.,idült veseelégtelenség
 idült veselégtelenség,idült veselégtelenség
 idült vesemedence-gyulladás,idült vesemedence-gyulladás
 idült vesselégtelenség,idült vesselégtelenség
@@ -2149,7 +2150,7 @@ iszkémiás szívbetegség (koszorúér-betegség),iszkémiás szívbetegség (k
 iszkémiás szívbetegség cukorbetegség,iszkémiás szívbetegség cukorbetegség
 iszkémiás szívbetegség magas vérnyomás,iszkémiás szívbetegség magas vérnyomás
 iszkémiás szívbetegség magasvérnyomás-betegség,iszkémiás szívbetegség magasvérnyomás-betegség
-iszkémiás szívbetegség.,iszkémiás szívbetegség.
+iszkémiás szívbetegség.,iszkémiás szívbetegség
 iszkémiás szívbetegség. Magasvérnyomás-betegség,iszkémiás szívbetegség. Magasvérnyomás-betegség
 iszkémiás szívbetegség. magas vérnyomás,iszkémiás szívbetegség. magas vérnyomás
 iszkémiás szívbetegség. magasvérnyomás-betegség,iszkémiás szívbetegség. magasvérnyomás-betegség
@@ -2504,7 +2505,7 @@ krónikus szívelégtelenség,krónikus szívelégtelenség
 krónikus szívritmuszavar,krónikus szívritmuszavar
 krónikus tûdõbetegség,krónikus tűdőbetegség
 krónikus tüdõbetegség,krónikus tüdőbetegség
-krónikus tüdõbetegség.,krónikus tüdőbetegség.
+krónikus tüdõbetegség.,krónikus tüdőbetegség
 krónikus tüdõdaganat,krónikus tüdődaganat
 krónikus tüdõembólia,krónikus tüdőembólia
 krónikus tüdõgyulladás,krónikus tüdőgyulladás
@@ -2595,7 +2596,7 @@ kónikus veseelégtelenség,kónikus veseelégtelenség
 kórnikus veseleégtelenség,kórnikus veseleégtelenség
 kóros aortaszûkület,kóros aortaszűkület
 kóros elhízás,kóros elhízás
-kóros elhízás.,kóros elhízás.
+kóros elhízás.,kóros elhízás
 kóros fogyás,kóros fogyás
 kóros hízás,kóros hízás
 kóros kóros elhízás,kóros kóros elhízás
@@ -2673,7 +2674,7 @@ lágyéksérv mûtét,lágyéksérv műtét
 látásromlás,látásromlás
 látóideg rendellenségek,látóideg rendellenségek
 látóideg sorvadás,látóideg sorvadás
-légcs?,légcs?
+légcs?,légcső
 légcsõ,légcső
 légcsõ szûkület,légcső szűkület
 légcsõ és hörgõ bizonytalan és ismeretlen viselkedésû daganata,légcső és hörgő bizonytalan és ismeretlen viselkedésű daganata
@@ -2769,7 +2770,7 @@ magas vérnyomás szövődményekkel,magas vérnyomás szövődményekkel
 magas vérnyomás és krónikus obstruktív tüdõbetegség,magas vérnyomás és krónikus obstruktív tüdőbetegség
 magas vérnyomás- betegség,magas vérnyomás- betegség
 magas vérnyomás-betegség,magas vérnyomás-betegség
-magas vérnyomás.,magas vérnyomás.
+magas vérnyomás.,magas vérnyomás
 magas vérnyomás. Cukorbetegség,magas vérnyomás. Cukorbetegség
 magas vérnyomás. cukorbetegség,magas vérnyomás. cukorbetegség
 magas vérnyomás. cukorbetegség. magas vérzsírszint,magas vérnyomás. cukorbetegség. magas vérzsírszint
@@ -2830,8 +2831,8 @@ magasvérnyomás-betegség súlyos mentális hanyatlás,magasvérnyomás-betegs�
 magasvérnyomás-betegség tüdõbetegség,magasvérnyomás-betegség tüdőbetegség
 magasvérnyomás-betegség vérmérgezés,magasvérnyomás-betegség vérmérgezés
 magasvérnyomás-betegség érszûkület,magasvérnyomás-betegség érszűkület
-magasvérnyomás-betegség-,magasvérnyomás-betegség-
-magasvérnyomás-betegség.,magasvérnyomás-betegség.
+magasvérnyomás-betegség-,magasvérnyomás-betegség
+magasvérnyomás-betegség.,magasvérnyomás-betegség
 magasvérnyomás-betegség. cukorbetegség,magasvérnyomás-betegség. cukorbetegség
 magasvérnyomás-betegség. cukorbetegség. iszkémiás szívbetegség,magasvérnyomás-betegség. cukorbetegség. iszkémiás szívbetegség
 magasvérnyomás-betegség. demencia,magasvérnyomás-betegség. demencia
@@ -3309,7 +3310,7 @@ pajzsirigy betegség,pajzsirigy betegség
 pajzsmirigy -betegség,pajzsmirigy -betegség
 pajzsmirigy alul működés,pajzsmirigy alul működés
 pajzsmirigy alulmûködés,pajzsmirigy alulműködés
-pajzsmirigy alulmûködés.,pajzsmirigy alulműködés.
+pajzsmirigy alulmûködés.,pajzsmirigy alulműködés
 pajzsmirigy alulmûködése,pajzsmirigy alulműködése
 pajzsmirigy alulmüködés,pajzsmirigy alulmüködés
 pajzsmirigy alulműködés,pajzsmirigy alulműködés
@@ -3868,7 +3869,7 @@ szívbetegség cukorbetegség,szívbetegség cukorbetegség
 szívbetegség demencia,szívbetegség demencia
 szívbetegség szívelégtelenséggel,szívbetegség szívelégtelenséggel
 szívbetegség vesebetegség,szívbetegség vesebetegség
-szívbetegség.,szívbetegség.
+szívbetegség.,szívbetegség
 szívbetegség. magasvérnyomás-betegség,szívbetegség. magasvérnyomás-betegség
 szívbetegségek,szívbetegségek
 szívbetegég,szívbetegég
@@ -3916,7 +3917,7 @@ szívelégetelnség,szívelégetelnség
 szívelégtelenség,szívelégtelenség
 szívelégtelenség cukorbetegség,szívelégtelenség cukorbetegség
 szívelégtelenség nélküli szívbetegség,szívelégtelenség nélküli szívbetegség
-szívelégtelenség.,szívelégtelenség.
+szívelégtelenség.,szívelégtelenség
 szívelégtelenséggel,szívelégtelenséggel
 szívelégtelenég,szívelégtelenég
 szívelégtlenség,szívelégtlenség
@@ -4196,9 +4197,9 @@ történt),történt)
 túlsúly,túlsúly
 tûdõ daganat,tűdő daganat
 tûdõbetegség,tűdőbetegség
-tüd? másodlagos rosszindulatú daganata,tüd? másodlagos rosszindulatú daganata
-tüd?betegség,tüd?betegség
-tüd?gyulladás,tüd?gyulladás
+tüd? másodlagos rosszindulatú daganata,tüdő másodlagos rosszindulatú daganata
+tüd?betegség,tüdőbetegség
+tüd?gyulladás,tüdőgyulladás
 tüdembólia,tüdembólia
 tüdõ,tüdő
 tüdõ aspergillózis,tüdő aspergillózis
@@ -4243,7 +4244,7 @@ tüdõasthma,tüdőasthma
 tüdõasztma,tüdőasztma
 tüdõbetegsség,tüdőbetegsség
 tüdõbetegség,tüdőbetegség
-tüdõbetegség.,tüdőbetegség.
+tüdõbetegség.,tüdőbetegség
 tüdõbetegségek,tüdőbetegségek
 tüdõbeteség,tüdőbeteség
 tüdõbtegség,tüdőbtegség
@@ -4800,7 +4801,7 @@ zöldhályog,zöldhályog
 érelmeszesedés,érelmeszesedés
 érelmeszesedés  Parkinson-kór,érelmeszesedés  Parkinson-kór
 érelmeszesedés okozta szívbetegség,érelmeszesedés okozta szívbetegség
-érelmeszesedés.,érelmeszesedés.
+érelmeszesedés.,érelmeszesedés
 érelmeszesedéses szívbetegség,érelmeszesedéses szívbetegség
 érelmeszesedéss,érelmeszesedéss
 érelmeszesedéssel járó szív- és érrendszeri betegség,érelmeszesedéssel járó szív- és érrendszeri betegség
@@ -4826,7 +4827,7 @@ zöldhályog,zöldhályog
 érszegénység,érszegénység
 érszûkület,érszűkület
 érszûkület cukorbetegség,érszűkület cukorbetegség
-érszûkület.,érszűkület.
+érszûkület.,érszűkület
 érszûkületesség,érszűkületesség
 érszükület,érszükület
 érszürkület,érszürkület

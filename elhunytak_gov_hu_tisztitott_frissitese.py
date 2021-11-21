@@ -66,6 +66,7 @@ if __name__ == '__main__':
 
         sorszám, nem, kor, alapbetegségek = tábla[i]
         sorszám = int(sorszám)
+        tábla[i][0] = sorszám
 
         nem_cserélt = nem_csere.get(nem)
         if nem_cserélt is None:
@@ -81,7 +82,7 @@ if __name__ == '__main__':
                 _jav = "".join([alapbetegség_karakter_csere.get(c, c) for c in alapbetegség])
                 _a = alapbetegség_csere[alapbetegség] = f'??? {_jav}'
             alapbetegségek_külön_cserélt.append(_a)
-        tábla[i][3] = ', '.join(alapbetegségek_külön_cserélt)
+        tábla[i][3] = ', '.join(alapbetegségek_külön_cserélt).strip(" ,")
 
     with sor_csere_filepath.open('w', encoding='utf-8', newline='') as _f:
         csv.writer(_f).writerows([sor_csere[i] for i in sorted(sor_csere)])
