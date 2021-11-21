@@ -4509,7 +4509,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 4508,F,86,magas vérnyomás; szívbetegség; cukorbetegség
 4509,N,95,magas vérnyomás; krónikus veseelégtelenség; szívbetegség
 4510,N,65,magas vérnyomás; szívbetegség
-4511,N,75,magas vérnyomás; érszűkület
+4511,N,75,magas vérnyomás; érszűkület.
 4512,N,61,magas vérnyomás; cukorbetegség
 4513,F,86,magas vérnyomás
 4514,N,67,vese daganatos betegsége
@@ -4851,7 +4851,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 4850,F,75,demencia; magasvérnyomás-betegség
 4851,N,76,magasvérnyomás-betegség; cukorbetegség; veseelégtelenség; érszűkület
 4852,F,88,magas vérnyomás; krónikus veseelégtelenség
-4853,F,27,extrém elhízás; vészes vérszegénység; pancytopenia (csontvelő betegsége); hypercholesterinaemia
+4853,F,27,extrém elhízás; vészes vérszegénység; pancytopenia ( csontvelő betegsége); hypercholesterinaemia
 4854,N,88,magasvérnyomás-betegség; cukorbetegség; érelmeszesedés
 4855,N,89,depesszió; szorongásos zavarok
 4856,N,98,magasvérnymás-betegség; heveny veseelégtelenség
@@ -15448,7 +15448,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 15447,N,91,érelmeszesedés; magasvérnyomás-betegség; vérszegénység; vastagbél gyulladás
 15448,N,91,leukémia; magasvérnyomás-betegség; cukorbetegség
 15449,N,79,magasvérnyomás-betegség
-15450,N,68,végtagi ütőerek érelmeszesedése; magasvérnyomás-betegség; ütőérszűkület
+15450,N,68,végtagi ütőerek érelmeszesedése; magasvérnyomás-betegség; ütőérszükület
 15451,N,76,magasvérnyomás-betegség; cukorbetegség; veseelégtelenség
 15452,N,76,gyomorvérzés; prosztata daganat; tüdőbetegség; lábszárfekély
 15453,N,85,magasvérnyomás-betegség; méheltávolítás
@@ -19441,7 +19441,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 19440,N,75,agyvérzés
 19441,N,71,-NI-
 19442,N,83,magasvérnyomás-betegség; iszkémiás szívbetegség; agyvérzés
-19443,N,73,iszkémiás szívbetegség; agyvérzés; krónikus tüdőbetegség; magasvérnyomás-betegség
+19443,N,73,iszkémiás szívbetegség; agyvérzés; krónikus tüdőbetegség.; magasvérnyomás-betegség
 19444,N,62,koszorúér elmeszesedés
 19445,N,94,cukorbetegség; magasvérnyomás-betegség; skizofrénia
 19446,N,78,vérszegénység; demencia; Parkinson-kór; magasvérnyomás-betegség
@@ -19713,7 +19713,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 19712,N,81,Szívbetegség; szívinfarktus; érszűkület; stroke; vérszegénység; veseelégtelenség; magas vérnyomás; mitrális műbillentyű beültetés
 19713,N,73,magasvérnyomás-betegség; érelmeszesedés
 19714,N,83,magasvérnyomás-betegség; daganatos betegség; gyomorfekély
-19715,N,67,magasvérnyomás-betegség tüdőbetegség
+19715,N,67,Magasvérnyomás-betegség tüdőbetegség
 19716,N,86,magasvérnyomás-betegség; pitvarfibrilláció; cukorbetegség; veseelégtelenség; szívbetegség
 19717,N,68,magasvérnyomás-betegség; cukorbetegség; szívbetegség
 19718,N,81,Krónikus veseelégtelenség; szívbetegség; magasvérnyomás-betegség; cukorbetegség; pajzsmirigy betegség; csontritkulás
@@ -21652,7 +21652,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 21651,N,78,cukorbetegség; magas vérnyomás; iszkémiás szívbetegség; pajzsmirigy megbetegedés
 21652,N,70,magas vérnyomás; cukorbetegség; iszkémiás szívbetegség; alvási apnoe; pangásos szívelégtelenség
 21653,N,77,magas vérnyomás; régebben átmeneti keringészavar az agyban; csigolya-összeroppanás; agyér betegség; érszűkület
-21654,N,62,idült iszkémiás szívbetegség; cukorbetegség; idült obstruktív tüdőbetegség; magasvérnyomás-betegség
+21654,N,62,idült iszkémiás szívbetegség; cukorbetegség; idült obstruktív tüdőbetegség.; magasvérnyomás-betegség
 21655,N,71,magas vérnyomás; tüdőfibrózis
 21656,N,72,cukorbetegség
 21657,N,82,-NI-
@@ -25085,7 +25085,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 25084,N,72,magasvérnyomás-betegség; sav-bázis egyensúly egyéb zavarai
 25085,F,70,iszkémiás szívbetegség; magasvérnyomás-betegség; érszűkület; szívritmus szabályozóval élő személy
 25086,F,64,-NI-
-25087,N,79,magasvérnyomás-betegség; 2-es típusú cukorbetegség; Alzheimer demencia; szívritmuszavar; nyelőcső reflux; pajzsmirigy alulműködés
+25087,N,79,magasvérnyomás-betegség; 2-es típusú cukorbetegség; Alzheimer demencia; szívritmuszavar; nyelőcső reflux; pajzsmirigy alulműködés.
 25088,F,88,idült iszkémiás szívbetegség; cukorbetegség többszörös szövődményekkel
 25089,F,65,agyi infarktus
 25090,N,68,magasvérnyomás-betegség
@@ -26614,7 +26614,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 26613,N,69,-NI-
 26614,N,95,magasvérnyomás-betegség
 26615,N,94,általános érszűkület; magasvérnyomás-betegség; iszkémiás szívbetegség; agyi infarktus következményei
-26616,N,0.25,??? örökletes izombetegség - MLASA szindróma; mitokondriális izombántalom
+26616,N,0.25,örökletes izombetegség - MLASA szindróma; mitokondriális izombántalom
 26617,N,52,magasvérnyomás-betegség; magas vérlipid szint; agyérbetegség
 26618,N,75,magasvérnyomás-betegség; magas húgysavszint; krónikus veseelégtelenség
 26619,N,90,magasvérnyomás-betegség; agyi infarktus
@@ -29567,7 +29567,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 29566,F,62,epilepszia; tüdőbetegség; magasvérnyomás-betegség
 29567,F,81,magasvérnyomás-betegség; prosztatabetegség
 29568,N,84,magasvérnyomás-betegség; szívbetegség; skizofrénia
-29569,N,58,cukorbetegség; kóros elhízás; tüdőbetegség
+29569,N,58,cukorbetegség; kóros elhízás; tüdőbetegség.
 29570,F,84,magasvérnyomás-betegség; szívbetegség; reflux; áttétes daganatos megbetegedés
 29571,N,87,iszkémiás szívbetegség; krónikus veseelégtelenség; magasvérnyomás-betegség; szívritmuszavar
 29572,F,86,magasvérnyomás-betegség; Parkinson-kór
@@ -30088,7 +30088,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 30087,N,87,cukorbetegség; magasvérnyomás-betegség
 30088,N,65,magasvérnyomás-betegség; daganatos megbetegedés; epilepszia
 30089,N,82,daganatos megbetegedés
-30090,N,0.01,??? hirtelen csecsemőhalál
+30090,N,0.01,hirtelen csecsemőhalál
 30091,N,74,magasvérnyomás-betegség; gyomor és nyombélfekély; daganatos megbetegedés
 30092,N,72,stroke; spasztikus bénulás; epilepszia
 30093,N,81,iszkémiás szívbetegség; magas vérnyomás
@@ -31651,7 +31651,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 31650,N,75,magas vérnyomás; demencia
 31651,N,88,magas vérnyomás; cukorbetegség szövődményekkel
 31652,N,87,szívizom elégtelenség; magas vérnyomás; cukorbetegség
-31653,N,65,ütőérszűkület; magas vérnyomás; elhízás; cukorbetegség
+31653,N,65,ütőérszőkület; magas vérnyomás; elhízás; cukorbetegség
 31654,N,83,elhízás; agyi infarktus; szívelégtelenség
 31655,N,77,magas vérnyomás
 31656,N,70,cukorbetegség; magas vérnyomás; szívelégtelenség

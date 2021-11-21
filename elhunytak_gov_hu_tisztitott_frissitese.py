@@ -1,5 +1,6 @@
 import collections
 import csv
+import io
 import pathlib
 import re
 
@@ -7,20 +8,32 @@ FORRÁS_FILE = "elhunytak_gov_hu.csv"
 CÉL_FILE = "elhunytak_gov_hu_tisztitott.csv"
 SOR_CSERE_FILE = "elhunytak_gov_hu_sor_csere.csv"
 NEM_CSERE_FILE = "elhunytak_gov_hu_nem_csere.csv"
-ALAPBETEGSÉG_KARAKTER_CSERE_FILE = "elhunytak_gov_hu_alapbetegseg_karakter_csere.csv"
+KARAKTER_CSERE_FILE = "elhunytak_gov_hu_alapbetegseg_karakter_csere.csv"
 ALAPBETEGSÉG_CSERE_FILE = "elhunytak_gov_hu_alapbetegseg_csere.csv"
 
 if __name__ == '__main__':
+    karakter_csere_filepath = pathlib.Path(KARAKTER_CSERE_FILE)
+
     forrás_filepath = pathlib.Path(FORRÁS_FILE)
     cél_filepath = pathlib.Path(CÉL_FILE)
 
     sor_csere_filepath = pathlib.Path(SOR_CSERE_FILE)
     nem_csere_filepath = pathlib.Path(NEM_CSERE_FILE)
-    alapbetegség_karakter_csere_filepath = pathlib.Path(ALAPBETEGSÉG_KARAKTER_CSERE_FILE)
     alapbetegség_csere_filepath = pathlib.Path(ALAPBETEGSÉG_CSERE_FILE)
 
+    if karakter_csere_filepath.is_file():
+        with karakter_csere_filepath.open('r', encoding='utf-8', newline='') as _f:
+            karakter_csere = {erről: erre for erről, erre in csv.reader(_f)}
+    else:
+        karakter_csere = {}
+
     with forrás_filepath.open('r', encoding='utf-8', newline='') as _f:
-        tábla = list(csv.reader(_f))
+        forrás_text = _f.read()
+
+    for _erről, _erre in karakter_csere.items():
+        forrás_text = forrás_text.replace(_erről, _erre)
+
+    tábla = list(csv.reader(io.StringIO(forrás_text)))
 
     if sor_csere_filepath.is_file():
         with sor_csere_filepath.open('r', encoding='utf-8', newline='') as _f:
@@ -34,11 +47,7 @@ if __name__ == '__main__':
     else:
         nem_csere = {}
 
-    if alapbetegség_karakter_csere_filepath.is_file():
-        with alapbetegség_karakter_csere_filepath.open('r', encoding='utf-8', newline='') as _f:
-            alapbetegség_karakter_csere = {erről: erre for erről, erre in csv.reader(_f)}
-    else:
-        alapbetegség_karakter_csere = {}
+
 
     if alapbetegség_csere_filepath.is_file():
         with alapbetegség_csere_filepath.open('r', encoding='utf-8', newline='') as _f:
@@ -82,8 +91,7 @@ if __name__ == '__main__':
         for alapbetegség in alapbetegségek_külön:
             _a = alapbetegség_cserélt = alapbetegség_csere.get(alapbetegség)
             if alapbetegség_cserélt is None:
-                _jav = "".join([alapbetegség_karakter_csere.get(c, c) for c in alapbetegség])
-                _a = alapbetegség_csere[alapbetegség] = f'??? {_jav}'
+                _a = alapbetegség_csere[alapbetegség] = f'??? {alapbetegség}'
                 alapbetegség_csere_számláló[alapbetegség] = 1
             else:
                 try:
@@ -100,9 +108,9 @@ if __name__ == '__main__':
     with nem_csere_filepath.open('w', encoding='utf-8', newline='') as _f:
         csv.writer(_f).writerows([[erről, nem_csere[erről]] for erről in sorted(nem_csere)])
 
-    #for _a, _n in alapbetegség_csere_számláló.items():
-    #    if _n == 0:
-    #        del alapbetegség_csere[_a]
+    for _alapbetegség, _n in alapbetegség_csere_számláló.items():
+        if _n == 0:
+            del alapbetegség_csere[_alapbetegség]
 
     with alapbetegség_csere_filepath.open('w', encoding='utf-8', newline='') as _f:
         csv.writer(_f).writerows([[erről, alapbetegség_csere[erről]] for erről in sorted(alapbetegség_csere)])
