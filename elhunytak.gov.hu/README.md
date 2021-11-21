@@ -4,6 +4,9 @@ Elhunytak listája
 Az itt található adatoknak az alapja a magyar állam által a https://koronavirus.gov.hu/elhunytak
 weboldalon közzétett táblázat.
 
+> **Felhívás!**
+> Keresek olyan egészségügyi szakembert, aki az alapbetegségek egységesítésében szakmai segítséget tudna nyújtani.
+
 
 `elhunytak-hivatalos.csv`
 -------------------------
@@ -41,7 +44,3 @@ Itt találhatók azok a Python fájlok, amikkel az adatok frissíthetők.
 ----------------------
 A tisztításhoz használt segédtáblák, CSV formátumban.
 Ezek karbantartása emberi jelenlétet igényel.
-
-
-**Felhívás!**
-Keresek olyan egészségügyi szakembert, aki az alapbetegségek egységesítésében szakmai segítséget tudna nyújtani.
