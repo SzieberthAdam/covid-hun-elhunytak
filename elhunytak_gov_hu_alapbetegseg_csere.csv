@@ -47,7 +47,6 @@ Alzheimer-betegségben,Alzheimer-betegségben
 Alzheimer-demencia,Alzheimer-demencia
 Alzheimer-dementia,Alzheimer-dementia
 Alzheimer-kór,Alzheimer-kór
-Alzheimer-kór; demencia,Alzheimer-kór; demencia
 Alzhimer-kór,Alzhimer-kór
 Anderson-Tawil szindróma,Anderson-Tawil szindróma
 Anyagcserezavar,Anyagcserezavar
@@ -259,16 +258,16 @@ M. hypertonicus,M. hypertonicus
 MVT,MVT
 Magas koleszterin,Magas koleszterin
 Magas vérnyomás,Magas vérnyomás
-Magas vérnyomás betegség,Magas vérnyomás betegség
+Magas vérnyomás betegség,magasvérnyomás-betegség
 Magas vérnyomás.,Magas vérnyomás
-Magas vérnyomásbetegség,Magas vérnyomásbetegség
+Magas vérnyomásbetegség,magasvérnyomás-betegség
 Magas vérzsírszint,Magas vérzsírszint
 Magasa vérnyomás,Magasa vérnyomás
 Magasvérnyomás,Magasvérnyomás
-Magasvérnyomás betegség,Magasvérnyomás betegség
-Magasvérnyomás-betegség,Magasvérnyomás-betegség
-Magasvérnyomás-betegség (elsődleges),Magasvérnyomás-betegség (elsődleges)
-Magasvérnyomás-betegség tüdõbetegség,Magasvérnyomás-betegség tüdőbetegség
+Magasvérnyomás betegség,magasvérnyomás-betegség
+Magasvérnyomás-betegség,magasvérnyomás-betegség
+Magasvérnyomás-betegség (elsődleges),magasvérnyomás-betegség (elsődleges)
+Magasvérnyomás-betegség tüdõbetegség,magasvérnyomás-betegség tüdőbetegség
 Mallory-Weiss szindróma,Mallory-Weiss szindróma
 Mellüregi folyadékképzõdés,Mellüregi folyadékképződés
 Meniere-betegség,Meniere-betegség
@@ -513,7 +512,7 @@ agyi aneurizma,agyi aneurizma
 agyi artéria elzáródás,agyi artéria elzáródás
 agyi artéria elzáródása,agyi artéria elzáródása
 agyi artéria elzáródása és szûkülete,agyi artéria elzáródása és szűkülete
-agyi artériák elzáródása és sz?külete,??? agyi artériák elzáródása és sz?külete
+agyi artériák elzáródása és sz?külete,agyi artériák elzáródása és szűkülete
 agyi artériák elzáródása és szûkülete,agyi artériák elzáródása és szűkülete
 agyi artériák elzáródása és szűkülete,agyi artériák elzáródása és szűkülete
 agyi atrófia,agyi atrófia
@@ -738,7 +737,6 @@ alkoholos májcirrózis,alkoholos májcirrózis
 alkoholos májelégtelenség,alkoholos májelégtelenség
 alkoholos májkárosodás,alkoholos májkárosodás
 alkoholos májzsugor,alkoholos májzsugor
-alkoholos májzsugor; nyelőcső vénatágulat vérzés nélkül; sárgaság,alkoholos májzsugor; nyelőcső vénatágulat vérzés nélkül; sárgaság
 alkoholos májzsugorodás,alkoholos májzsugorodás
 alkoholos zsírmáj,alkoholos zsírmáj
 allergia,allergia
@@ -1512,7 +1510,6 @@ epeútkõ epeútgyulladással,epeútkő epeútgyulladással
 epilepsia,epilepsia
 epilepszia,epilepszia
 epilepszia miatti kezelés,epilepszia miatti kezelés
-epilepszia; agylágyulás,epilepszia; agylágyulás
 epilepsziás rohamok,epilepsziás rohamok
 epilepsziás rohamok miatt pszichiátriai gondozott,epilepsziás rohamok miatt pszichiátriai gondozott
 epilepszás rohamok,epilepszás rohamok
@@ -2754,8 +2751,7 @@ magas vérnyomás  amnesztikus szindróma,magas vérnyomás  amnesztikus szindr�
 magas vérnyomás  cukorbetegség,magas vérnyomás  cukorbetegség
 magas vérnyomás  kóros elhízás,magas vérnyomás  kóros elhízás
 magas vérnyomás a tüdõerekben,magas vérnyomás a tüdőerekben
-magas vérnyomás betegség,magas vérnyomás betegség
-magas vérnyomás betegség; krónikus veseelégtelenség; ritmusszabályzóval élő személy,magas vérnyomás betegség; krónikus veseelégtelenség; ritmusszabályzóval élő személy
+magas vérnyomás betegség,magasvérnyomás-betegség
 magas vérnyomás cukorbetegség,magas vérnyomás cukorbetegség
 magas vérnyomás eredetû szív- és vesebetegség,magas vérnyomás eredetű szív- és vesebetegség
 magas vérnyomás iszkémiás szívbetegség,magas vérnyomás iszkémiás szívbetegség
@@ -2769,7 +2765,7 @@ magas vérnyomás szövõdményekkel,magas vérnyomás szövődményekkel
 magas vérnyomás szövődményekkel,magas vérnyomás szövődményekkel
 magas vérnyomás és krónikus obstruktív tüdõbetegség,magas vérnyomás és krónikus obstruktív tüdőbetegség
 magas vérnyomás- betegség,magas vérnyomás- betegség
-magas vérnyomás-betegség,magas vérnyomás-betegség
+magas vérnyomás-betegség,magasvérnyomás-betegség
 magas vérnyomás.,magas vérnyomás
 magas vérnyomás. Cukorbetegség,magas vérnyomás. Cukorbetegség
 magas vérnyomás. cukorbetegség,magas vérnyomás. cukorbetegség
@@ -2779,7 +2775,7 @@ magas vérnyomás. iszkémiás szívelégtelenség,magas vérnyomás. iszkémiá
 magas vérnyomás. szívritmuszavar,magas vérnyomás. szívritmuszavar
 magas vérnyomás. vastagbéldaganat,magas vérnyomás. vastagbéldaganat
 magas vérnyomása,magas vérnyomása
-magas vérnyomásbetegség,magas vérnyomásbetegség
+magas vérnyomásbetegség,magasvérnyomás-betegség
 magas vérnyomásos szívbetegség,magas vérnyomásos szívbetegség
 magas vérnyomásos szívbetegség szívelégtelenség nélkül,magas vérnyomásos szívbetegség szívelégtelenség nélkül
 magas vérnyomásos szívtúltengés,magas vérnyomásos szívtúltengés
@@ -2787,7 +2783,6 @@ magas vérnyomés,magas vérnyomés
 magas vérrnyomás,magas vérrnyomás
 magas vérzsír,magas vérzsír
 magas vérzsír szint,magas vérzsír szint
-magas vérzsír szint; magas vérnyomás,magas vérzsír szint; magas vérnyomás
 magas vérzsír-szint,magas vérzsír-szint
 magas vérzsírszint,magas vérzsírszint
 magas vérzsírszint  szívbetegség,magas vérzsírszint  szívbetegség
@@ -2799,7 +2794,7 @@ magas zsírmennyiség a vérben,magas zsírmennyiség a vérben
 magas zsírszint a vérben,magas zsírszint a vérben
 magas-koleszterin,magas-koleszterin
 magas-vérnyomás,magas-vérnyomás
-magas-vérnyomás betegség,magas-vérnyomás betegség
+magas-vérnyomás betegség,magasvérnyomás-betegség
 magasv érnyomás,magasv érnyomás
 magasvényomás-betegség,magasvényomás-betegség
 magasvérnoymás-betegség,magasvérnoymás-betegség
@@ -2807,8 +2802,8 @@ magasvérnymás-betegség,magasvérnymás-betegség
 magasvérnyomás,magasvérnyomás
 magasvérnyomás  cukorbetegség,magasvérnyomás  cukorbetegség
 magasvérnyomás -betegség,magasvérnyomás -betegség
-magasvérnyomás betegség,magasvérnyomás betegség
-magasvérnyomás betegség. cukorbetegség,magasvérnyomás betegség. cukorbetegség
+magasvérnyomás betegség,magasvérnyomás-betegség
+magasvérnyomás betegség. cukorbetegség,magasvérnyomás-betegség. cukorbetegség
 magasvérnyomás megbetegedés,magasvérnyomás megbetegedés
 magasvérnyomás- betegség,magasvérnyomás- betegség
 magasvérnyomás-betegeség,magasvérnyomás-betegeség
@@ -2840,8 +2835,6 @@ magasvérnyomás-betegség. iszkémiás szívbetegség,magasvérnyomás-betegsé
 magasvérnyomás-betegség. pajzsmirigy-alulmûködés,magasvérnyomás-betegség. pajzsmirigy-alulműködés
 magasvérnyomás-betegség. szívmûtét,magasvérnyomás-betegség. szívműtét
 magasvérnyomás-betegség. érszûkület,magasvérnyomás-betegség. érszűkület
-magasvérnyomás-betegség; cukorbetegség,magasvérnyomás-betegség; cukorbetegség
-magasvérnyomás-betegség; prosztatabetegség,magasvérnyomás-betegség; prosztatabetegség
 magasvérnyomás-betegségi,magasvérnyomás-betegségi
 magasvérnyomás-betegéség,magasvérnyomás-betegéség
 magasvérnyomás-betgeség,magasvérnyomás-betgeség
@@ -3217,6 +3210,7 @@ nyelőcső daganat,nyelőcső daganat
 nyelőcső reflux,nyelőcső reflux
 nyelőcső rák,nyelőcső rák
 nyelőcső visszér,nyelőcső visszér
+nyelőcső vénatágulat vérzés nélkül,nyelőcső vénatágulat vérzés nélkül
 nyelőcsőbe terjedéssel,nyelőcsőbe terjedéssel
 nyelőcsőbetegség,nyelőcsőbetegség
 nyelőcsőtágulat,nyelőcsőtágulat

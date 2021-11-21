@@ -46,7 +46,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 45,N,82,"magas vérnyomás, combnyaktörés"
 46,N,84,"magas vérnyomás, traumás fejsérülés"
 47,N,92,"anyagcsere betegség, krónikus veseelégtelenség, daganatos betegség, szív- és érrendszeri betegség"
-48,N,74,"magas vérnyomás betegség, szívbetegség"
+48,N,74,"magasvérnyomás-betegség, szívbetegség"
 49,N,79,"magas vérnyomás, cukorbetegség"
 50,N,67,anyagcsere betegség
 51,N,78,"szív és érrendszeri megbetegedés, krónikus veseelégtelenség"
@@ -306,7 +306,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 305,N,77,"magas vérnyomás, cukorbetegség, szív és érrendszeri betegség"
 306,N,78,"krónikus pajzsmirigygyulladás, érelmeszesedés"
 307,N,84,"cukorbetegség, magas vérnyomás, szív és keringési betegség, demencia, veseelégtelenség, vérszegénység, érelmeszesedés, agyi leépülés"
-308,N,76,"agyi érelmeszesedés, magas vérnyomás betegség, 2-es típusú cukorbetegség, Parkinson-kór"
+308,N,76,"agyi érelmeszesedés, magasvérnyomás-betegség, 2-es típusú cukorbetegség, Parkinson-kór"
 309,N,87,"méhnyálkahártya rosszindulatú daganata, magas vérnyomás, pangásos szívelégtelenség"
 310,N,86,"magas vérnyomás, időskori demencia, pitvarfibrilláció, 2-es típusú cukorbetegség, idült iszkémiás szívbetegség"
 311,N,72,"Alzheimer-kór, idült iszkémiás szívbetegség"
@@ -658,7 +658,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 657,N,86,"Parkinson-kór, magas vérnyomás, csontritkulás, reflux, aorta műbillentyű"
 658,N,77,"Alzheimer-kór, emlőrák"
 659,N,72,COPD  krónikus obtruktív tüdőbetegség
-660,N,88,magas vérnyomás betegség; krónikus veseelégtelenség; ritmusszabályzóval élő személy
+660,N,88,"magasvérnyomás-betegség, krónikus veseelégtelenség, ritmusszabályzóval élő személy"
 661,N,86,"Parkinson-kór, cukorbetegség, aenemia"
 662,N,84,"tüdőgyulladás, stroke, magasvérnyomás-betegség, általános  atherosclerosis, idült ischaemiás szívbetegség"
 663,N,73,hólyagdaganat
@@ -697,7 +697,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 696,N,66,"magas vérnyomás, szívizomelhalás, tüdőgyulladás, cukorbetegség"
 697,N,48,"vírusos tüdőgyulladás, veseelégtelenség, iszkémiás szívbetegség, infarktus utáni állapot, kóros elhízás, inzulindependens cukorbetegség"
 698,N,69,"magas vérnyomás, veseelégtelenség, végbél tályog"
-699,N,67,alkoholos májzsugor; nyelőcső vénatágulat vérzés nélkül; sárgaság
+699,N,67,"alkoholos májzsugor, ??? nyelőcső vénatágulat vérzés nélkül, sárgaság"
 700,N,63,"cukorbetegség, diabéteszes neuropátia, részleges bénulás"
 701,N,61,"csigolyák gyermekkori csontosodási zavara, krónikus hörgőgyulladás, asztma, méh izomdaganat, magas vérnyomás, középsúlyos demencia, jobb emlő tumor"
 702,N,66,"mérsékelt elhízás, 2-es típusú, inzulinnal kezelt cukorbetegség, magas vérnyomás, koszorúérbetegség"
@@ -710,7 +710,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 709,N,80,"Alzheimer-kór, demencia, légmell"
 710,N,77,áttétes daganat
 711,N,69,vesesejtes daganat áttétekkel
-712,N,85,"Magasvérnyomás-betegség, nem-insulin-dependens cukorbetegség, vérszegénység, daganatos megbetegedés"
+712,N,85,"magasvérnyomás-betegség, nem-insulin-dependens cukorbetegség, vérszegénység, daganatos megbetegedés"
 713,N,57,-NI-
 714,N,75,-NI-
 715,N,90,"magas vérnyomás, nyelőcsővisszér, hasvízkór"
@@ -940,14 +940,14 @@ Sorszám,Nem,Kor,Alapbetegségek
 939,N,94,Szívritmus zavar
 940,N,63,"Szívelégtelenség, inzulin-dependens cukorbetegség"
 941,N,43,"Tüdőnagyobbodás, jobb oldali tüdőtályog, lépnagyobbodás"
-942,N,84,"Magasvérnyomás-betegség, iszkémiás szívbetegség"
-943,N,70,"Magasvérnyomás-betegség, demencia, cukorbetegség"
+942,N,84,"magasvérnyomás-betegség, iszkémiás szívbetegség"
+943,N,70,"magasvérnyomás-betegség, demencia, cukorbetegség"
 944,N,87,"Iszkémiás szívbetegség, végbél daganat"
 945,N,85,"Magas vérnyomás, veseelégtelenség"
 946,N,85,"Magas vérnyomás, Alzheimer-kór"
-947,N,96,"Magasvérnyomás-betegség, COPD, szívelégtelenség"
+947,N,96,"magasvérnyomás-betegség, COPD, szívelégtelenség"
 948,N,68,"Magas vérnyomás, extrém elhízás, COPD"
-949,N,76,"Magas vérnyomás betegség, krónikus veseelégtelenség, elhízás, agyi infarktus, érszűkület, hasfali sérv"
+949,N,76,"magasvérnyomás-betegség, krónikus veseelégtelenség, elhízás, agyi infarktus, érszűkület, hasfali sérv"
 950,N,69,"Tüdőgyulladás, hörgőasztma, magas vérnyomás, cukorbetegség, reuma, pajzsmirigy alulműködés"
 951,N,82,"Magas vérnyomás, iszkémiás szívbetegség, cukorbetegség, pajzsmirigy alulműködés, többszörös idegkárosodás"
 952,N,71,"Magas vérnyomás, hörgőasztma, COPD, pulmonális embólia, érbetegség"
@@ -1012,7 +1012,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 1011,N,88,"idült obstruktív tüdőbetegség, krónikus veseelégtelenség, szívelégtelenség"
 1012,N,68,"magas vérnyomás, reflux, arcizombénulás"
 1013,N,71,"rekeszsérv, reflux, tüdőtágulat, Alzheimer-kór"
-1014,N,92,"magas vérnyomás betegség, prosztata jóindulatú daganata, rekeszsérv, nem-meghatározott demencia"
+1014,N,92,"magasvérnyomás-betegség, prosztata jóindulatú daganata, rekeszsérv, nem-meghatározott demencia"
 1015,N,73,"baktérium okozta fertőzés, tüdőgyulladás, krónikus veseelégtelenség, keringési elégtelenség"
 1016,N,85,"tüdőgyulladás, magasvérnyomás-betegség, nem-meghatározott demencia, prosztata túltengés"
 1017,N,78,"magasvérnyomás-betegség, Alzheimer-kór, légzési elégtelenség, szívelégtelenség"
@@ -1032,7 +1032,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 1031,N,89,"magas vérnyomás, pajzsmirigy túlműködés, tüdőgyulladás"
 1032,N,71,"magas vérnyomás, szívbetegség"
 1033,N,65,"magas vérnyomás, krónikus veseelégtelenség"
-1034,N,88,"cukorbetegség, szívritmuszavar, magas vérnyomás betegség, húgyhólyag daganat"
+1034,N,88,"cukorbetegség, szívritmuszavar, magasvérnyomás-betegség, húgyhólyag daganat"
 1035,N,81,"tüdőgyulladás, szívmegállás, pangásos szívelégtelenség, magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség"
 1036,N,76,"vérszegénység, magas vérnyomás"
 1037,N,60,"vírusos tüdőgyulladás, idült tüdőbetegség"
@@ -1216,7 +1216,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 1215,N,83,"pitvarfibrilláció érszűkület, pajzsmirigy alulműködés, cukorbetegség"
 1216,N,86,"veseelégtelenség, magas vérnyomás, szívbetegség"
 1217,N,70,"cukorbetegség, magas vérnyomás, vesebetegség, agyvérzés"
-1218,N,73,"magas vérnyomás betegség, vese transzplantáció, szívbetegség, pajzsmirigy alulműködés"
+1218,N,73,"magasvérnyomás-betegség, vese transzplantáció, szívbetegség, pajzsmirigy alulműködés"
 1219,N,69,"magas vérnyomás, asthma, veseelégtelenség, iszkémiás szívbetegség, krónikus hepatitis B fertőzés, vesetranszplantáció"
 1220,N,58,"pajzsmirigy megnagyobbodás, infarktus"
 1221,N,89,"magas vérnyomás, demencia"
@@ -1230,7 +1230,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 1229,N,89,általános érelmeszesedés
 1230,N,73,"magas vérnyomás, iszkémiás szívbetegség, pitvarfibrilláció"
 1231,N,60,"vérmérgezés, szívritmuszavar"
-1232,N,86,"magas vérnyomás betegség, cukorbetegség, szívbetegség"
+1232,N,86,"magasvérnyomás-betegség, cukorbetegség, szívbetegség"
 1233,N,86,"szívritmus-zavar, magas vérnyomás, időskori leépülés"
 1234,N,94,"magas vérnyomás, demencia"
 1235,N,75,"magas vérnyomás, nem inzulin dependens cukorbetegség, demencia"
@@ -1305,9 +1305,9 @@ Sorszám,Nem,Kor,Alapbetegségek
 1304,N,91,"krónikus veseelégtelenség, pangásos szívelégtelenség"
 1305,N,88,szívelégtelenség
 1306,N,65,"Chron betegség, tüdőembolia, tüdőgyulladás"
-1307,N,66,"Magasvérnyomás-betegség, cukorbetegség"
-1308,N,60,"Magasvérnyomás-betegség, cukorbetegség, fekélyes vakbélgyulladás"
-1309,N,83,Magasvérnyomás-betegség
+1307,N,66,"magasvérnyomás-betegség, cukorbetegség"
+1308,N,60,"magasvérnyomás-betegség, cukorbetegség, fekélyes vakbélgyulladás"
+1309,N,83,magasvérnyomás-betegség
 1310,N,78,"Tűdőgyulladás, magasvérnyomás-betegség, keringési- és légzési elégtelenség"
 1311,N,80,"cukorbetegség, krónikus tüdőbetegség, magas vérnyomás"
 1312,N,77,"Végbélgyulladás, cukorbetegség, tüdőgyulladás"
@@ -1317,18 +1317,18 @@ Sorszám,Nem,Kor,Alapbetegségek
 1316,N,95,szív és érrendszeri betegség
 1317,N,76,"magasvérnyomás-betegség, köszvény, demencia, cukorbetegség"
 1318,N,80,"magas vérnyomás, heveny szívbetegség"
-1319,N,77,Magasvérnyomás-betegség
+1319,N,77,magasvérnyomás-betegség
 1320,N,93,"szív és érrendszeri betegség, keringési rendellenesség"
 1321,N,83,"agyi érszűkület, agysorvadás"
-1322,N,86,"Magasvérnyomás-betegség, csontritkulás"
+1322,N,86,"magasvérnyomás-betegség, csontritkulás"
 1323,N,76,"szívritmuszavar, szívinfarktus, magasvérnyomás-betegség"
 1324,N,80,"Idült ischaemiás szívbetegség, Krónikus veseelégtelenség, Insulin-dependens cukorbetegség"
 1325,N,88,"Vérszegénység, magasvérnyomás-betegség, hugyuti fertőzés"
-1326,N,86,"Magasvérnyomás-betegség, cukorbetegség, szívbetegség"
+1326,N,86,"magasvérnyomás-betegség, cukorbetegség, szívbetegség"
 1327,N,79,"Magas vérnyomás, cukorbetegség, idült ischaemiás szívbetegség"
 1328,N,94,"Magas vérnyomás, cukorbetegség, idült ischaemiás szívbetegség, pajzsmirigy betegség, Parkinson kór"
 1329,N,33,"Epilepszia, mentális betegség"
-1330,N,84,"Magasvérnyomás-betegség, általános érelmeszesedés"
+1330,N,84,"magasvérnyomás-betegség, általános érelmeszesedés"
 1331,N,85,"Krónikus légzési elégtelenség, agyi infarktus következményei, általánosult érelmeszesedés"
 1332,N,93,Agy nem megfelelő vérellátása
 1333,N,82,"Magas vérnyomás, vérszegénység"
@@ -1338,7 +1338,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 1337,N,96,"magasvérnyomás-betegség, szívritmuszavar, szívelégtelenség"
 1338,N,85,"húgyhólyag tumor, hypertenzió, pitvarfibrilláció"
 1339,N,71,"Magas vérnyomás, krónikus beszűkült veseműködés"
-1340,N,82,Magasvérnyomás-betegség
+1340,N,82,magasvérnyomás-betegség
 1341,N,84,"magas vérnyomás, szívbetegség"
 1342,N,84,"magasvérnyomás-betegség, keringési zavar"
 1343,N,79,"magasvérnyomás-betegség, általános érelmeszesedés, tüdőembólia"
@@ -1350,7 +1350,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 1349,N,81,"Krónikus veseelégtelenség, cukorbetegség, szívelégtelenség"
 1350,N,59,"Bél rosszindulatú daganata, hashártya rosszindulatú daganata, daganatos senyvedés, tüdőgyulladás"
 1351,N,62,"Cukorbetegség, végbélrák, májrák, tüdőgyulladás"
-1352,N,71,"Magasvérnyomás-betegség, iszkémiás szívbetegség"
+1352,N,71,"magasvérnyomás-betegség, iszkémiás szívbetegség"
 1353,N,79,"magas vérnyomás, cukorbetegség, krónikus veseelégtelenség"
 1354,N,59,
 1355,N,88,"magas vérnyomás, szívizombántalom, érelmeszesedés, szívbillentyű rendellenesség, rekeszsérv, demencia"
@@ -1492,48 +1492,48 @@ Sorszám,Nem,Kor,Alapbetegségek
 1491,N,65,"cukorbetegség, tüdőembólia"
 1492,N,63,"magas vérnyomás, krónikus tüdőgyulladás cukorbetegség"
 1493,N,88,"Parkinson-kór, prosztata megnagyobbodás, epilepszia, demencia"
-1494,N,73,"plazmasejtek daganatos megbetegedése, akut veseelégtelenség, magasvérnyomás betegség"
-1495,N,62,magasvérnyomás betegség
+1494,N,73,"plazmasejtek daganatos megbetegedése, akut veseelégtelenség, magasvérnyomás-betegség"
+1495,N,62,magasvérnyomás-betegség
 1496,N,75,áttétes tüdő tumor
 1497,N,66,rosszindulatú végbéldaganat
-1498,N,88,"magasvérnyomás betegség, cukorbetegség"
-1499,N,79,"magasvérnyomás betegség, krónikus veseelégtelenség, szívelégtelenség"
-1500,N,85,"magasvérnyomás betegség, cukorbetegség, iszkémiás szívbetegség"
-1501,N,85,"iszkémiás szívbetegség, magasvérnyomás betegség, veseelégtelenség"
+1498,N,88,"magasvérnyomás-betegség, cukorbetegség"
+1499,N,79,"magasvérnyomás-betegség, krónikus veseelégtelenség, szívelégtelenség"
+1500,N,85,"magasvérnyomás-betegség, cukorbetegség, iszkémiás szívbetegség"
+1501,N,85,"iszkémiás szívbetegség, magasvérnyomás-betegség, veseelégtelenség"
 1502,N,64,"csontritkulás, combfejelhalás, csigolyatörés"
-1503,N,68,"iszkémiás szívbetegség, magasvérnyomás betegség, pajzsmirigy alulműködés"
+1503,N,68,"iszkémiás szívbetegség, magasvérnyomás-betegség, pajzsmirigy alulműködés"
 1504,N,89,"paranoid skizofrénia, Little-kór"
-1505,N,75,"magasvérnyomás betegség, veseelégtelenség"
-1506,N,73,"magasvérnyomás betegség, cukorbetegség, krónikus obstruktív tüdőbetegség"
-1507,N,80,"magasvérnyomás betegség, cukorbetegség, generalizált érbeteg, vastagbélrák"
+1505,N,75,"magasvérnyomás-betegség, veseelégtelenség"
+1506,N,73,"magasvérnyomás-betegség, cukorbetegség, krónikus obstruktív tüdőbetegség"
+1507,N,80,"magasvérnyomás-betegség, cukorbetegség, generalizált érbeteg, vastagbélrák"
 1508,N,68,"krónikus veseelégtelenség, érelmeszesedés, éreredetű demencia"
-1509,N,89,"magasvérnyomás betegség, tüdőgyulladás, agyi infarktus"
-1510,N,87,"szívelégtelenség, magasvérnyomás betegség, tüdőtágulat, pajzsmirigy alulműködés"
-1511,N,89,"magasvérnyomás betegség, cukorbetegség, emlődaganat"
-1512,N,61,"magasvérnyomás betegség, demencia"
-1513,N,74,"iszkémiás szívbetegség, cukorbetegség, magasvérnyomás betegség, szívelégtelenség"
+1509,N,89,"magasvérnyomás-betegség, tüdőgyulladás, agyi infarktus"
+1510,N,87,"szívelégtelenség, magasvérnyomás-betegség, tüdőtágulat, pajzsmirigy alulműködés"
+1511,N,89,"magasvérnyomás-betegség, cukorbetegség, emlődaganat"
+1512,N,61,"magasvérnyomás-betegség, demencia"
+1513,N,74,"iszkémiás szívbetegség, cukorbetegség, magasvérnyomás-betegség, szívelégtelenség"
 1514,N,87,"pajzsmirigy krónikus gyulladása, ischaemiás szívbetegség, érelmeszesedés, pangásos szívelégtelenség"
-1515,N,81,"cukorbetegség, magasvérnyomás betegség"
-1516,N,87,"magasvérnyomás betegség, szívelégtelenség, hashártyagyulladás"
-1517,N,87,"magasvérnyomás betegség, iszkémiás szívbetegség, agyi infarktus"
-1518,N,85,"magasvérnyomás betegség, májelégtelenség"
-1519,N,81,"magasvérnyomás betegség, iszkémiás szívbetegség"
-1520,N,61,"magasvérnyomás betegség, pitvari fibrilláció, cukorbetegség"
-1521,N,49,"agyi infarktus, ált. érelmeszesedés, magasvérnyomás betegség, szívbetegség"
-1522,N,65,"magasvérnyomás betegség, szívbetegség, asztma, krónikus tüdőbetegség"
-1523,N,69,magasvérnyomás betegség
+1515,N,81,"cukorbetegség, magasvérnyomás-betegség"
+1516,N,87,"magasvérnyomás-betegség, szívelégtelenség, hashártyagyulladás"
+1517,N,87,"magasvérnyomás-betegség, iszkémiás szívbetegség, agyi infarktus"
+1518,N,85,"magasvérnyomás-betegség, májelégtelenség"
+1519,N,81,"magasvérnyomás-betegség, iszkémiás szívbetegség"
+1520,N,61,"magasvérnyomás-betegség, pitvari fibrilláció, cukorbetegség"
+1521,N,49,"agyi infarktus, ált. érelmeszesedés, magasvérnyomás-betegség, szívbetegség"
+1522,N,65,"magasvérnyomás-betegség, szívbetegség, asztma, krónikus tüdőbetegség"
+1523,N,69,magasvérnyomás-betegség
 1524,N,79,"cukorbetegség, szívelégtelenség, tüdőembólia"
-1525,N,83,magasvérnyomás betegség
-1526,N,62,magasvérnyomás betegség
-1527,N,88,"magasvérnyomás betegség, demencia"
+1525,N,83,magasvérnyomás-betegség
+1526,N,62,magasvérnyomás-betegség
+1527,N,88,"magasvérnyomás-betegség, demencia"
 1528,N,77,"tüdőgyulladás, Parkinson-kór, demencia"
 1529,N,80,"szívelégtelenség, prosztata rosszindulatú daganata, veseelégtelenség, demencia, pitvarfibrilláció"
-1530,N,67,"magasvérnyomás betegség, érelmeszesedés, infarktus"
-1531,N,64,"magasvérnyomás betegség, depresszió, májelégtelenség"
-1532,N,90,"magasvérnyomás betegség, végbél daganat krónikus veseelégtelenség"
+1530,N,67,"magasvérnyomás-betegség, érelmeszesedés, infarktus"
+1531,N,64,"magasvérnyomás-betegség, depresszió, májelégtelenség"
+1532,N,90,"magasvérnyomás-betegség, végbél daganat krónikus veseelégtelenség"
 1533,N,81,húgyhólyagtumor
-1534,N,90,"magasvérnyomás betegség, cukorbetegség, asztma"
-1535,N,82,"magasvérnyomás betegség, visszértágulat, szívizomelhalás"
+1534,N,90,"magasvérnyomás-betegség, cukorbetegség, asztma"
+1535,N,82,"magasvérnyomás-betegség, visszértágulat, szívizomelhalás"
 1536,N,63,"magas vérnyomás, idült iszkémiás szívbetegség, cukorbetegség"
 1537,N,67,"vírusos tüdőgyulladás, légzési elégtelenség"
 1538,N,90,"cukorbetegség, magas vérnyomás, demencia, hátsófali infarktus"
@@ -1576,7 +1576,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 1575,N,79,"magas vérnyomás, iszkémiás szívbetegség, krónikus veseelégtelenség, szívritmuszavar"
 1576,N,67,"magas vérnyomás, cukorbetegség, skizofrénia"
 1577,N,72,"magas vérnyomás, cukorbetegség"
-1578,N,70,"magas vérnyomás betegség, Parkinson-kór, iszkémiás szívbetegség"
+1578,N,70,"magasvérnyomás-betegség, Parkinson-kór, iszkémiás szívbetegség"
 1579,N,86,"magas vérnyomás, szívelégtelenség"
 1580,N,62,"asztma, elzáródásos érbetegség"
 1581,N,91,"érelmeszesedés, agykárosodás, veseelégtelenség, magas vérnyomás, demencia, alultápláltság"
@@ -1716,7 +1716,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 1715,N,89,"Demencia, magas vérnyomás"
 1716,N,89,"Magas vérnyomás, szívinfarktus, idült ischaemiás szívbetegség, szívritmuszavar, krónikus tüdőbetegség"
 1717,N,95,"Demencia, pajzsmirigy alulműködés, magas vérnyomás, nyelőcső reflux, magas vérzsír szint, Ischaemiás szívbetegség"
-1718,N,83,"Magasvérnyomás-betegség, Idült iszkémiás szívbetegség"
+1718,N,83,"magasvérnyomás-betegség, Idült iszkémiás szívbetegség"
 1719,N,71,"Magas vérnyomás, áttétes daganatos betegségek, érszűkület"
 1720,N,88,"Iszkémiás szívbetegség, súlyos perifériás érbetegség, csontritkulás, kompressziós csigolyatörés"
 1721,N,67,
@@ -1724,7 +1724,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 1723,N,68,"Magas vérnyomás, cukorbetegség, daganatos megbetegedés áttéttel"
 1724,N,88,"Iszkémiás szívbetegség, magas vérnyomás"
 1725,N,78,Demencia
-1726,N,76,"Magasvérnyomás-betegség, Idült ischaemiás szívbetegség"
+1726,N,76,"magasvérnyomás-betegség, Idült ischaemiás szívbetegség"
 1727,N,65,"Krónikus veselégtelenség, májbetegség, hörgőasztma, magas vérnyomás"
 1728,N,74,"Magas vérnyomás, szívinfarktus, krónikus tüdőbetegség"
 1729,N,66,Magas vérnyomás
@@ -1831,7 +1831,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 1830,N,87,"agyi keringészavar, magas vérnyomás"
 1831,N,84,"Parkinson-kór, magas vérnyomás, tüdőgyulladás"
 1832,N,79,"magas vérnyomás, szívinfarktus, szívritmuszavar, súlyos szívbillentyű elégtelenség"
-1833,N,78,"magas vérnyomás betegség, szívelégtelenség, Parkinson-kór"
+1833,N,78,"magasvérnyomás-betegség, szívelégtelenség, Parkinson-kór"
 1834,N,71,"magas vérnyomás, nyelőcső reflux, agyi bénulás"
 1835,N,73,"magas vérnyomás, tüdőgyulladás"
 1836,N,76,"magas vérnyomás, tüdőembólia, iszkémiás szívbetegség"
@@ -1971,7 +1971,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 1970,N,60,"magas vérnyomás, cukorbetegség, COPD"
 1971,N,85,"érszűkület, demencia, magas vérnyomás, iszkémiás szívbetegség, csontritkulás"
 1972,N,66,tüdőtumor
-1973,N,74,"agyvérzés, pajzsmirigy alulműködés, magas vérnyomás betegség"
+1973,N,74,"agyvérzés, pajzsmirigy alulműködés, magasvérnyomás-betegség"
 1974,N,84,"gyomor daganatos megbetegedése, asztma"
 1975,N,99,"magas vérnyomás, cukorbetegség"
 1976,N,67,"szívbetegség, pajzsmirigy betegség"
@@ -2991,7 +2991,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 2990,N,78,"szívelégtelenség, magas vérnyomás"
 2991,N,95,
 2992,N,89,"demencia, érelmeszesedés, iszkémiás szívbetegség, szívelégtelenség"
-2993,N,59,"érelmeszesedés, ütőérszűkület, magasvérnyomás betegség, iszkémiás szívbetegség, szívelégtelenség, veseelégtelenség"
+2993,N,59,"érelmeszesedés, ütőérszűkület, magasvérnyomás-betegség, iszkémiás szívbetegség, szívelégtelenség, veseelégtelenség"
 2994,N,82,"magas vérnyomás, iszkémiás szívbetegség, pitvarfibrilláció, krónikus tüdőbetegség"
 2995,N,69,"magas vérnyomás, iszkémiás szívbetegség"
 2996,N,79,"magas vérnyomás, cukorbetegség, vérszegénység"
@@ -3382,7 +3382,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 3381,F,86,"magas vérnyomás, krónikus veseelégtelenség, demencia"
 3382,N,76,"magas vérnyomás, iszkémiás szívbetegség, érszűkület"
 3383,F,92,"magasv érnyomás, Frailty-szindróma"
-3384,F,84,"magas vérnyomás betegség, cukorbetegség, krónikus veseelégtelenség"
+3384,F,84,"magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség"
 3385,F,67,cukorbetegség
 3386,N,68,magas vérnyomás
 3387,N,68,"magas vérnyomás, pajzsmirigy-alulműködés, krónikus vesebetegség, mielóma multiplex, alacsony vérlemezkeszám"
@@ -3419,7 +3419,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 3418,F,64,"szívbetegség, elhízás"
 3419,F,83,"magas vérnyomás, obstruktív tüdőbetegség, béldaganat"
 3420,F,82,"magas vérnyomás, asztma, krónikus veseelégtelenség"
-3421,N,66,"magas vérnyomás betegség, nem inzulindependens cukorbetegség, kóros elhízás"
+3421,N,66,"magasvérnyomás-betegség, nem inzulindependens cukorbetegség, kóros elhízás"
 3422,N,66,"cukorbetegség, krónikus veseelégtelenség, koszorúér szűkület"
 3423,N,90,"magas vérnyomás, cukorbetegség, légszomj, emelkedett vérzsírszint, koszorúérgörcs, agyi infarktus, refluxbetegség"
 3424,N,92,"magas vérnyomás, iszkémiás szívbetegség"
@@ -3461,7 +3461,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 3460,N,84,"iszkémiás szívbetegség, magas vérnyomás"
 3461,F,65,"leukémia, magas vérnyomás"
 3462,N,47,"elhízás, iszkémiás szívbetegség, hörghurut"
-3463,F,72,"magas vérnyomás betegség, veseelégtelenség, vastagbéldaganat"
+3463,F,72,"magasvérnyomás-betegség, veseelégtelenség, vastagbéldaganat"
 3464,N,53,sclerosis multiplex
 3465,F,70,"demencia, obstruktív tüdőbetegség"
 3466,F,73,"magasvérnyomás-betegség, szívbetegség, pajzsmirigy-alulműködés, Parkinson-kór"
@@ -3492,7 +3492,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 3491,F,67,
 3492,F,62,
 3493,F,89,"magas vérnyomás, iszkémiás szívbetegség"
-3494,N,84,"magas vérnyomás betegség, cukorbetegség, daganatos megbetegedés"
+3494,N,84,"magasvérnyomás-betegség, cukorbetegség, daganatos megbetegedés"
 3495,N,75,"magas vérnyomás, asztma"
 3496,N,86,"magas vérnyomás, krónikus veseelégtelenség"
 3497,N,84,"magas vérnyomás, mélyvénás trombózis"
@@ -3508,14 +3508,14 @@ Sorszám,Nem,Kor,Alapbetegségek
 3507,N,88,
 3508,N,80,
 3509,F,78,"krónikus veseelégtelenség, krónikus obstruktív tüdőbetegség, szívritmuszavar"
-3510,F,72,"magas vérnyomás betegség, szívelégtelenség, krónikus obstruktív tüdőbetegség"
+3510,F,72,"magasvérnyomás-betegség, szívelégtelenség, krónikus obstruktív tüdőbetegség"
 3511,F,73,
 3512,F,73,
 3513,N,49,daganatos megbetegedés áttéttel
 3514,N,75,"magas vérnyomás, tüdőbetegség, cukorbetegség"
 3515,F,63,
-3516,N,58,"magas vérnyomás betegség, cukorbetegség, szívelégtelenség, tüdőembólia"
-3517,N,68,"magas vérnyomás betegség, krónikus obstruktív tüdőbetegség, nyelőcsőreflux"
+3516,N,58,"magasvérnyomás-betegség, cukorbetegség, szívelégtelenség, tüdőembólia"
+3517,N,68,"magasvérnyomás-betegség, krónikus obstruktív tüdőbetegség, nyelőcsőreflux"
 3518,N,77,"iszkémiás szívbetegség, szívritmuszavar"
 3519,F,74,cukorbetegség
 3520,F,82,"krónikus obstruktív tüdőbetegség, szívbetegség"
@@ -3535,7 +3535,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 3534,F,74,
 3535,F,79,"magas vérnyomás, pajzsmirigy alulműködés, demencia, iszkémiás szívbetegség"
 3536,F,68,daganatos megbetegedés
-3537,N,72,"magas vérnyomás betegség, cukorbetegség, koszorúér meszesedés"
+3537,N,72,"magasvérnyomás-betegség, cukorbetegség, koszorúér meszesedés"
 3538,N,82,"magas vérnyomás, cukorbetegség, érelmeszesedés, szívelégtelenség, krónikus veseelégtelenség, krónikus obstruktív tüdőbetegség"
 3539,N,67,"cukorbetegség, magas vérnyomás"
 3540,F,72,cukorbetegség
@@ -3565,7 +3565,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 3564,F,75,"magas vérnyomás, cukorbetegség"
 3565,N,86,"magas vérnyomás, TBC, stroke"
 3566,N,84,"szívelégtelenség, magas vérnyomás"
-3567,F,73,"magas vérnyomás betegség, epilepszia, reflux"
+3567,F,73,"magasvérnyomás-betegség, epilepszia, reflux"
 3568,F,78,"magas vérnyomás, cukorbetegség, iszkémiás szívbetegség, pitvarfibrilláció"
 3569,N,81,"Magas vérnyomás, Parkinson-kór"
 3570,N,95,"Szívbetegség, Parkinson-kór"
@@ -3604,7 +3604,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 3603,N,70,"Szívizomelégtelenség, magas vérnyomás, cukorbetegség (inzulinnal kezelt)"
 3604,N,69,"Magas vérnyomás, cukorbetegség súlyos szövődményekkel"
 3605,N,65,
-3606,N,65,"Magasvérnyomás-betegség (elsődleges), cukorbetegség perifériás keringési szövődményekkel"
+3606,N,65,"magasvérnyomás-betegség (elsődleges), cukorbetegség perifériás keringési szövődményekkel"
 3607,N,88,"Agyban áttétes tüdőrák, magas vérnyomás"
 3608,N,70,"Szívizom elégtelenség, demencia, magas vérnyomás, pangásos szívelégtelenség"
 3609,N,79,"Magas vérnyomás, pitvarfibrilláció"
@@ -4017,7 +4017,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 4016,N,76,"magasvérnyomás-betegség, pajzsmirigy túlműködés"
 4017,N,80,"pajzsmirigy túlműködés, szívizom vérellátásának zavara, demencia, magasvérnyomás-betegség, szívritmuszavar"
 4018,N,83,"magasvérnyomás-betegség, vakbél rosszindulatú daganata"
-4019,N,83,"kóros elhízás, cukorbetegség, stroke, szívritmuszavar, magasvérnyomás betegség"
+4019,N,83,"kóros elhízás, cukorbetegség, stroke, szívritmuszavar, magasvérnyomás-betegség"
 4020,F,65,"magasvérnyomás-betegség, szívizomgyulladás"
 4021,F,55,"skizofrénia, mentális retardáció, magasvérnyomás-betegség"
 4022,F,91,"cukorbetegség, magas vérnyomás, tüdőbetegség, szívelégtelenség"
@@ -5190,7 +5190,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 5189,N,89,"magasvérnyomás-betegség, cukorbetegség, érelmeszesedés, agykárosodás"
 5190,N,65,"alsó végtagi érelzáródás, magas vérnyomás, iszkémiás szívbetegség"
 5191,N,82,"pangásos szívelégtelenség, agyinfarktus, magasvérnyomás-betegség"
-5192,F,60,"magasvérnyomás-betegség; cukorbetegség, bélpolip"
+5192,F,60,"magasvérnyomás-betegség, cukorbetegség, bélpolip"
 5193,N,73,"magasvérnyomás-betegség, pajzsmirigy-alulműködés, cukorbetegség"
 5194,F,57,-NI-
 5195,N,78,-NI-
@@ -5208,7 +5208,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 5207,N,78,"magasvérnyomás-betegség, mélyvénás trombózis, köpenysejtes limfóma, epilepszia"
 5208,N,77,"krónikus obstruktív tüdőbetegség, magasvérnyomás-betegség"
 5209,N,31,elhízás
-5210,F,71,"tüdődaganat, mellhártya-daganata, magasvérnyomás betegség, cukorbetegség, perifériás érszűkület"
+5210,F,71,"tüdődaganat, mellhártya-daganata, magasvérnyomás-betegség, cukorbetegség, perifériás érszűkület"
 5211,N,80,daganatos megbetegedés
 5212,N,82,szívelégtelenség
 5213,F,75,"magasvérnyomás-betegség, cukorbetegség"
@@ -5297,11 +5297,11 @@ Sorszám,Nem,Kor,Alapbetegségek
 5296,N,92,magasvérnyomás-betegség
 5297,N,89,"daganatos megbetegedés, magasvérnyomás-betegség, Parkinson-kór, érelmeszesedés, krónikus koronáriabetegség, tüdő daganat"
 5298,N,81,"cukorbetegség, magasvérnyomás-betegség, érelmeszesedés, pitvarfibrilláció, szívelégtelenség, tüdőtágulat, krónikus veseelégtelenség"
-5299,N,91,"agyérmeszesedés, demencia, magas vérnyomásbetegség"
+5299,N,91,"agyérmeszesedés, demencia, magasvérnyomás-betegség"
 5300,N,63,"tüdőgyulladás. magasvérnyomás-betegség, tüdőtágulat, magasvérnyomás-betegség"
 5301,N,92,"agyérelmeszedés, idült agylágyulás, Parkinson-kór, magasvérnyomás-betegség"
 5302,N,65,"szívritmuszavar, cukorbetegség, tüdőtágulat, magasvérnyomás-betegség, májmegnagyobbodás"
-5303,N,60,"agyállományi vérzés, magasvérnyomás betegség"
+5303,N,60,"agyállományi vérzés, magasvérnyomás-betegség"
 5304,F,72,"magasvérnyomás-betegség, pitvarfibrilláció, súlyos krónikus obstruktív tüdőbetegség"
 5305,N,80,"magasvérnyomás-betegség, agyi infarktus, pitvarfibrilláció"
 5306,F,64,epilepszia
@@ -5348,7 +5348,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 5347,F,78,"cukorbetegség, magasvérnyomás-betegség"
 5348,F,65,daganatos megbetegedés
 5349,N,89,"magasvérnyomás-betegség, szívelégtelenség"
-5350,N,80,"magasvérnyomás betegség, asztma, vesebetegség"
+5350,N,80,"magasvérnyomás-betegség, asztma, vesebetegség"
 5351,N,84,nincs adat
 5352,N,92,"szívbetegség, pajzsmirigybetegség"
 5353,N,78,"magasvérnyomás-betegség, szívbetegség, cukorbetegség"
@@ -5434,8 +5434,8 @@ Sorszám,Nem,Kor,Alapbetegségek
 5433,F,67,"daganatos megbetegedés, magasvérnyomás-betegség"
 5434,F,66,
 5435,F,54,
-5436,F,49,"magasvérnyomás betegség, cukorbetegség"
-5437,N,74,"szívbetegség, magasvérnyomás betegség"
+5436,F,49,"magasvérnyomás-betegség, cukorbetegség"
+5437,N,74,"szívbetegség, magasvérnyomás-betegség"
 5438,F,77,"magasvérnyomás-betegség, pajzsmirigybetegség, cukorbetegség"
 5439,N,87,magasvérnyomás-betegség
 5440,F,81,"magasvérnyomás-betegség, szívbetegség"
@@ -5454,11 +5454,11 @@ Sorszám,Nem,Kor,Alapbetegségek
 5453,F,64,"cukorbetegség, szívbetegség, magasvérnyomás-betegség"
 5454,F,84,"demencia, magasvérnyomás-betegség"
 5455,N,85,"leukémia, szívbetegség, pajzsmirigybetegség"
-5456,N,73,"magasvérnyomás betegség, szívbetegség"
+5456,N,73,"magasvérnyomás-betegség, szívbetegség"
 5457,N,85,"érelmeszesedés, szívbetegség, magasvérnyomás-betegség"
 5458,N,90,"magasvérnyomás-betegség, cukorbetegség"
 5459,F,67,"szívbetegség, magasvérnyomás-betegség"
-5460,N,88,magasvérnyomás betegség
+5460,N,88,magasvérnyomás-betegség
 5461,F,80,"Alzheimer-kór, magasvérnyomás-betegség"
 5462,N,76,magasvérnyomás-betegség
 5463,N,57,daganatos megbetegedés
@@ -5473,7 +5473,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 5472,N,67,"magas vérnyomás, cukorbetegség"
 5473,N,69,daganatos megbetegedés
 5474,N,74,"cukorbetegség, magas vérnyomás, szívelégtelenség"
-5475,F,94,"érelmeszesedés, magasvérnyomás betegség"
+5475,F,94,"érelmeszesedés, magasvérnyomás-betegség"
 5476,F,80,magasvérnyomás-betegség
 5477,N,67,"magasvérnyomás-betegség, epilepszia"
 5478,N,83,"magasvérnyomás-betegség, szívbetegség, cukorbetegség, demencia"
@@ -5481,15 +5481,15 @@ Sorszám,Nem,Kor,Alapbetegségek
 5480,N,71,magasvérnyomás-betegség
 5481,N,64,"magasvérnyomás-betegség, cukorbetegség, pajzsmirigy betegség"
 5482,N,56,"veseelégtelenség, magasvérnyomás-betegség"
-5483,F,72,"magasvérnyomás betegség, szívbetegség, cukorbetegség"
+5483,F,72,"magasvérnyomás-betegség, szívbetegség, cukorbetegség"
 5484,N,73,daganatos megbetegedés
 5485,N,80,"magasvérnyomás-betegség, daganatos megbetegedés"
 5486,N,83,"magasvérnyomás-betegség, szívbetegség"
 5487,F,73,"demencia, szívelégtelenség"
 5488,F,68,szívbetegség
 5489,N,78,"szívbetegség, magasvérnyomás-betegség, cukorbetegség"
-5490,N,92,"magasvérnyomás betegség, vesebetegség"
-5491,F,85,"magasvérnyomás betegség, agyi érelmeszesedés, demencia"
+5490,N,92,"magasvérnyomás-betegség, vesebetegség"
+5491,F,85,"magasvérnyomás-betegség, agyi érelmeszesedés, demencia"
 5492,N,81,"cukorbetegség, daganatos megbetegedés"
 5493,F,44,magasvérnyomás megbetegedés
 5494,N,75,"magas vérnyomás, szívelégtelenség"
@@ -5508,7 +5508,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 5507,N,82,
 5508,N,63,"magasvérnyomás-betegség, cukorbetegség, szívbetegség"
 5509,F,52,tüdőbetegség
-5510,F,77,magasvérnyomás betegség
+5510,F,77,magasvérnyomás-betegség
 5511,N,82,"Parkinson-kór, Alzheimer-kór"
 5512,F,82,demencia
 5513,F,77,daganatos megbetegedés
@@ -5986,7 +5986,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 5985,F,66,daganatos megbetegedés
 5986,F,44,"szív- és érrendszer betegség, epilepszia"
 5987,F,90,"pacemakerrel élő személy, magas vérnyomás"
-5988,F,80,"magas vérnyomás betegség, agyi infarktus, pitvarfibrillációatio és fluttern"
+5988,F,80,"magasvérnyomás-betegség, agyi infarktus, pitvarfibrillációatio és fluttern"
 5989,N,81,magas vérnyomás
 5990,F,56,daganatos megbetegedés
 5991,N,73,"légzési distress syndroma, magas vérnyomás, szívelégtelenség, vérszegénység"
@@ -6009,7 +6009,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 6008,F,85,
 6009,F,84,"magas vérnyomás, tüdőembólia, tüdőgyulladás, érszűkület, demencia"
 6010,F,76,"agydaganat, magas vérnyomás, általános érelmeszesedés"
-6011,N,68,"magas vérnyomás betegség, krónikus obstruktív tüdőbetegség"
+6011,N,68,"magasvérnyomás-betegség, krónikus obstruktív tüdőbetegség"
 6012,N,70,"magas vérnyomás, cukorbetegség"
 6013,F,86,"magas vérnyomás, cukorbetegség, pangásos szívelégtelenség, pitvarfibrilláció, érszűkület, hörgőtágulat, véralvadási defectus"
 6014,F,74,"daganatos megbetegedés, demencia"
@@ -6046,7 +6046,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 6045,N,65,"áttétes tüdőrák, vastagbélrák, krónikus obstruktív tüdőbetegség, agykárosodás"
 6046,N,74,"cukorbetegség, általános érelmeszesedés"
 6047,F,81,"Littler-kór, demencia, paranoid skizofrénia"
-6048,F,39,"kóros elhízás, magas vérnyomás betegség, szívizomelhalás, idült veseelégtelenség"
+6048,F,39,"kóros elhízás, magasvérnyomás-betegség, szívizomelhalás, idült veseelégtelenség"
 6049,N,69,"szívelégtelenség, elhízás, magas vérnyomás, cukorbetegség, agyi érelmeszesedés"
 6050,F,62,"cukorbetegség, magas vérnyomás"
 6051,F,76,"magasvérnyomás-betegség, krónikus veseelégtelenség, iszkémiás szívbetegség, implantálható cardioverter-defibrillátorral élő személy"
@@ -6084,7 +6084,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 6083,F,93,"krónikus veseelégtelenség, pitvarfibrilláció"
 6084,N,84,"magas vérnyomás, érszűkület, húgyúti fertőzés"
 6085,N,64,"korábbi stroke, magas vérnyomás, veseelégtelenség, iszkémiás szívbetegség"
-6086,F,57,"magas vérnyomás betegség, cukorbetegség, alvási légzéskimaradás, stroke"
+6086,F,57,"magasvérnyomás-betegség, cukorbetegség, alvási légzéskimaradás, stroke"
 6087,N,79,"iszkémiás szívbetegség, cukorbetegség, magas vérnyomás"
 6088,F,80,"Alzheimer-kór, magas vérnyomás, azbesztózis"
 6089,N,83,"magas vérnyomás, iszkémiás szívbetegség, cukorbetegség, anaemia"
@@ -6354,7 +6354,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 6353,N,79,cukorbetegség
 6354,N,87,"cukorbetegség, magasvérnyomás-betegség, iszkémiás szívbetegség"
 6355,N,81,"magasvérnyomás-betegség, érszűkület, iszkémiás szívbetegség, ütőérembólia, tüdőembólia, vérszegénység"
-6356,N,66,"epilepszia; agylágyulás, Alzheimer-kór; demencia"
+6356,N,66,"epilepszia, agylágyulás, Alzheimer-kór, demencia"
 6357,N,89,magasvérnyomás-betegség
 6358,N,89,"szívelégtelenség, reflux, pajzsmirigy-alulműködés, agyi keringészavar, gyomorhurut"
 6359,N,79,"magasvérnyomás-betegség, cukorbetegség, szellemi leépülés"
@@ -6514,9 +6514,9 @@ Sorszám,Nem,Kor,Alapbetegségek
 6513,N,42,"bőr rosszindulatú daganata, csontritkulás, többszörös agyi áttét"
 6514,F,79,"magas vérnyomás, agyi infarktus, krónikus veseelégtelenség, trombózis"
 6515,F,54,"alkoholizmus, combnyaktörés"
-6516,F,65,"magas vérnyomás-betegség, pajzsmirigy-alulműködés"
+6516,F,65,"magasvérnyomás-betegség, pajzsmirigy-alulműködés"
 6517,F,65,"tuberkulózis, szellemi leépülés"
-6518,F,67,"általános érszűkület, magas vérnyomás-betegség, szervi eredetű hangulatzavarok, alkoholos májbetegség, krónikus veseelégtelenség"
+6518,F,67,"általános érszűkület, magasvérnyomás-betegség, szervi eredetű hangulatzavarok, alkoholos májbetegség, krónikus veseelégtelenség"
 6519,F,90,"magas vérnyomás, vérszegénység, epilepszia, krónikus veseelégtelenség"
 6520,F,68,"magas vérnyomás, cukorbetegség"
 6521,N,78,"vérszegénység, plazmasejtek daganatos megbetegedése, magasvérnyomás-betegség, szívelégtelenség, agyvérzés"
@@ -6552,7 +6552,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 6551,F,88,"krónikus obstruktív tüdőbetegség, epekövesség"
 6552,F,75,"magas vérnyomás. Cukorbetegség, veseelégtelenség, hasnyálmirigy-gyuladás"
 6553,N,77,"magas vérnyomás, szívizom vérellátásának zavara, szívritmuszavar, asztma"
-6554,N,75,"magas vérnyomás-betegség, agyi infarktus"
+6554,N,75,"magasvérnyomás-betegség, agyi infarktus"
 6555,F,63,hepatitis C
 6556,F,66,magas vérnyomás
 6557,N,82,"magas vérnyomás, asztma"
@@ -6562,7 +6562,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 6561,F,47,hörgőasztma
 6562,F,65,"kóros elhízás, magas vérnyomás, cukorbetegség, hasnyálmirigy-gyulladás, akut veseelégtelenség"
 6563,F,81,"magas vérnyomás, szívritmuszavar, iszkémiás agyvérzés, szívizom vérellátásának zavara"
-6564,F,74,"magas vérnyomásbetegség, cukorbetegség, érszűkület"
+6564,F,74,"magasvérnyomás-betegség, cukorbetegség, érszűkület"
 6565,N,80,
 6566,F,76,"magas vérnyomás, demencia, discus hernia, idegi hallásvesztés, enyhe fokú szívbillentyű-rendellenesség"
 6567,N,62,magas vérnyomás
@@ -6598,7 +6598,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 6597,N,96,"magas vérnyomás, szívizom vérellátásának zavara, szellemi leépülés"
 6598,F,62,"magas vérnyomás, krónikus obstriktív tüdőbetegség, cukorbetegség"
 6599,N,79,
-6600,N,39,"emésztőrendszer krónikus gyulladásos betegsége, magas vérnyomás-betegség, vérszegénység, elhízás"
+6600,N,39,"emésztőrendszer krónikus gyulladásos betegsége, magasvérnyomás-betegség, vérszegénység, elhízás"
 6601,F,67,"májbetegség, gyulladásos betegség"
 6602,F,89,"epilepszia, refluxbetegség, halláscsökkenés, hörghurut, érszűkület"
 6603,F,45,inzulinfüggő cukorbetegség
@@ -6616,7 +6616,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 6615,N,61,"magas vérnyomás, cukorbetegség, tüdőembólia"
 6616,N,53,"cukorbetegség, magas vérnyomás, kóros elhízás, csontritkulás, agyhártyadaganat"
 6617,N,71,"magas vérnyomás, krónikus ízületi gyulladás"
-6618,N,86,"általános érelmeszesedés, pangásos szívelégtelenség, magas vérnyomás-betegség, idült iszkémiás szívbetegség, refluxbetegség, tágulásos szívizom-károsodás"
+6618,N,86,"általános érelmeszesedés, pangásos szívelégtelenség, magasvérnyomás-betegség, idült iszkémiás szívbetegség, refluxbetegség, tágulásos szívizom-károsodás"
 6619,N,91,cukorbetegség
 6620,N,76,"magas vérnyomás, agyi infarktus, demencia, nem meghatározott veseelégtelenség"
 6621,F,89,"epilepszia, pacemaker beültetett, szívizom-infarktus, aortabillentyű szűkülete, jobb oldali vesetumor"
@@ -7195,7 +7195,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 7194,N,70,"krónikus obstruktív tüdőbetegség, szívelégtelenség, cukorbetegség, krónikus légzési elégtelenség, kóros elhízás"
 7195,F,89,"magas vérnyomás, pitvar fibrilláció, magas koleszterinszint, iszkémiás szívbetegség, cukorbetegség, demencia"
 7196,N,57,"magas vérnyomás, végbélrák"
-7197,F,73,"tüdőgyulladás, magasvérnyomás betegség, demencia, többgöbös golyva, agyi infarktus"
+7197,F,73,"tüdőgyulladás, magasvérnyomás-betegség, demencia, többgöbös golyva, agyi infarktus"
 7198,F,83,"magas vérnyomás, cukorbetegség, érszűkület, pitvar fibrilláció"
 7199,F,64,"magas vérnyomás, stroke"
 7200,N,69,"magasvérnyomás-betegség, cukorbetegség, pitvar fibrilláció, krónikus obstruktív tüdőbetegség, iszkémiás szívbetegség"
@@ -7212,7 +7212,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 7211,N,78,"magas vérnyomás, cukorbetegség, stroke, kóros elhízás, veseelégtelenség"
 7212,F,57,"pajzsmirigy alulműködés, fekélyes vastagbélgyulladás"
 7213,F,81,"epehólyag eltávolítás, Alzheimer-kór, ízületi betegség"
-7214,F,87,"cukorbetegség, magasvérnyomás betegség, iszkémiás szívbetegség, pitvar fibrilláció, krónikus veseelégtelenség"
+7214,F,87,"cukorbetegség, magasvérnyomás-betegség, iszkémiás szívbetegség, pitvar fibrilláció, krónikus veseelégtelenség"
 7215,N,86,"pitvar fibrilláció, tüdőembólia, magas vérnyomás, krónikus obstruktív tüdőbetegség"
 7216,F,67,"skizofrénia, magas vérnyomás, tüdőgyulladás"
 7217,N,82,"magas vérnyomás, iszkémiás szívbetegség, tüdőgyulladás"
@@ -7355,7 +7355,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 7354,N,67,"magas vérnyomás, krónikus veseelégtelenség, trombózis, elhízás, Down-szindróma"
 7355,N,89,cukorbetegség
 7356,F,83,"agyérelmeszesedés, krónikus gyomorhurut, demencia, akut hasnyálmirigy gyulladás"
-7357,F,66,"tüdődaganat, magas vérnyomás betegség, agydaganat, agyi infarktus"
+7357,F,66,"tüdődaganat, magasvérnyomás-betegség, agydaganat, agyi infarktus"
 7358,F,81,"krónikus obstruktív tüdőbetegség, magas vérnyomás, vérszegénység"
 7359,F,79,"szívritmuszavar, agyvérzés, elhízás"
 7360,F,74,"szívelégtelenség, iszkémiás szívbetegség, krónikus obstruktív tüdőbetegség, cukorbetegség, alsó végtagi érszűkület"
@@ -7463,7 +7463,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 7462,F,68,
 7463,F,70,"magasvérnyomás-betegség, demencia"
 7464,F,91,"csigolyameszesedés, magasvérnyomás-betegség"
-7465,F,39,"veseelégtelenség, magasvérnyomás betegség"
+7465,F,39,"veseelégtelenség, magasvérnyomás-betegség"
 7466,F,70,"krónikus obstruktív betegség, magasvérnyomás-betegség"
 7467,N,72,"magasvérnyomás-betegség, pitvarfibrilláció, pajzsmirigy-alulműködés, cukorbetegség, elhízás"
 7468,F,67,"magasvérnyomás-betegség, iszkémiás szívbetegség"
@@ -7508,7 +7508,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 7507,F,66,cukorbetegség
 7508,N,86,"magasvérnyomás-betegség, daganatos megbetegedés"
 7509,F,64,"iszkémiás szívbetegség, krónikus veseelégtelenség, májbetegség"
-7510,N,76,"cukorbetegség, pajzsmirigy-alulműködés, magasvérnyomás betegség, iszkémiás szívbetegség"
+7510,N,76,"cukorbetegség, pajzsmirigy-alulműködés, magasvérnyomás-betegség, iszkémiás szívbetegség"
 7511,N,89,"magasvérnyomás-betegség, cukorbetegség"
 7512,F,67,"magasvérnyomás-betegség, cukorbetegség"
 7513,N,87,magasvérnyomás-betegség
@@ -7729,7 +7729,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 7728,N,75,"magas vérnyomás, köszvény, gerincmeszesedés"
 7729,F,91,"magas vérnyomás, szívelégtelenség"
 7730,N,84,"magas vérnyomás, szív-, érrendszeri betegség"
-7731,N,91,"Magasvérnyomás-betegség, cukorbetegség"
+7731,N,91,"magasvérnyomás-betegség, cukorbetegség"
 7732,N,82,
 7733,N,66,"magas vérnyomás, magas koleszterinszint"
 7734,N,76,Krónikus vesebetegség
@@ -8248,7 +8248,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 8247,F,80,daganatos megbetegedés
 8248,N,85,"magasvérnyomás-betegség, szívelégelenség"
 8249,N,86,vérmérgezés
-8250,N,92,magasvérnyomás betegség
+8250,N,92,magasvérnyomás-betegség
 8251,N,80,"magasvérnyomás-betegség, szívbetegség, pajzsmirigy betegség"
 8252,N,88,"magasvérnyomás-betegség, cukorbetegség"
 8253,F,77,"vérszegénység, szívbetegség"
@@ -8274,8 +8274,8 @@ Sorszám,Nem,Kor,Alapbetegségek
 8273,N,76,"daganatos megbetegedés, magasvérnyomás-betegség, cukorbetegség"
 8274,N,69,"szívbetegség, pajzsmirigy betegség"
 8275,N,36,májbetegség
-8276,N,88,"magasvérnyomás betegség, cukorbetegség"
-8277,N,90,"magasvérnyomás betegség, cukorbetegség, szívbetegség"
+8276,N,88,"magasvérnyomás-betegség, cukorbetegség"
+8277,N,90,"magasvérnyomás-betegség, cukorbetegség, szívbetegség"
 8278,N,80,"magasvérnyomás-betegség, cukorbetegség, szívbetegség, érelmeszesedés"
 8279,N,73,"magasvérnyomás-betegség, epilepszia, veseelégtelenség, demencia"
 8280,N,84,"magasvérnyomás-betegség, cukorbetegség, pajzsmirigybetegség, daganatos megbetegedés"
@@ -8525,7 +8525,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 8524,N,70,"kóros elhízás, magas vérnyomás, szívbetegség, daganatos megbetegedés, agytörzsi károsodások"
 8525,N,80,"asztma, magas vérnyomás, iszkémiás szívbetegség"
 8526,F,71,"szívbetegség, idült obstruktív tüdőbetegség, kóros elhízás, demencia"
-8527,F,72,"daganatos megbetegedések, érszűkület, szív- és érrendszer betegség, magas vérnyomás-betegség, cukorbetegség"
+8527,F,72,"daganatos megbetegedések, érszűkület, szív- és érrendszer betegség, magasvérnyomás-betegség, cukorbetegség"
 8528,N,78,"stroke, krónikus obstruktív tüdőbetegség, veseelégtelenség, hepatitis C, magas vérnyomás, szívelégtelenség"
 8529,F,68,-NI-
 8530,N,65,"májdaganat, légzési elégtelenség"
@@ -8594,7 +8594,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 8593,F,65,"magas vérnyomás, cukorbetegség, iszkémiás szívbetegség, pitvarfibrilláció"
 8594,F,84,"magas vérnyomás, pitvarfibrilláció, krónikus szívelégtelenség"
 8595,N,100,"pitvarfibrilláció, magas vérnyomás, krónikus veseelégtelenség, iszkémiás szívbetegség"
-8596,F,80,"magas vérnyomás betegség, anémia, pitvarfibrilláció, iszkémiás szívbetegség"
+8596,F,80,"magasvérnyomás-betegség, anémia, pitvarfibrilláció, iszkémiás szívbetegség"
 8597,F,78,"magas vérnyomás, cukorbetegség"
 8598,N,75,"demencia, általános érelmeszesedés"
 8599,N,77,"cukorbetegség, magas vérnyomás, szívbetegség"
@@ -8689,7 +8689,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 8688,N,90,stroke
 8689,F,77,"daganatos megbetegedés, aortabillentyű-szűkület, iszkémiás szívbetegség"
 8690,N,76,"csontritkulás, érszűkület, szívmegnagyobbodás"
-8691,F,63,"magas vérnyomás betegség, agyi érelmeszesedés, érszűkület, demencia"
+8691,F,63,"magasvérnyomás-betegség, agyi érelmeszesedés, érszűkület, demencia"
 8692,F,92,"magasvérnyomás-betegség, agyi érelmeszesedés"
 8693,N,78,"stroke, magasvérnyomás- betegség"
 8694,N,80,"magasvérnyomás-betegség, cukorbetegség, magas vérzsírszint"
@@ -8730,107 +8730,107 @@ Sorszám,Nem,Kor,Alapbetegségek
 8729,N,82,"pitvarfibrilláció, szívelégtelenség, epilepszia"
 8730,N,95,"Pajzsmirigybetegség, magasvérnyomás-betegség, csontritkulás, tüdőbetegség"
 8731,N,89,"Cukorbetegség, pitvarfibrilláció szívelégtelenség"
-8732,N,71,"Magasvérnyomás-betegség, cukorbetegség, demencia, daganatos megbetegedés"
+8732,N,71,"magasvérnyomás-betegség, cukorbetegség, demencia, daganatos megbetegedés"
 8733,F,67,Tüdőbetegség
 8734,F,67,"Krónikus obstruktív tüdőbetegség, krónikus légzési elégtelenség, magasvérnyomás-betegség, krónikus szívelégtelenség"
 8735,F,58,"Tüdőbetegség, cukorbetegség"
-8736,N,85,"Magasvérnyomás-betegség, demencia, krónikus veseelégtelenség"
+8736,N,85,"magasvérnyomás-betegség, demencia, krónikus veseelégtelenség"
 8737,F,52,Szívelégtelenség
-8738,N,73,"Magasvérnyomás-betegség, szívbetegség, pajzsmirigy betegség, szívelégtelenség"
-8739,F,73,"Magasvérnyomás-betegség, agyérelmeszesedés"
+8738,N,73,"magasvérnyomás-betegség, szívbetegség, pajzsmirigy betegség, szívelégtelenség"
+8739,F,73,"magasvérnyomás-betegség, agyérelmeszesedés"
 8740,F,47,Kóros elhízás
 8741,N,49,Asztma
-8742,F,66,"Magasvérnyomás-betegség, Parkinson-kór, stroke"
-8743,F,79,"Magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség"
+8742,F,66,"magasvérnyomás-betegség, Parkinson-kór, stroke"
+8743,F,79,"magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség"
 8744,N,65,"Ütőérszűkület, vérszegénység, magasvérnyomás-betegség"
-8745,N,71,"Magasvérnyomás-betegség, tüdőbetegség, daganatos megbetegedés"
-8746,N,89,"Magasvérnyomás-betegség, érszűkület, szívbetegség, csontritkulás, demencia"
+8745,N,71,"magasvérnyomás-betegség, tüdőbetegség, daganatos megbetegedés"
+8746,N,89,"magasvérnyomás-betegség, érszűkület, szívbetegség, csontritkulás, demencia"
 8747,F,54,"Limfóma, agykárosodás"
 8748,N,50,Vérszegénység
-8749,F,73,"Magasvérnyomás-betegség, lépeltávolítás"
+8749,F,73,"magasvérnyomás-betegség, lépeltávolítás"
 8750,F,53,Demencia
-8751,N,66,Magasvérnyomás-betegség
+8751,N,66,magasvérnyomás-betegség
 8752,F,87,"Cukorbetegség, daganatos megbetegedés, nyombélfekély"
 8753,N,77,"Veseelégtelenség, cukorbetegség, májbetegség, agysorvadás"
 8754,F,85,"Szívbetegség, magasvérnyomás-betegség"
-8755,N,65,Magasvérnyomás-betegség
+8755,N,65,magasvérnyomás-betegség
 8756,F,60,Daganatos megbetegedés
-8757,F,65,Magasvérnyomás-betegség
+8757,F,65,magasvérnyomás-betegség
 8758,N,84,"Tüdődaganat, stroke, veseelégtelenség"
-8759,F,77,"Magasvérnyomás-betegség, cukorbetegség, stroke, agykárosodás"
+8759,F,77,"magasvérnyomás-betegség, cukorbetegség, stroke, agykárosodás"
 8760,F,87,"Vérszegénység, demencia"
 8761,F,70,"Asztma, magasvérnyomás-betegség, szív és érrendszeri betegség"
 8762,N,81,"Májbetegség, pitvarfibrilláció, szívelégtelenség"
 8763,N,82,"tüdőbetegség, szív-és érrendszeri betegség"
 8764,N,60,"Idült obstruktív tüdőbetegség, magasvérnyomás-betegség"
 8765,N,74,"Cukorbetegség, demencia, szívbetegség"
-8766,F,86,"Magasvérnyomás-betegség, szívbetegség"
-8767,N,74,Magasvérnyomás-betegség
-8768,F,81,"Magasvérnyomás-betegség, szív és érrendszeri betegség"
+8766,F,86,"magasvérnyomás-betegség, szívbetegség"
+8767,N,74,magasvérnyomás-betegség
+8768,F,81,"magasvérnyomás-betegség, szív és érrendszeri betegség"
 8769,N,85,"Pajzsmirigybetegség, demencia"
-8770,F,69,Magasvérnyomás-betegség
+8770,F,69,magasvérnyomás-betegség
 8771,F,87,"Tüdőbetegség, érszűkület"
 8772,F,88,Tüdődaganat
-8773,F,77,Magasvérnyomás-betegség
-8774,N,79,"Magasvérnyomás-betegség, pajzsmirigybetegség, cukorbetegség, szívelégtelenség"
-8775,N,86,Magasvérnyomás-betegség
+8773,F,77,magasvérnyomás-betegség
+8774,N,79,"magasvérnyomás-betegség, pajzsmirigybetegség, cukorbetegség, szívelégtelenség"
+8775,N,86,magasvérnyomás-betegség
 8776,N,95,"Szívbetegség, magasvérnyomás-betegség, agyi infarktus"
-8777,N,85,Magasvérnyomás-betegség
+8777,N,85,magasvérnyomás-betegség
 8778,N,72,"Magas vérnyomás, Parkinson-kór"
-8779,F,70,"Magasvérnyomás-betegség, szívbetegség, húgyhólyag-tumor"
+8779,F,70,"magasvérnyomás-betegség, szívbetegség, húgyhólyag-tumor"
 8780,N,86,"Krónikus veseelégtelenség, pitvarfibrilláció, magasvérnyomás-betegség"
 8781,F,29,Kóros elhízás
 8782,F,47,"Májbetegség, extrém elhízás"
-8783,F,77,"Magas vérnyomásbetegség, iszkémiás szívbetegség, szívritmus-szabályzó beültetés"
-8784,N,71,Magasvérnyomás-betegség
-8785,N,89,"Magasvérnyomás-betegség, szívbetegség"
+8783,F,77,"magasvérnyomás-betegség, iszkémiás szívbetegség, szívritmus-szabályzó beültetés"
+8784,N,71,magasvérnyomás-betegség
+8785,N,89,"magasvérnyomás-betegség, szívbetegség"
 8786,F,82,"Cukorbetegség, Parkinson-kór"
 8787,F,65,"Tüdőbetegség, szívbetegség, cukorbetegség"
 8788,N,68,Rekeszsérv
 8789,F,93,Agyi érelmeszesedés
 8790,F,77,"Magas vérnyomás, szívbetegség, szívelégtelenség"
-8791,N,93,"Magasvérnyomás-betegség, szívbetegség, szív és érrendszeri betegség"
+8791,N,93,"magasvérnyomás-betegség, szívbetegség, szív és érrendszeri betegség"
 8792,N,82,"Agykárosodás, inzulinnal kezelt cukorbetegség, érszűkület"
 8793,F,91,"Szívbetegség, magasvérnyomás-betegség, krónikus veseelégtelenség, daganatos megbetegedés"
-8794,F,85,"Magasvérnyomás-betegség, demencia, érszűkület, tüdőtumor"
-8795,F,70,"Magasvérnyomás-betegség, szívelégtelenség"
-8796,F,64,"Magasvérnyomás-betegség, stroke, veseelégtelenség"
+8794,F,85,"magasvérnyomás-betegség, demencia, érszűkület, tüdőtumor"
+8795,F,70,"magasvérnyomás-betegség, szívelégtelenség"
+8796,F,64,"magasvérnyomás-betegség, stroke, veseelégtelenség"
 8797,N,84,"Szívbetegség, magasvérnyomás-betegség, pajzsmirigybetegség, stroke"
 8798,N,70,"Epilepszia, szív- és érrendszer betegség, demencia, magasvérnyomás-betegség"
 8799,N,65,"Májgyulladás, tüdőbetegség, májátültetés, daganatos megbetegedés"
 8800,N,90,Cukorbetegség
-8801,F,82,"Magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség, tüdőbetegség"
-8802,N,80,"Magasvérnyomás-betegség, pajzsmirigy betegség"
+8801,F,82,"magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség, tüdőbetegség"
+8802,N,80,"magasvérnyomás-betegség, pajzsmirigy betegség"
 8803,N,70,"Cukorbetegség, magasvérnyomás-betegség, daganatos megbetegedések"
-8804,N,91,Magasvérnyomás-betegség
+8804,N,91,magasvérnyomás-betegség
 8805,N,85,"Cukorbetegség, elhízás, magasvérnyomás-betegség, iszkémiás szívbetegség, demencia"
 8806,N,91,"Érszűkület, demencia, szívbetegség, magasvérnyomás-betegség"
-8807,F,71,"Magasvérnyomás-betegség, cukorbetegség, érbetegség, pajzsmirigy betegség, pitvarfibrilláció"
-8808,F,94,"Magasvérnyomás-betegség, cukorbetegség, krónikus limfocitás leukémia, érszűkület"
+8807,F,71,"magasvérnyomás-betegség, cukorbetegség, érbetegség, pajzsmirigy betegség, pitvarfibrilláció"
+8808,F,94,"magasvérnyomás-betegség, cukorbetegség, krónikus limfocitás leukémia, érszűkület"
 8809,N,72,Paranoid skizofrénia
-8810,F,63,"Magasvérnyomás-betegség, agyi infarktus, magas vérzsírszint"
-8811,N,81,"Magasvérnyomás-betegség, szívelégtelenség, krónikus veseelégtelenség, tüdőbetegség, aortaszűkület"
+8810,F,63,"magasvérnyomás-betegség, agyi infarktus, magas vérzsírszint"
+8811,N,81,"magasvérnyomás-betegség, szívelégtelenség, krónikus veseelégtelenség, tüdőbetegség, aortaszűkület"
 8812,N,92,"Pangásos szívelégtelenség, cukorbetegség"
-8813,N,85,"Magasvérnyomás-betegség, stroke, pitvarfibrilláció, szívbetegség, agysorvadás"
+8813,N,85,"magasvérnyomás-betegség, stroke, pitvarfibrilláció, szívbetegség, agysorvadás"
 8814,N,83,"Krónikus veseelégtelenség, pangásos szívelégtelenség, szívbetegség"
-8815,N,90,"Magasvérnyomás-betegség, daganatos megbetegedés"
+8815,N,90,"magasvérnyomás-betegség, daganatos megbetegedés"
 8816,N,65,"Cukorbetegség, szívbetegség, magasvérnyomás-betegség"
 8817,N,66,Tüdőbetegség
-8818,N,84,"Magasvérnyomás-betegség, cukorbetegség"
-8819,N,67,"Magasvérnyomás-betegség, cukorbetegség, pajzsmirigy betegség"
-8820,N,81,"Magasvérnyomás-betegség, szívizomelhalás"
+8818,N,84,"magasvérnyomás-betegség, cukorbetegség"
+8819,N,67,"magasvérnyomás-betegség, cukorbetegség, pajzsmirigy betegség"
+8820,N,81,"magasvérnyomás-betegség, szívizomelhalás"
 8821,N,78,"Csontritkulás, agykárosodás"
-8822,N,77,"Magasvérnyomás-betegség, infarktus, trombózis"
+8822,N,77,"magasvérnyomás-betegség, infarktus, trombózis"
 8823,N,64,"Szívbetegség, cukorbetegség, szívbetegség, krónikus veseelégtelenség"
 8824,N,84,"Cukorbetegség, stroke, szívbetegség"
 8825,N,76,"Májbetegség, szívbetegség, cukorbetegség, agysorvadás"
-8826,N,88,"Magasvérnyomás-betegség, agysorvadás"
+8826,N,88,"magasvérnyomás-betegség, agysorvadás"
 8827,N,60,"Tüdőbetegség, magasvérnyomás-betegség, cukorbetegség"
-8828,N,73,Magasvérnyomás-betegség
+8828,N,73,magasvérnyomás-betegség
 8829,N,69,"Cukorbetegség, epilepszia, magasvérnyomás-betegség, agyi infarktus"
 8830,N,65,Tüdőbetegség
-8831,N,64,"Magasvérnyomás-betegség, pitvarfibrilláció, paranoid skizofrénia"
-8832,N,84,"Magasvérnyomás-betegség, tüdőbetegség, cukorbetegség, pitvarfibrilláció, Parkinson-kór"
+8831,N,64,"magasvérnyomás-betegség, pitvarfibrilláció, paranoid skizofrénia"
+8832,N,84,"magasvérnyomás-betegség, tüdőbetegség, cukorbetegség, pitvarfibrilláció, Parkinson-kór"
 8833,N,79,epilepszia
 8834,N,88,magas vérnyomás
 8835,N,87,"magas vérnyomás, kóros elhízás"
@@ -8983,7 +8983,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 8982,F,70,"magas vérnyomás, stroke, érszűkület, beszédzavar, izomgyengeség"
 8983,N,86,"magasvérnyomás-betegség, idült iszkémiás szívbetegség egyéb formái, köszvény"
 8984,N,80,"magas vérnyomás, krónikus tüdőbetegség, szívritmuszavar, szívelégtelenség, depresszió"
-8985,N,83,"magas vérnyomás betegség, zöld hályog, mellüregi folyadékképződés"
+8985,N,83,"magasvérnyomás-betegség, zöld hályog, mellüregi folyadékképződés"
 8986,N,87,"krónikus limfoid leukémia, magas vérnyomás, krónikus tüdőbetegség"
 8987,N,53,"agyi érszűkület, cukorbetegség, kóros elhízás"
 8988,N,66,hashártyagyulladás
@@ -9237,7 +9237,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 9236,F,80,"magas vérnyomás, cukorbetegség, pajzsmirigy alulműködés"
 9237,N,90,"magas vérnyomás, cukorbetegség"
 9238,N,95,"daganatos betegség, iszkémiás szívbetegség, magas vérnyomás"
-9239,N,58,"krónikus veseelégtelenség, magas vérnyomás betegség, idült obstruktív tüdőbetegség, idült iszkémiás szívbetegség szívelégtelenség"
+9239,N,58,"krónikus veseelégtelenség, magasvérnyomás-betegség, idült obstruktív tüdőbetegség, idült iszkémiás szívbetegség szívelégtelenség"
 9240,N,82,"magas vérnyomás, cukorbetegség"
 9241,N,91,"Alzheimer-kór, csontritkulás, agyi érelmeszesedés, magas vérnyomás, epilepszia, érelmeszesedés, demencia"
 9242,N,84,"tüdőgyulladás, vesebetegség, bélbetegség, daganatos megbetegedés"
@@ -9363,8 +9363,8 @@ Sorszám,Nem,Kor,Alapbetegségek
 9362,F,85,"magas vérnyomás, általános érelmeszesedés"
 9363,N,88,"magas vérnyomás, cukorbetegség, pitvar fibrilláció"
 9364,F,75,"köszvény, magas vérnyomás, légzési elégtelenség"
-9365,N,75,"magas vérnyomás betegség, cukorbetegség, tüdőbetegség"
-9366,N,88,"magas vérnyomás betegség, vesekövesség, pikkelysömör"
+9365,N,75,"magasvérnyomás-betegség, cukorbetegség, tüdőbetegség"
+9366,N,88,"magasvérnyomás-betegség, vesekövesség, pikkelysömör"
 9367,N,86,"cukorbetegség, krónikus veseelégtelenség"
 9368,F,84,"mellvízkór, iszkémiás szívbetegség"
 9369,F,66,"magas vérnyomás, cukorbetegség"
@@ -9515,7 +9515,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 9514,N,74,"emlőtumor, leukémia"
 9515,N,57,"obstruktív tüdőbetegség, emlőtumor"
 9516,N,75,"érelmeszesedés, szívritmuszavar, demencia"
-9517,F,62,"magas vérnyomás-betegség, iszkémiás szívbetegség, szívritmuszavar"
+9517,F,62,"magasvérnyomás-betegség, iszkémiás szívbetegség, szívritmuszavar"
 9518,N,67,"magas vérnyomás, cukorbetegség, hasnyálmirigy gyulladás, obstruktív tüdőbetegség"
 9519,F,73,"rákos megbetegedés, cukorbetegség, iszkémiás szívbetegség"
 9520,F,71,"cukorbetegség, magas vérnyomás, tüdőtuberkulózis"
@@ -9537,22 +9537,22 @@ Sorszám,Nem,Kor,Alapbetegségek
 9536,N,51,"májbetegség, vérszegénység"
 9537,N,78,"krónikus veseelégtelenség, cukorbetegség veseszövődményekkel, magas vérnyomás, májbetegség"
 9538,F,81,"Cukorbetegség, magasvérnyomás-betegség, krónikus veseelégtelenség, szívbetegség"
-9539,N,80,"Magasvérnyomás-betegség, szívbetegség, veseelégtelenség, vérszegénység"
+9539,N,80,"magasvérnyomás-betegség, szívbetegség, veseelégtelenség, vérszegénység"
 9540,N,61,"cukorbetegség, krónikus veseelégtelenség, művese kezelés, magas vérnyomás, érelmeszesedés"
 9541,N,69,"Parkinson-kór, vérszegénység"
-9542,F,63,"Magasvérnyomás-betegség, cukorbetegség, vérmérgezés, szívbetegség"
+9542,F,63,"magasvérnyomás-betegség, cukorbetegség, vérmérgezés, szívbetegség"
 9543,F,89,"Idegbántalom, reluxbetegség"
 9544,F,71,"Sclerosis multiplex, prosztata-megnagyobbodás, húgyúti fertőzés"
-9545,N,55,"Magasvérnyomás-betegség, szívelégtelenség, kóros elhízás"
+9545,N,55,"magasvérnyomás-betegség, szívelégtelenség, kóros elhízás"
 9546,F,54,"Szívritmuszavar, bélrendszeri vérzés"
 9547,N,78,"Asztma, szív- és érrendszeri betegség, demencia"
-9548,F,85,"Magasvérnyomás-betegség, cukorbetegség, veseelégtelenség, szív és érrendszeri betegség, vérszegénység"
+9548,F,85,"magasvérnyomás-betegség, cukorbetegség, veseelégtelenség, szív és érrendszeri betegség, vérszegénység"
 9549,F,63,"Csontvelő rendellenesség, vérszegénység"
-9550,F,58,"Magasvérnyomás-betegség, szív és érrendszeri betegség"
+9550,F,58,"magasvérnyomás-betegség, szív és érrendszeri betegség"
 9551,N,51,"Limfóma, vesebetegség"
 9552,F,79,Cukorbetegség
 9553,N,88,
-9554,N,79,"Magasvérnyomás-betegség, mentális és viselkedés zavar, reflux, agyi infarktus, krónikus veseelégtelenség"
+9554,N,79,"magasvérnyomás-betegség, mentális és viselkedés zavar, reflux, agyi infarktus, krónikus veseelégtelenség"
 9555,N,83,
 9556,N,72,"Érlemeszesedés, magasvérnyomás-betegség, szívbetegség, tüdőbetegség, cukorbetegség"
 9557,N,79,"Mielodiszpláziás szindróma, pajzsmirigybetegség, agysorvadás"
@@ -9560,55 +9560,55 @@ Sorszám,Nem,Kor,Alapbetegségek
 9559,F,59,
 9560,F,69,"Tüdőbetegség, cukorbetegség, szívbetegség, magasvérnyomás-betegség, agyi érelmeszesedés, pangásos szívelégtelenség"
 9561,F,49,"Cukorbetegség, szívnagyobbodás"
-9562,N,74,"Magasvérnyomás-betegség, cukorbetegség, daganatos betegség"
-9563,N,83,"Magasvérnyomás-betegség, cukorbetegség, érelmeszesedés"
-9564,N,82,"Magasvérnyomás-betegség, tüdőbetegség, demencia"
-9565,F,64,"Magasvérnyomás-betegség, szívelégtelenség"
+9562,N,74,"magasvérnyomás-betegség, cukorbetegség, daganatos betegség"
+9563,N,83,"magasvérnyomás-betegség, cukorbetegség, érelmeszesedés"
+9564,N,82,"magasvérnyomás-betegség, tüdőbetegség, demencia"
+9565,F,64,"magasvérnyomás-betegség, szívelégtelenség"
 9566,N,78,"Cukorbetegség, magasvérnyomás-betegség"
 9567,N,84,"Magas vérnyomás, cukorbetegség, agyi érbetegség"
 9568,F,74,"Daganatos megbetegedés, magasvérnyomás-betegség"
 9569,N,80,Iszkémiás szívbetegség
-9570,N,87,"Magasvérnyomás-betegség, cukorbetegség"
+9570,N,87,"magasvérnyomás-betegség, cukorbetegség"
 9571,F,62,"Mentális zavar, cukorbetegség, veseelégtelenség"
-9572,N,86,"Magasvérnyomás-betegség, gerincmeszesedés, tüdőbetegség, reflux"
-9573,F,72,"Magasvérnyomás-betegség, stroke"
-9574,F,64,"Magasvérnyomás-betegség, szívbetegség"
-9575,F,89,"Magasvérnyomás-betegség, csontvelőgyulladás"
+9572,N,86,"magasvérnyomás-betegség, gerincmeszesedés, tüdőbetegség, reflux"
+9573,F,72,"magasvérnyomás-betegség, stroke"
+9574,F,64,"magasvérnyomás-betegség, szívbetegség"
+9575,F,89,"magasvérnyomás-betegség, csontvelőgyulladás"
 9576,F,65,"Pangásos szívelégtelenség, légzési elégtelenség, magasvérnyomás-betegség, szív- és érrendszeri betegség, szívizomelhalás, koszorúér implantátum, vérmérgezés"
 9577,F,79,"Agyi infarktus, idült iszkémiás szívbetegség, magasvérnyomás-betegség"
 9578,N,74,"Vírusos bélfertőzés, vérszegénység, cukorbetegség, magasvérnyomás-betegség, tüdőbetegség, pangásos szívelégtelenség"
-9579,N,82,"Magasvérnyomás-betegség, cukorbetegség"
+9579,N,82,"magasvérnyomás-betegség, cukorbetegség"
 9580,N,83,érszűkület
-9581,F,68,Magasvérnyomás-betegség
+9581,F,68,magasvérnyomás-betegség
 9582,N,81,"Mentális betegség, Alzheimer-kór, érszűkület"
-9583,N,89,"Magasvérnyomás-betegség, szívbetegség, magas koleszterinszint, cukorbetegség"
-9584,F,83,"Magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség"
+9583,N,89,"magasvérnyomás-betegség, szívbetegség, magas koleszterinszint, cukorbetegség"
+9584,F,83,"magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség"
 9585,F,87,"Cukorbetegség, vérmérgezés"
-9586,N,91,"Magasvérnyomás-betegség, szívbetegség, vérszegénység, veseelégtelenség"
-9587,F,79,Magasvérnyomás-betegség
+9586,N,91,"magasvérnyomás-betegség, szívbetegség, vérszegénység, veseelégtelenség"
+9587,F,79,magasvérnyomás-betegség
 9588,F,71,"Lép megnagyobbodás, érelmeszesedés, tüdőbetegség, magasvérnyomás-betegség"
 9589,N,67,"Májbetegség, magasvérnyomás-betegség, szívelégtelenség, cukorbetegség"
-9590,N,94,"Magasvérnyomás-betegség, cukorbetegség, veseelégtelenség, érszűkület, porckopás, demencia, pajzsmirigy-betegség, szívbetegség"
+9590,N,94,"magasvérnyomás-betegség, cukorbetegség, veseelégtelenség, érszűkület, porckopás, demencia, pajzsmirigy-betegség, szívbetegség"
 9591,F,94,"Demencia, ízületi gyulladás, érelmeszesedés"
 9592,N,85,Alzheimer-kór
 9593,F,70,"Érelmeszesedés, cukorbetegség"
-9594,N,96,"Magasvérnyomás-betegség, agyi keringés zavara, idült légzési elégtelenség, érszűkület"
+9594,N,96,"magasvérnyomás-betegség, agyi keringés zavara, idült légzési elégtelenség, érszűkület"
 9595,N,83,"Non-Hodgkin lymphoma, vérszegénység, érelmeszesedés, magasvérnyomás-betegség"
 9596,N,84,"Cukorbetegség, magasvérnyomás-betegség, szívbetegség, asztma, pajzsmirigy-betegség"
 9597,F,82,Hasi verőértágulat miatti műtét
-9598,N,97,"Magasvérnyomás-betegség, demencia, szívbetegség, demencia"
-9599,N,66,"Magasvérnyomás-betegség, prosztatamegnagyobbodás, pajzsmirigy-betegség"
-9600,N,91,"Magasvérnyomás-betegség, szívbetegség, vérszegénység"
-9601,N,83,"Magasvérnyomás-betegség, demencia"
+9598,N,97,"magasvérnyomás-betegség, demencia, szívbetegség, demencia"
+9599,N,66,"magasvérnyomás-betegség, prosztatamegnagyobbodás, pajzsmirigy-betegség"
+9600,N,91,"magasvérnyomás-betegség, szívbetegség, vérszegénység"
+9601,N,83,"magasvérnyomás-betegség, demencia"
 9602,N,27,Kötőszövet és lágyrész rosszindulatú daganata
-9603,F,48,"Magasvérnyomás-betegség, szívbetegség, cukorbetegség"
-9604,N,91,"Magasvérnyomás-betegség, szívelégtelenség"
-9605,F,78,"Magasvérnyomás-betegség, daganatos megbetegedés"
-9606,F,81,"Magasvérnyomás-betegség, májzsugorodás, szívritmuszavar, veseelégtelenség, szívbetegség"
+9603,F,48,"magasvérnyomás-betegség, szívbetegség, cukorbetegség"
+9604,N,91,"magasvérnyomás-betegség, szívelégtelenség"
+9605,F,78,"magasvérnyomás-betegség, daganatos megbetegedés"
+9606,F,81,"magasvérnyomás-betegség, májzsugorodás, szívritmuszavar, veseelégtelenség, szívbetegség"
 9607,N,90,"Demencia, magasvérnyomás-betegség"
-9608,F,75,"Magasvérnyomás-betegség, lágyéksérv"
+9608,F,75,"magasvérnyomás-betegség, lágyéksérv"
 9609,N,49,Vesetranszplantált beteg
-9610,N,88,"Magasvérnyomás-betegség, Alzheimer-kór, demencia"
+9610,N,88,"magasvérnyomás-betegség, Alzheimer-kór, demencia"
 9611,F,80,"Tüdőbetegség, tüdőbetegség"
 9612,F,82,"Szívbetegség, magasvérnyomás-betegség"
 9613,F,75,"Magas vérnyomás, agyi érbetegség"
@@ -9617,19 +9617,19 @@ Sorszám,Nem,Kor,Alapbetegségek
 9616,N,73,"Szívbetegség, mélyvénás trombózis, pajzsmirigy betegség, depresszió, szívbetegség, magasvérnyomás-betegség, cukorbetegség"
 9617,N,80,"Tüdőbetegség, nyiroködéma, májbetegség, szívbetegség"
 9618,N,84,"Cukorbetegség, magasvérnyomás-betegség, agykárosodás"
-9619,N,79,"Magasvérnyomás-betegség, cukorbetegség"
+9619,N,79,"magasvérnyomás-betegség, cukorbetegség"
 9620,F,92,Érbetegség
 9621,N,79,"Szívbetegség, magasvérnyomás-betegség, szívritmuszavar"
-9622,N,69,"Magasvérnyomás-betegség, tüdőbetegség, cukorbetegség, asztma"
-9623,N,88,"Magasvérnyomás-betegség, szív és érrendszeri megbetegedés"
+9622,N,69,"magasvérnyomás-betegség, tüdőbetegség, cukorbetegség, asztma"
+9623,N,88,"magasvérnyomás-betegség, szív és érrendszeri megbetegedés"
 9624,F,76,"Magas vérnyomás, tüdőbetegség, daganatos megbetegedés"
 9625,F,49,Daganatos megbetegedés
 9626,F,77,"Agyi infarktus, prosztata túltengés, idült obstruktív tüdőbetegség, magasvérnyomás-betegség, szívbetegség"
 9627,N,81,"Vérszegénység, magas vérnyomás, agyi infarktus, veseelégtelenség, cukorbetegség"
 9628,F,89,"Epilepszia, agykárosodás, magasvérnyomás-betegség, Alzheimer-kór, Parkinzonizmus"
 9629,N,75,"Krónikus veseelégtelenség, gyermekbénulás következményei, magasvérnyomás-betegség, szívelégtelenség, idült obstruktiv tüdőbetegség"
-9630,F,80,"Magasvérnyomás-betegség, érszűkület, tüdőtágulat, cukorbetegség, demencia"
-9631,N,65,"Magasvérnyomás-betegség, cukorbetegség, vesebetegség"
+9630,F,80,"magasvérnyomás-betegség, érszűkület, tüdőtágulat, cukorbetegség, demencia"
+9631,N,65,"magasvérnyomás-betegség, cukorbetegség, vesebetegség"
 9632,N,74,Szívbetegség
 9633,F,45,"Magas vérnyomás, Crohn-betegség"
 9634,F,79,"Érelmeszesedés, szív és érrendszeri betegség, magasvérnyomás-betegség, cukorbetegség"
@@ -9637,35 +9637,35 @@ Sorszám,Nem,Kor,Alapbetegségek
 9636,N,87,"Veseelégtelenség, magasvérnyomás-betegség, szívritmuszavar, szívbetegség, köszvény"
 9637,F,84,"Gyomorfekély, cukorbetegség, magasvérnyomás-betegség"
 9638,N,70,"Általános érelmeszesedés, magasvérnyomás-betegség, szívelégtelenség, májbetegség"
-9639,F,62,"Magasvérnyomás-betegség, cukorbetegség, pajzsmirigy-betegség"
-9640,N,85,"Magasvérnyomás-betegség, bőrdaganat, agyi infarktus"
-9641,F,51,Magasvérnyomás-betegség
-9642,N,78,"Magasvérnyomás-betegség, veseelégtelenség"
+9639,F,62,"magasvérnyomás-betegség, cukorbetegség, pajzsmirigy-betegség"
+9640,N,85,"magasvérnyomás-betegség, bőrdaganat, agyi infarktus"
+9641,F,51,magasvérnyomás-betegség
+9642,N,78,"magasvérnyomás-betegség, veseelégtelenség"
 9643,N,85,"Magas vérnyomás, asztma, agyi érbetegség"
 9644,F,67,
 9645,N,93,"Veseelégtelenség, vérszegénység, cukorbetegség, magasvérnyomás-betegség"
-9646,N,86,"Magasvérnyomás-betegség, korábban hasfali sérv miatt operált"
+9646,N,86,"magasvérnyomás-betegség, korábban hasfali sérv miatt operált"
 9647,F,77,"Daganatos megbetegedés, vérszegénység, érelmeszesedés, orbánc"
 9648,N,86,"Szívbetegség, daganatos megbetegedés, pajzsmirigy-betegség"
 9649,N,90,"Szívbetegség, magasvérnyomás-betegség, cukorbetegség"
 9650,N,66,Cukorbetegség  degeneratív ízületi betegség
-9651,N,69,"Magas vérnyomás betegség, idült iszkémiás szívbetegség, cukorbetegség"
-9652,F,79,"Magasvérnyomás-betegség, szívelégtelenség, daganatos megbetegedés"
-9653,N,82,"Magasvérnyomás-betegség, daganatos betegség, pajzsmirigy-betegség"
-9654,N,61,"Magasvérnyomás-betegség, krónikus veseelégtelenség, vérszegénység"
-9655,F,65,"Magasvérnyomás-betegség, májbetegség"
+9651,N,69,"magasvérnyomás-betegség, idült iszkémiás szívbetegség, cukorbetegség"
+9652,F,79,"magasvérnyomás-betegség, szívelégtelenség, daganatos megbetegedés"
+9653,N,82,"magasvérnyomás-betegség, daganatos betegség, pajzsmirigy-betegség"
+9654,N,61,"magasvérnyomás-betegség, krónikus veseelégtelenség, vérszegénység"
+9655,F,65,"magasvérnyomás-betegség, májbetegség"
 9656,F,74,Tüdőbetegség
 9657,N,75,"Tüdőembólia, daganatos megbetegedés"
 9658,F,70,"Magas vérnyomás, szívelégtelenség, szív- és érrendszeri betegség"
 9659,F,86,"Cukorbetegség, tüdőbetegség, magasvérnyomás-betegség, demencia"
 9660,N,93,"2-es típusú cukorbetegség, magas vérnyomás, epekövesség, ízületi kopás"
 9661,F,61,"Cukorbetegség, magasvérnyomás-betegség, szívbetegség, tüdőbetegség"
-9662,F,74,"Cukorbetegség, szívbetegség, ütőérszűkület, magas vérnyomás-betegség, veseelégtelenség"
+9662,F,74,"Cukorbetegség, szívbetegség, ütőérszűkület, magasvérnyomás-betegség, veseelégtelenség"
 9663,F,69,"Agyi infarktus, szívbetegség, agyvizenyő, magasvérnyomás-betegség"
 9664,N,66,"Érszűkület, magasvérnyomás-betegség, cukorbetegség"
 9665,N,73,"Szívritmuszavar, magasvérnyomás-betegség, szívbetegség"
 9666,F,76,"Agyi infarktus, szívbetegség, cukorbetegség"
-9667,N,98,"Magasvérnyomás-betegség, szívizomelhalás, szív- és érrendszer betegség, krónikus veseelégtelenség"
+9667,N,98,"magasvérnyomás-betegség, szívizomelhalás, szív- és érrendszer betegség, krónikus veseelégtelenség"
 9668,N,62,érelmeszesedés
 9669,F,66,leukémia
 9670,F,61,"magas vérnyomás, cukorbetegség, májbetegség"
@@ -10339,8 +10339,8 @@ Sorszám,Nem,Kor,Alapbetegségek
 10338,F,83,"Alzheimer-kór, iszkémiás szivbetegség, magasvérnyomás-betegség, pajzsmirigy-alulműködés, cukorbetegség"
 10339,F,68,"magasvérnyomás-betegség, vertebrobasilaris szindróma"
 10340,N,55,"vérszegénység, veseelégtelenség"
-10341,F,68,"magasvérnyomás betegség, tüdőtágulat, perifériás érbetegség, trombózis, daganatos megbetegedés"
-10342,N,78,"magasvérnyomás betegség, pivarfibrilláció, szív- és érrendszeri megbetegedés"
+10341,F,68,"magasvérnyomás-betegség, tüdőtágulat, perifériás érbetegség, trombózis, daganatos megbetegedés"
+10342,N,78,"magasvérnyomás-betegség, pivarfibrilláció, szív- és érrendszeri megbetegedés"
 10343,F,72,"pacemaker implantáción átesett, cukorbetegség"
 10344,F,58,"epilepszia, agyi ütőérgyulladás"
 10345,N,83,demencia
@@ -10420,7 +10420,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 10419,N,80,"autoimmun májbetegség, cukorbetegség, magasvérnyomás-betegség"
 10420,N,89,magasvérnyomás-betegség
 10421,N,91,"magasvérnyomás-betegség, érelmeszesedés, agyi infarktus, krónikus obstruktív tüdőbetegség"
-10422,N,66,"magasvérnyomás betegség, agyvelőgyulladás, daganatos megbetegedés"
+10422,N,66,"magasvérnyomás-betegség, agyvelőgyulladás, daganatos megbetegedés"
 10423,F,83,"magasvérnyomás-betegség, cukorbetegség, pitvarfibrilláció"
 10424,F,65,"magasvérnyomás-betegség, pitvarfibrilláció"
 10425,F,74,"magasvérnyomás-betegség, cukorbetegség, veseelégtelenség, vérszegénység"
@@ -10494,8 +10494,8 @@ Sorszám,Nem,Kor,Alapbetegségek
 10493,F,57,"magas vérnyomás, túlsúly"
 10494,F,66,
 10495,F,69,"hasfali sérv, szívritmuszavar, krónikus obtruktív tüdőbetegség, szívelégtelenség"
-10496,N,57,"heveny szívizomelhalás, koszorúér implantátum, magas vérzsír szint; magas vérnyomás, koszorúér görcs, érelmeszesedés, idült obstruktív tüdőbetegség, idült tüdőgyulladás"
-10497,F,73,"magas vérnyomás betegség, agyi infarktus, érelmeszesedés"
+10496,N,57,"heveny szívizomelhalás, koszorúér implantátum, magas vérzsír szint, magas vérnyomás, koszorúér görcs, érelmeszesedés, idült obstruktív tüdőbetegség, idült tüdőgyulladás"
+10497,F,73,"magasvérnyomás-betegség, agyi infarktus, érelmeszesedés"
 10498,N,87,
 10499,F,86,"epilepszia, magas vérnyomás, demencia"
 10500,N,99,
@@ -10549,7 +10549,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 10548,F,93,"cukorbetegség, szívritmuszavar, veseelégtelenség"
 10549,N,85,"szívritmuszavar, cukorbetegség, iszkémiás szívbetegség, magas vérnyomás, Parkinson-kór"
 10550,N,91,"magas vérnyomás, szívritmuszavar, krónikus vesebetegség"
-10551,N,46,"magas vérnyomás betegség, pajzsmirigy alulműködés, cukorbetegség"
+10551,N,46,"magasvérnyomás-betegség, pajzsmirigy alulműködés, cukorbetegség"
 10552,F,78,"magas vérnyomás, vér zsíranyagcsere zavara, szívritmuszavar, májbetegség"
 10553,F,87,"magas vérnyomás, nyelőcső reflux, asztma, Alzheimer-kór, szívbetegség"
 10554,N,66,magas vérnyomás
@@ -11106,7 +11106,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 11105,N,67,"magasvérnyomás-betegség, cukorbetegség, kóros elhízás"
 11106,F,77,tüdő rosszindultaú daganata
 11107,N,89,"magasvérnoymás-betegség, iszkémiás szívbetegség"
-11108,F,78,"magas vérnyomás-betegség, krónikus obstruktív tüdőbetegség, epilepszia"
+11108,F,78,"magasvérnyomás-betegség, krónikus obstruktív tüdőbetegség, epilepszia"
 11109,N,59,"magasvérnyomás-betegség, cukorbetegség"
 11110,F,65,"kóros elhízás, cukorbetegség, magasvérnyomás-betegség, asztma"
 11111,N,97,"magasvérnyomás-betegség, magas vérzsírszint, iszkémiás szívbetegség"
@@ -11128,9 +11128,9 @@ Sorszám,Nem,Kor,Alapbetegségek
 11127,N,80,"daganatos megbetegedés, vesekő, krónikus veseelégtelenség"
 11128,F,66,"agyi sorvadás, neurológiai betegség"
 11129,F,67,"magasvérnyomás-betegség, pajzsmirigy betegség, agyi infarctus"
-11130,N,89,"magas vérnyomás-betegség, demencia"
+11130,N,89,"magasvérnyomás-betegség, demencia"
 11131,N,84,"magasvérnyomás-betegség, cukorbetegség, rekeszsérv, nyelőcsőfekély, krónikus veseelégtelenség"
-11132,N,75,"magas vérnyomás-betegség, pajzsmirígy túlműködés"
+11132,N,75,"magasvérnyomás-betegség, pajzsmirígy túlműködés"
 11133,N,60,"asztma, cukorbetegség, tüdőtranszplantált beteg"
 11134,F,88,"krónikus obstruktív tüdőbetegség, asztma"
 11135,N,85,"szívritmuszavar, krónikus veseelégtelenség, vérszegénység, cukorbetegség, szívelégtelenség"
@@ -11561,7 +11561,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 11560,F,76,"magasvérnyomás-betegség, veseelégtelenség, vérszegénység, infarktus"
 11561,F,71,"magasvérnyomás-betegség, szívbetegség, kóros elhízás, májzsugorodás, veseelégtelenség"
 11562,F,64,"magasvérnyomás-betegség, szívbetegség, kóros elhízás"
-11563,N,95,"magasvérnyomás betegség, szívbetegség, demencia, vérszegénység"
+11563,N,95,"magasvérnyomás-betegség, szívbetegség, demencia, vérszegénység"
 11564,N,90,"magasvérnyomás-betegség, demencia, cukorbetegség, veseelégtelenség"
 11565,N,94,
 11566,F,66,magasvérnyomás-betegség
@@ -11800,7 +11800,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 11799,F,94,"magasvérnyomás-betegség, iszkémiás szívbetegség, demencia"
 11800,F,56,szív- és érrendszeri megbetegedések
 11801,F,66,"magasvérnyomás-betegség, krónikus obstruktív tüdőbetegség"
-11802,N,78,"magasvérnyomás betegség, krónikus veseelégtelenség"
+11802,N,78,"magasvérnyomás-betegség, krónikus veseelégtelenség"
 11803,N,79,"veseelégtelenség, vérszegénység, magasvérnyomás-betegség"
 11804,N,79,"magasvérnyomás-betegség, iszkémiás szívbetegség"
 11805,F,66,"szív- és érrendszeri megbetegedések, daganatos megbetegedés"
@@ -12407,7 +12407,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 12406,N,85,"magasvérnyomás-betegség, érelmeszesedés"
 12407,N,72,"daganatos megbetegedések, májbetegség"
 12408,N,89,"pitvarfibrilláció, magas vérnyomás, szívelégtelenség, köszvény, pajzsmirigy túlműködés"
-12409,N,85,"magasvérnyomás betegség, pitvarfibrillació, szívelégtelenség"
+12409,N,85,"magasvérnyomás-betegség, pitvarfibrillació, szívelégtelenség"
 12410,N,79,"magasvérnyomás-betegség, daganatos betegség"
 12411,N,73,"magasvérnyomás-betegség, érbetegség, szívbetegség"
 12412,N,64,"magasvérnyomás-betegség, szívbetegség"
@@ -12425,7 +12425,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 12424,N,87,"szívbetegség, szívelégtelenség, demencia"
 12425,N,81,"magasvérnyomás-betegség, szívbetegség, stroke, ekcéma, pikkelysömör"
 12426,N,71,"vérszegénység, fehérvérsejt rendellenesség, immunhiány, cukorbetegség, tüdőbetegség, sav-bázis egyensúly kevert zavara"
-12427,N,78,"érelmeszesedés, pangásos szívelégtelenség, magasvérnyomás betegség, cukorbetegség, krónikus veseelégtelenség"
+12427,N,78,"érelmeszesedés, pangásos szívelégtelenség, magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség"
 12428,N,82,"szívbetegség, magasvérnyomás-betegség, cukorbetegség, reflux"
 12429,N,86,magasvérnyomás-betegség
 12430,N,81,"magasvérnyomás-betegség, cukorbetegség"
@@ -13336,7 +13336,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 13335,F,61,"cukorbetegség, magas vérnyomás, krónikus veseelégtelenség"
 13336,N,69,"hasnyálmirigy rosszindulatú daganata, tüdődaganat, hashártya rosszindulatú daganata, vérszegénység, cukorbetegség, magasvérnyomás-betegség"
 13337,N,76,"magas vérnyomás, cukorbetegség"
-13338,F,62,"főhörgő rosszindulatú daganata, mellhártya másodlagos rosszindulatú daganata, magas vérnyomás betegség, cardiális dekompenzáció, iszkémiás szívbetegség, régi szívizom elhalás"
+13338,F,62,"főhörgő rosszindulatú daganata, mellhártya másodlagos rosszindulatú daganata, magasvérnyomás-betegség, cardiális dekompenzáció, iszkémiás szívbetegség, régi szívizom elhalás"
 13339,N,67,-NI-
 13340,N,74,vérmérgezés
 13341,N,68,"agyi áttétek, krónikus obstruktív tüdőbetegség"
@@ -14115,7 +14115,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 14114,F,76,vastagbél  rosszindulatú daganata
 14115,N,83,"magasvérnyomás-betegség, demencia, krónikus veseelégtelenség"
 14116,N,78,"magasvérnyomás-betegség, hepatitis c fertőzés"
-14117,F,87,"magas vérnyomás-betegség, agyi infarktus, prosztatabetegség"
+14117,F,87,"magasvérnyomás-betegség, agyi infarktus, prosztatabetegség"
 14118,F,66,"cukorbetegség, szívérszűkület, véralvadási-betegség, nyelvgyöki tumor"
 14119,F,71,"mozgásszervi-betegség, idegrendszeri-betegség"
 14120,F,68,"magasvérnyomás-betegség, cukorbetegség"
@@ -14468,7 +14468,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 14467,F,77,iszkémiás szívbetegség
 14468,F,50,"vérmérgezés, szívbetegség, szívritmuszavar"
 14469,F,58,magasvérnyomás-betegség
-14470,N,78,"magas vérnyomás-betegség, hörgőasztma, keringési elégtelenség"
+14470,N,78,"magasvérnyomás-betegség, hörgőasztma, keringési elégtelenség"
 14471,F,55,"tüdő rosszindulatú daganata, táplálkozási nehézségek és zavarok, a máj rosszindulatú daganata"
 14472,N,76,vérmérgezés
 14473,N,83,"krónikus obstruktív tüdőbetegség, agyvérzés"
@@ -14902,7 +14902,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 14901,N,55,"magasvérnyomás-betegség, májbetegség, gyomorfekély"
 14902,N,79,"daganatos megbetegedés, pangásos szívelégtelenség"
 14903,F,80,"elülső miokardiális infarktus, bal kamra aneorizma műtét, beépített defibrillátor, gyomor tumor, magas vérnyomás, cukorbetegség"
-14904,N,78,"magasvérnyomás betegség, idült iszkémiás szívbetegség, agyi infarktus"
+14904,N,78,"magasvérnyomás-betegség, idült iszkémiás szívbetegség, agyi infarktus"
 14905,N,77,"stroke, bal oldalon állandósult bénulás, agyzúzódás, demencia, vérszegénység, hólyaggyulladás"
 14906,F,86,"Parkinson-kór, demencia"
 14907,N,75,"magas vérnyomás, iszkémiás szívbetegség"
@@ -14973,89 +14973,89 @@ Sorszám,Nem,Kor,Alapbetegségek
 14972,N,60,"magas vérnyomás, cukorbetegség, alsó végtag fekély"
 14973,N,75,"magas vérnyomás, szívelégtelenség, szívritmuszavar, krónikus obstruktív tüdőbetegség"
 14974,N,75,"cukorbetegség, magas vérnyomás, krónikus myeloid leukémia, krónikus veseelégtelenség"
-14975,N,81,"cukorbetegség, magasvérnyomás betegség"
+14975,N,81,"cukorbetegség, magasvérnyomás-betegség"
 14976,N,78,"vaszkuláris demencia, magas vérzsír szint, érelmeszesedés, reflux"
-14977,N,49,"elhízás, magasvérnyomás betegség"
+14977,N,49,"elhízás, magasvérnyomás-betegség"
 14978,N,60,Non-Hodgkin lymphoma
-14979,N,77,"cukorbetegség, magasvérnyomás betegség, pajzsmirigy alulműködés, magas vérzsír szint, akut myeloid leukémia"
+14979,N,77,"cukorbetegség, magasvérnyomás-betegség, pajzsmirigy alulműködés, magas vérzsír szint, akut myeloid leukémia"
 14980,N,82,"cukorbetegség, érelmeszesedés, pitvarfibrilláció, agyi infarktus, vaszkuláris demencia, krónikus veseelégtelenség"
-14981,N,83,"cukorbetegség, magasvérnyomás betegség"
-14982,N,80,"magasvérnyomás betegség, agyi érbetegség, magas vérlipidszint"
-14983,N,70,"magasvérnyomás betegség, irreguláris pulzus, szívelégtelenség, cukorbetegség és annak szövődményei, asztma, ischaemias stroke, beszűkült vesefunkció"
-14984,N,70,"pajzsmirigy tumor, magasvérnyomás betegség"
+14981,N,83,"cukorbetegség, magasvérnyomás-betegség"
+14982,N,80,"magasvérnyomás-betegség, agyi érbetegség, magas vérlipidszint"
+14983,N,70,"magasvérnyomás-betegség, irreguláris pulzus, szívelégtelenség, cukorbetegség és annak szövődményei, asztma, ischaemias stroke, beszűkült vesefunkció"
+14984,N,70,"pajzsmirigy tumor, magasvérnyomás-betegség"
 14985,N,62,"cukorbetegség, érelmeszesedés"
-14986,N,84,"cukorbetegség, magasvérnyomás betegség, vesebetegség, ischaemiás szívbetegség, pitvarfibrilláció"
-14987,N,68,"myeloid leukémia, magasvérnyomás betegség, ischaemiás szívbetegség, érelmeszesedés"
-14988,N,87,"magasvérnyomás betegség, pitvarfibrilláció, ismert beszűkült vesefunkció, vízmellkas"
-14989,N,77,"cukorbetegség, magasvérnyomás betegség, Parkinson-kór, krónikus veseelégtelenség, agysorvadás"
-14990,N,48,"cukorbetegség, magasvérnyomás betegség, toxikus májbetegség"
-14991,N,69,"magasvérnyomás betegség, cukorbetegség, pitvarfibrilláció, ischaemiás szívbetegség"
-14992,N,69,"magasvérnyomás betegség, cukorbetegség, régi szívizomelhalás"
-14993,N,89,"vaszkuláris demencia, magasvérnyomás betegség"
-14994,N,80,"magasvérnyomás betegség, szarkoidózis, érelmeszesedés"
+14986,N,84,"cukorbetegség, magasvérnyomás-betegség, vesebetegség, ischaemiás szívbetegség, pitvarfibrilláció"
+14987,N,68,"myeloid leukémia, magasvérnyomás-betegség, ischaemiás szívbetegség, érelmeszesedés"
+14988,N,87,"magasvérnyomás-betegség, pitvarfibrilláció, ismert beszűkült vesefunkció, vízmellkas"
+14989,N,77,"cukorbetegség, magasvérnyomás-betegség, Parkinson-kór, krónikus veseelégtelenség, agysorvadás"
+14990,N,48,"cukorbetegség, magasvérnyomás-betegség, toxikus májbetegség"
+14991,N,69,"magasvérnyomás-betegség, cukorbetegség, pitvarfibrilláció, ischaemiás szívbetegség"
+14992,N,69,"magasvérnyomás-betegség, cukorbetegség, régi szívizomelhalás"
+14993,N,89,"vaszkuláris demencia, magasvérnyomás-betegség"
+14994,N,80,"magasvérnyomás-betegség, szarkoidózis, érelmeszesedés"
 14995,N,69,"cukorbetegség, hypertenzív szívbetegség szívelégetelenséggel, érelmeszesedés"
-14996,N,80,"magasvérnyomás betegség, pitvarfibrilláció, krónikus veseelégtelenség, aortabillentyű-beültetés"
+14996,N,80,"magasvérnyomás-betegség, pitvarfibrilláció, krónikus veseelégtelenség, aortabillentyű-beültetés"
 14997,N,63,krónikus veseelégtelenség
-14998,N,67,"magasvérnyomás betegség, agyvérzés, magas koleszterinszint, elhízás, krónikus alkoholizmus"
-14999,N,73,"krónikus obstruktív tüdőbetegség, magasvérnyomás betegség, cukorbetegség, érelmeszesedés, pajzsmirigy alulműködés"
-15000,N,56,"magasvérnyomás betegség, cukorbetegség, felnőttkori légzési distress-szindróma"
-15001,N,77,"koszorúér heveny keringési zavara, szív aortabillentyűjének szűkülete, kéthegyű szívbillentyű elégtelensége, cukorbetegség, magasvérnyomás betegség, elhízás, magas vérzsír szint, krónikus obstruktív tüdőbetegség"
-15002,N,92,"ischaemiás szívbetegség, érelmeszesedés, krónikus veseelégtelenség, magasvérnyomás betegség"
-15003,N,80,magasvérnyomás betegség
-15004,N,85,"magasvérnyomás betegség, cukorbetegség, vaszkuláris demencia, agyi érelmeszesedés"
-15005,N,75,"ischaemiás szívbetegség, érelmeszesedés, magasvérnyomás betegség"
-15006,N,87,"magasvérnyomás betegség, szívnagyobbodás, elzáródással járó artéria keményedés, pajzsmirigy alulműködés"
-15007,N,81,"magasvérnyomás betegség, cukorbetegség, magas vérzsír szint, krónikus veseelégtelenség"
-15008,N,70,"hypertensiv szívbetegség, magasvérnyomás betegség"
+14998,N,67,"magasvérnyomás-betegség, agyvérzés, magas koleszterinszint, elhízás, krónikus alkoholizmus"
+14999,N,73,"krónikus obstruktív tüdőbetegség, magasvérnyomás-betegség, cukorbetegség, érelmeszesedés, pajzsmirigy alulműködés"
+15000,N,56,"magasvérnyomás-betegség, cukorbetegség, felnőttkori légzési distress-szindróma"
+15001,N,77,"koszorúér heveny keringési zavara, szív aortabillentyűjének szűkülete, kéthegyű szívbillentyű elégtelensége, cukorbetegség, magasvérnyomás-betegség, elhízás, magas vérzsír szint, krónikus obstruktív tüdőbetegség"
+15002,N,92,"ischaemiás szívbetegség, érelmeszesedés, krónikus veseelégtelenség, magasvérnyomás-betegség"
+15003,N,80,magasvérnyomás-betegség
+15004,N,85,"magasvérnyomás-betegség, cukorbetegség, vaszkuláris demencia, agyi érelmeszesedés"
+15005,N,75,"ischaemiás szívbetegség, érelmeszesedés, magasvérnyomás-betegség"
+15006,N,87,"magasvérnyomás-betegség, szívnagyobbodás, elzáródással járó artéria keményedés, pajzsmirigy alulműködés"
+15007,N,81,"magasvérnyomás-betegség, cukorbetegség, magas vérzsír szint, krónikus veseelégtelenség"
+15008,N,70,"hypertensiv szívbetegség, magasvérnyomás-betegség"
 15009,N,78,"krónikus obstruktív tüdőbetegség, cukorbetegség, szívelégtelenség, tüdőembolia, veseelégtelenség"
-15010,N,72,"magasvérnyomás betegség, paroxysmalis pitvarfibrilláció"
-15011,N,87,magasvérnyomás betegség
+15010,N,72,"magasvérnyomás-betegség, paroxysmalis pitvarfibrilláció"
+15011,N,87,magasvérnyomás-betegség
 15012,N,49,májzsugorodás
 15013,N,72,
-15014,N,40,"magasvérnyomás betegség, elhízás"
-15015,N,58,"magasvérnyomás betegség, cukorbetegség szövődményekkel, kisagy középső artériája elzáródása és szűkülete, agyi infarktus az agyi ütőerek embóliája miatt"
+15014,N,40,"magasvérnyomás-betegség, elhízás"
+15015,N,58,"magasvérnyomás-betegség, cukorbetegség szövődményekkel, kisagy középső artériája elzáródása és szűkülete, agyi infarktus az agyi ütőerek embóliája miatt"
 15016,N,66,koszorúér heveny keringési zavara
-15017,N,61,"magasvérnyomás betegség, cukorbetegség"
+15017,N,61,"magasvérnyomás-betegség, cukorbetegség"
 15018,N,49,cukorbetegség
-15019,N,62,"magasvérnyomás betegség, cukorbetegség, extrém elhízás"
+15019,N,62,"magasvérnyomás-betegség, cukorbetegség, extrém elhízás"
 15020,N,86,
-15021,N,63,"ischaemiás szívbetegség, magasvérnyomás betegség"
+15021,N,63,"ischaemiás szívbetegség, magasvérnyomás-betegség"
 15022,N,61,"Raynauld szindróma, pajzsmirigy alulműködés, ütőérszűkület"
-15023,N,64,"magasvérnyomás betegség, elhízás"
-15024,N,83,"magasvérnyomás betegség, végstádiumú veseelégtelenség"
-15025,N,78,"magasvérnyomás betegség, cukorbetegség, alsóvégtagi mélyvénás trombózis"
-15026,N,68,"magasvérnyomás betegség, ischaemiás szívbetegség, pitvarfibrilláció, elhízás, érelmeszesedés, pajzsmirigy alulműködés"
-15027,N,76,magasvérnyomás betegség
-15028,N,82,"tágulattal járó szívizombántalom, magasvérnyomás betegség, agysorvadás"
-15029,N,84,"demencia, magasvérnyomás betegség"
+15023,N,64,"magasvérnyomás-betegség, elhízás"
+15024,N,83,"magasvérnyomás-betegség, végstádiumú veseelégtelenség"
+15025,N,78,"magasvérnyomás-betegség, cukorbetegség, alsóvégtagi mélyvénás trombózis"
+15026,N,68,"magasvérnyomás-betegség, ischaemiás szívbetegség, pitvarfibrilláció, elhízás, érelmeszesedés, pajzsmirigy alulműködés"
+15027,N,76,magasvérnyomás-betegség
+15028,N,82,"tágulattal járó szívizombántalom, magasvérnyomás-betegség, agysorvadás"
+15029,N,84,"demencia, magasvérnyomás-betegség"
 15030,N,50,szívelégtelenség
-15031,N,87,"magasvérnyomás betegség, ischaemiás szívbetegség"
+15031,N,87,"magasvérnyomás-betegség, ischaemiás szívbetegség"
 15032,N,96,demencia
 15033,N,61,vénás trombózis
-15034,N,69,"magasvérnyomás betegség, ischaemiás szívbetegség"
-15035,N,65,"magasvérnyomás betegség, ischaemiás szívbetegség, cukorbetegség, pitvarfibrilláció"
-15036,N,81,"magasvérnyomás betegség, ischaemiás szívbetegség, érelmeszesedés"
-15037,N,60,"magasvérnyomás betegség, cukorbetegség, krónikus veseelégtelenség"
-15038,N,82,"magasvérnyomás betegség, mélyvénás trombózis"
+15034,N,69,"magasvérnyomás-betegség, ischaemiás szívbetegség"
+15035,N,65,"magasvérnyomás-betegség, ischaemiás szívbetegség, cukorbetegség, pitvarfibrilláció"
+15036,N,81,"magasvérnyomás-betegség, ischaemiás szívbetegség, érelmeszesedés"
+15037,N,60,"magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség"
+15038,N,82,"magasvérnyomás-betegség, mélyvénás trombózis"
 15039,N,67,"végbél rosszindulatú daganata, tüdő-és májáttét, kétoldali tüdőembólia"
 15040,N,68,
-15041,N,65,"magasvérnyomás betegség, cukorbetegség, magas vérzsír szint, pajzsmirigy alulműködés"
-15042,N,93,"magasvérnyomás betegség, ischaemiás szívbetegség"
+15041,N,65,"magasvérnyomás-betegség, cukorbetegség, magas vérzsír szint, pajzsmirigy alulműködés"
+15042,N,93,"magasvérnyomás-betegség, ischaemiás szívbetegség"
 15043,N,74,"érelmeszesedéssel járó szívbetegség, Bal Tawara-szár-block, érelmeszesedés, egyéb krónikus veseelégtelenség, vesezsugorodás"
-15044,N,71,"magasvérnyomás betegség, ischaemiás szívbetegség, krónikus obstruktív tüdőbetegség"
+15044,N,71,"magasvérnyomás-betegség, ischaemiás szívbetegség, krónikus obstruktív tüdőbetegség"
 15045,N,76,"agyi infarktus, sav-bázis egyensúly kevert zavara, vérmérgezés"
-15046,N,82,"agyi erek károsodása, érelmeszesedés, magasvérnyomás betegség, ischaemiás szívbetegség, tüdőtágulat, krónikus obstruktív tüdőbetegség"
-15047,N,71,"magasvérnyomás betegség, krónikus limfocitás leukémia"
-15048,N,75,"magasvérnyomás betegség, cukorbetegség, krónikus obstruktív tüdőbetegség, ischaemiás szívbetegség, krónikus veseelégtelenség"
-15049,N,41,"magasvérnyomás betegség, magas koleszterinszint, elhízás"
-15050,N,70,"magasvérnyomás betegség, cukorbetegség, krónikus obstruktív tüdőbetegség, pitvarfibrilláció, iszkémiás szívbetegség"
-15051,N,66,magasvérnyomás betegség
-15052,N,84,"magasvérnyomás betegség, cukorbetegség, Alzheimer-kór, reflux nyelőcsőgyulladással"
-15053,N,64,"pangásos szívelégtelenség, emlő rosszindulatú daganata, tüdő másodlagos rosszindulatú daganata, magasvérnyomás betegség, asztma"
-15054,N,64,"hasnyálmirigy fej rosszindulatú daganata, máj másodlagos rosszindulatú daganata, magasvérnyomás betegség"
-15055,N,71,"magasvérnyomás betegség, cukorbetegség, szívelégtelenség"
-15056,N,67,"tüdőtumor, magasvérnyomás betegség, pitvarfibrilláció"
-15057,N,88,"magasvérnyomás betegség, szívelégtelenség"
+15046,N,82,"agyi erek károsodása, érelmeszesedés, magasvérnyomás-betegség, ischaemiás szívbetegség, tüdőtágulat, krónikus obstruktív tüdőbetegség"
+15047,N,71,"magasvérnyomás-betegség, krónikus limfocitás leukémia"
+15048,N,75,"magasvérnyomás-betegség, cukorbetegség, krónikus obstruktív tüdőbetegség, ischaemiás szívbetegség, krónikus veseelégtelenség"
+15049,N,41,"magasvérnyomás-betegség, magas koleszterinszint, elhízás"
+15050,N,70,"magasvérnyomás-betegség, cukorbetegség, krónikus obstruktív tüdőbetegség, pitvarfibrilláció, iszkémiás szívbetegség"
+15051,N,66,magasvérnyomás-betegség
+15052,N,84,"magasvérnyomás-betegség, cukorbetegség, Alzheimer-kór, reflux nyelőcsőgyulladással"
+15053,N,64,"pangásos szívelégtelenség, emlő rosszindulatú daganata, tüdő másodlagos rosszindulatú daganata, magasvérnyomás-betegség, asztma"
+15054,N,64,"hasnyálmirigy fej rosszindulatú daganata, máj másodlagos rosszindulatú daganata, magasvérnyomás-betegség"
+15055,N,71,"magasvérnyomás-betegség, cukorbetegség, szívelégtelenség"
+15056,N,67,"tüdőtumor, magasvérnyomás-betegség, pitvarfibrilláció"
+15057,N,88,"magasvérnyomás-betegség, szívelégtelenség"
 15058,N,79,"érelmeszesedés, pitvarfibrilláció"
 15059,F,77,cukorbetegség
 15060,F,65,veseelégtelenség
@@ -15846,7 +15846,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 15845,N,83,"magas vérnyomás, cukorbetegség, magas vérzsírszint, veseelégtelenség, szívritmus-szabályozó, iszkémiás stroke, tüdőgyulladás, epehólyag eltávolítás"
 15846,N,83,magas vérnyomás
 15847,F,78,"szívritmuszavar, magas vérnyomás. cukorbetegség. magas vérzsírszint"
-15848,N,67,"felsőlebeny hörgő vagy tüdő rosszindulatú daganata, a tüdő másodlagos rosszindulatú daganata, mellékvese másodlagos rosszindulatú daganata, magasvérnyomás betegség, nyirokcsomók rosszindulatú daganata"
+15848,N,67,"felsőlebeny hörgő vagy tüdő rosszindulatú daganata, a tüdő másodlagos rosszindulatú daganata, mellékvese másodlagos rosszindulatú daganata, magasvérnyomás-betegség, nyirokcsomók rosszindulatú daganata"
 15849,F,69,"magas vérnyomás, cukorbetegség, szívelégtelenség"
 15850,N,81,"cukorbetegség, krónikus veseelégtelenség, magas vérnyomás"
 15851,F,93,"magas vérnyomás, iszkémiás szívbetegség, érelzáródás"
@@ -15944,25 +15944,25 @@ Sorszám,Nem,Kor,Alapbetegségek
 15943,N,72,"cukorbetegség, kóros elhízás"
 15944,N,82,"magasvérnyomás-betegség, stroke, demencia, szívelégtelenség"
 15945,N,87,magasvérnyomás-betegség
-15946,N,65,"Magasvérnyomás-betegség, cukorbetegség"
+15946,N,65,"magasvérnyomás-betegség, cukorbetegség"
 15947,N,64,Daganatos megbetegedés
-15948,N,72,"Magasvérnyomás-betegség, cukorbetegség, agyi infarktus"
-15949,N,91,"Magasvérnyomás-betegség, szív és érendszeri betegség"
+15948,N,72,"magasvérnyomás-betegség, cukorbetegség, agyi infarktus"
+15949,N,91,"magasvérnyomás-betegség, szív és érendszeri betegség"
 15950,N,61,Mentalis retardáció
-15951,N,66,"Magasvérnyomás-betegség, szívbetegség"
+15951,N,66,"magasvérnyomás-betegség, szívbetegség"
 15952,N,60,"Daganatos betegség, magasvérnyomás-betegség"
 15953,N,97,"magasvérnyomás-betegség, pacemakert viselő személy"
-15954,N,72,"Magasvérnyomás-betegség, cukorbetegség, kóros testsúlytöbblet"
-15955,N,71,"Magasvérnyomás-betegség, tüdőbetegség"
+15954,N,72,"magasvérnyomás-betegség, cukorbetegség, kóros testsúlytöbblet"
+15955,N,71,"magasvérnyomás-betegség, tüdőbetegség"
 15956,N,64,Magasvérnyomás
-15957,N,74,"Magasvérnyomás-betegség, szív és érrendszeri betegség, cukorbetegség"
-15958,N,76,"Magasvérnyomás-betegség, cukorbetegség, légzési elégtelenség"
-15959,N,68,"Magasvérnyomás-betegség, daganatos betegség, izületi betegség"
+15957,N,74,"magasvérnyomás-betegség, szív és érrendszeri betegség, cukorbetegség"
+15958,N,76,"magasvérnyomás-betegség, cukorbetegség, légzési elégtelenség"
+15959,N,68,"magasvérnyomás-betegség, daganatos betegség, izületi betegség"
 15960,N,45,Daganatos betegség
-15961,N,86,"Magasvérnyomás-betegség, szívbetegség, vaszkuláris demencia"
+15961,N,86,"magasvérnyomás-betegség, szívbetegség, vaszkuláris demencia"
 15962,N,66,"Elhízás, magasvérnyomás-betegség, légzési elégtelenség"
 15963,N,70,"Gégeeltávolítás, magasvérnyomás-betegség, cukorbetegség"
-15964,N,90,"Magasvérnyomás-betegség, szívbetegség"
+15964,N,90,"magasvérnyomás-betegség, szívbetegség"
 15965,N,66,"magasvérnyomás-betegség, pacemakert viselő személy, cukorbetegség"
 15966,N,90,"szívbetegség, magasvérnyomás-betegség, cukorbetegség"
 15967,N,79,magasvérnyomás-betegség
@@ -16055,7 +16055,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 16054,N,71,szívelégtelenség
 16055,N,70,magasvérnyomás-betegség
 16056,N,80,"magasvérnyomás-betegség, tüdőbetegség, szívbetegség"
-16057,N,88,"magasvérnyomás betegség, cukorbetegség, kóros elhízás"
+16057,N,88,"magasvérnyomás-betegség, cukorbetegség, kóros elhízás"
 16058,N,65,"magasvérnyomás-betegség, tüdőgyulladás"
 16059,N,84,"tüdőbetegség, szívelégtelenség"
 16060,N,86,cukorbetegség
@@ -16538,7 +16538,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 16537,N,60,magasvérnyomás-betegség
 16538,N,74,magasvérnyomás-betegség
 16539,N,82,"magasvérnyomás-betegség, iszkémiás szívbetegség, pajzsmirigy alulműködés, Parkinson-kór"
-16540,N,68,"magasvérnyomás betegség, iszkémiás szívbetegség"
+16540,N,68,"magasvérnyomás-betegség, iszkémiás szívbetegség"
 16541,N,67,"magasvérnyomás-betegség, reflux, gerincmeszesedés"
 16542,N,76,magasvérnyomás-betegség
 16543,N,80,"magasvérnyomás-betegség, érrendszeri betegségek"
@@ -17318,7 +17318,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 17317,N,81,"magasvérnyomás-betegség, cukorbetegség, iszkémiás szívbetegség"
 17318,N,61,"asztma, cukorbetegség"
 17319,N,54,"magasvérnyomás-betegség, cukorbetegség"
-17320,N,65,"magasvérnyomás betegség, májbetegség"
+17320,N,65,"magasvérnyomás-betegség, májbetegség"
 17321,N,73,"asztma, tüdőbetegség"
 17322,N,84,"magasvérnyomás-betegség, iszkémiás szívbetegség, krónikus veseelégtelenség"
 17323,N,82,"pangásos szívelégtelenség, iszkémiás szívbetegség"
@@ -17377,14 +17377,14 @@ Sorszám,Nem,Kor,Alapbetegségek
 17376,F,64,"szívbetegség, pajzsmirigy betegség"
 17377,F,70,krónikus veseelégtelenség
 17378,F,52,"cukorbetegség, magasvérnyomás-betegség, szívbetegség"
-17379,N,66,"cukorbetegség, magasvérnyomás betegség"
+17379,N,66,"cukorbetegség, magasvérnyomás-betegség"
 17380,N,51,"cukorbetegség, vérmérgezés"
 17381,F,74,"cukorbetegség, szívbetegség, veseelégtelenség"
 17382,F,83,"magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség"
 17383,N,75,"magasvérnyomás-betegség, cukorbetegség, tüdőbetegség, veseelégtelenség"
 17384,N,95,"magasvérnyomás-betegség, szívelégtelenség"
 17385,N,37,daganatos megbetegedés
-17386,F,79,"magasvérnyomás betegség, iszkémiás szívbetegség"
+17386,F,79,"magasvérnyomás-betegség, iszkémiás szívbetegség"
 17387,F,56,"magasvérnyomás-betegség, cukorbetegség"
 17388,F,80,"magasvérnyomás-betegség, cukorbetegség, tüdőbetegség"
 17389,F,65,"magasvérnyomás-betegség, daganatos megbetegedés"
@@ -17424,209 +17424,209 @@ Sorszám,Nem,Kor,Alapbetegségek
 17423,F,80,"szívbetegség, szívritmuszavar, krónikus veseelégtelenség, agyi érkeringési zavar betegség"
 17424,F,53,szívelégtelenség
 17425,F,69,verőér műbillentyű beültetés
-17426,N,83,"magasvérnyomás betegség, féloldali bénulás, személyiségzavar"
+17426,N,83,"magasvérnyomás-betegség, féloldali bénulás, személyiségzavar"
 17427,N,83,"asztma, gerincbetegség"
-17428,N,70,"tumoros betegség, magasvérnyomás betegség"
-17429,F,64,magasvérnyomás betegség
-17430,F,70,"magasvérnyomás betegség, cukorbetegség"
-17431,N,73,"ízületi gyulladás, csontritkulás, magasvérnyomás betegség, szívbetegség"
-17432,N,46,magasvérnyomás betegség
+17428,N,70,"tumoros betegség, magasvérnyomás-betegség"
+17429,F,64,magasvérnyomás-betegség
+17430,F,70,"magasvérnyomás-betegség, cukorbetegség"
+17431,N,73,"ízületi gyulladás, csontritkulás, magasvérnyomás-betegség, szívbetegség"
+17432,N,46,magasvérnyomás-betegség
 17433,N,67,vastagbél betegség
-17434,N,70,"magasvérnyomás betegség, cukorbetegség, körzeti idegek degenerációja, szívritmuszavar"
+17434,N,70,"magasvérnyomás-betegség, cukorbetegség, körzeti idegek degenerációja, szívritmuszavar"
 17435,N,48,"kóros elhízás, csökkent pajzsmirigyműködés"
-17436,N,65,magasvérnyomás betegség
+17436,N,65,magasvérnyomás-betegség
 17437,F,72,tüdőgyulladás
-17438,N,81,"magasvérnyomás betegség, cukorbetegség, szívbetegség, krónikus veseelégtelenség"
+17438,N,81,"magasvérnyomás-betegség, cukorbetegség, szívbetegség, krónikus veseelégtelenség"
 17439,F,84,
 17440,N,87,"csökkent pajzsmirigyműködés, vesekő, magasvérnyomás-betegség, szívbetegség, májbetegség"
 17441,N,58,-NI-
 17442,F,51,"magasvérnyomás-betegség, asztma, kóros elhízás"
-17443,F,82,"magasvérnyomás betegség, agyi sorvadás, keringési zavar"
-17444,F,58,"magasvérnyomás betegség, körzeti idegek degenerációja"
+17443,F,82,"magasvérnyomás-betegség, agyi sorvadás, keringési zavar"
+17444,F,58,"magasvérnyomás-betegség, körzeti idegek degenerációja"
 17445,N,74,veseelégtelenség
 17446,N,51,felső végtagi vérgyülem
-17447,F,84,"magasvérnyomás betegség, krónikus veseelégtelenség, pszichotikus zavar, demencia"
+17447,F,84,"magasvérnyomás-betegség, krónikus veseelégtelenség, pszichotikus zavar, demencia"
 17448,N,42,"magas vérnyomás, veseátültetés utáni állapot"
-17449,N,74,"cukorbetegség, kóros elhízás, magasvérnyomás betegség, ízületi gyulladás"
+17449,N,74,"cukorbetegség, kóros elhízás, magasvérnyomás-betegség, ízületi gyulladás"
 17450,N,74,"magasvérnyomás-betegség, cukorbetegség"
 17451,N,73,"magasvérnyomás-betegség, cukorbetegség többszörös szövővázizom gyulladásos megbetegedéseénnyel, légzési zavarok"
-17452,N,79,"magasvérnyomás betegség, cukorbetegség"
-17453,N,65,"magasvérnyomás betegség, szívelégtelenség"
-17454,F,79,"magasvérnyomás betegség, szívbetegség"
-17455,F,63,"szívtágulás, szívelégtelenség, magasvérnyomás betegség, kóros elhízás, csökkent pajzsmirigyműködés"
-17456,F,88,"magasvérnyomás betegség, asztma"
+17452,N,79,"magasvérnyomás-betegség, cukorbetegség"
+17453,N,65,"magasvérnyomás-betegség, szívelégtelenség"
+17454,F,79,"magasvérnyomás-betegség, szívbetegség"
+17455,F,63,"szívtágulás, szívelégtelenség, magasvérnyomás-betegség, kóros elhízás, csökkent pajzsmirigyműködés"
+17456,F,88,"magasvérnyomás-betegség, asztma"
 17457,F,55,vázizom gyulladásos megbetegedése
 17458,F,77,tüdőgyulladás
-17459,F,86,"magasvérnyomás betegség, szívritmuszavar, agyi artéria elzáródása és szűkülete, tüdőgyulladás"
-17460,N,71,"magasvérnyomás betegség, vázizom gyulladásos megbetegedése"
-17461,F,60,"asztma, csökkent pajzsmirigyműködés, magasvérnyomás betegség"
+17459,F,86,"magasvérnyomás-betegség, szívritmuszavar, agyi artéria elzáródása és szűkülete, tüdőgyulladás"
+17460,N,71,"magasvérnyomás-betegség, vázizom gyulladásos megbetegedése"
+17461,F,60,"asztma, csökkent pajzsmirigyműködés, magasvérnyomás-betegség"
 17462,F,60,szívritmuszavar
-17463,N,74,magasvérnyomás betegség
+17463,N,74,magasvérnyomás-betegség
 17464,N,81,"magasvérnyomás-betegség, szívritmuszavar"
-17465,F,53,"magasvérnyomás betegség, cukorbetegség"
-17466,F,46,"szívbetegség, magasvérnyomás betegség"
-17467,N,93,"magasvérnyomás betegség, időskori demencia"
+17465,F,53,"magasvérnyomás-betegség, cukorbetegség"
+17466,F,46,"szívbetegség, magasvérnyomás-betegség"
+17467,N,93,"magasvérnyomás-betegség, időskori demencia"
 17468,N,90,vázizom gyulladásos megbetegedése
-17469,F,51,magasvérnyomás betegség
+17469,F,51,magasvérnyomás-betegség
 17470,N,48,"emlődaganat, jóindulatú agydaganat, cukorbetegség"
-17471,N,75,"féregnyúlvány műtéti eltávolítsa, TBC, cukorbetegség, csökkent pajzsmirigyműködés, magasvérnyomás betegség, sztrók"
-17472,N,76,"magasvérnyomás betegség, cukorbetegség"
-17473,N,60,"magasvérnyomás betegség, magas koleszterin"
+17471,N,75,"féregnyúlvány műtéti eltávolítsa, TBC, cukorbetegség, csökkent pajzsmirigyműködés, magasvérnyomás-betegség, sztrók"
+17472,N,76,"magasvérnyomás-betegség, cukorbetegség"
+17473,N,60,"magasvérnyomás-betegség, magas koleszterin"
 17474,F,95,-NI-
 17475,N,74,"magas vérnyomás, veseelégtelenség, cukorbetegség, érszűkület"
 17476,N,44,"hasnyálmirigy tumor, májszteatózis"
-17477,F,66,"magasvérnyomás betegség, asztma"
-17478,F,41,"magasvérnyomás betegség, cukorbetegség, kóros elhízás"
-17479,N,64,"magasvérnyomás betegség, vázizom gyulladásos megbetegedése"
+17477,F,66,"magasvérnyomás-betegség, asztma"
+17478,F,41,"magasvérnyomás-betegség, cukorbetegség, kóros elhízás"
+17479,N,64,"magasvérnyomás-betegség, vázizom gyulladásos megbetegedése"
 17480,F,82,vázizom gyulladásos megbetegedése
-17481,F,75,magasvérnyomás betegség
-17482,F,62,"vázizom gyulladásos megbetegedése, magasvérnyomás betegség"
+17481,F,75,magasvérnyomás-betegség
+17482,F,62,"vázizom gyulladásos megbetegedése, magasvérnyomás-betegség"
 17483,F,68,"vastagbél gyulladás, pajzsmirigy betegség, porckorong betegség"
 17484,F,76,"hólyagdaganat, tüdőbetegség"
 17485,F,60,cukorbetegség
 17486,F,76,"szívbetegség, aorta elégtelenség, szívritmuszavar, agyi infarktus, reflux"
-17487,F,65,"ízületi gyulladás, magasvérnyomás betegség"
+17487,F,65,"ízületi gyulladás, magasvérnyomás-betegség"
 17488,F,75,reflux
-17489,N,95,"magasvérnyomás betegség, általános érelmeszesedés, agyi infarktus, nyaki verőér-szűkület"
-17490,F,85,"magasvérnyomás betegség, Alzheimer-demencia, parkinson szindróma"
-17491,F,64,"magasvérnyomás betegség, tüdő rosszindulatú daganata"
+17489,N,95,"magasvérnyomás-betegség, általános érelmeszesedés, agyi infarktus, nyaki verőér-szűkület"
+17490,F,85,"magasvérnyomás-betegség, Alzheimer-demencia, parkinson szindróma"
+17491,F,64,"magasvérnyomás-betegség, tüdő rosszindulatú daganata"
 17492,N,75,"magasvérnyomás-betegség, szívritmuszavar, asztma, csökkent pajzsmirigyműködés"
-17493,N,81,"magasvérnyomás betegség, szívbetegség"
-17494,N,78,"pangásos szívelégtelenség, magasvérnyomás betegség, régi szívizomelhalás"
+17493,N,81,"magasvérnyomás-betegség, szívbetegség"
+17494,N,78,"pangásos szívelégtelenség, magasvérnyomás-betegség, régi szívizomelhalás"
 17495,F,77,"cukorbetegség, tüdőbetegség, magasvérnyomás-betegség, agyi infarktus"
 17496,F,75,sztrók
 17497,N,80,"cukorbetegség, magas vérnyomás, kóros elhízás"
 17498,N,75,"tüdőgyulladás, szívritmuszavar, elektrolit- és folyadék-egyensúly zavarok"
 17499,N,71,tüdőgyulladás
-17500,F,63,"magasvérnyomás betegség, cukorbetegség"
+17500,F,63,"magasvérnyomás-betegség, cukorbetegség"
 17501,F,73,vérmérgezés
-17502,F,87,"magasvérnyomás betegség, vázizom gyulladásos megbetegedése"
+17502,F,87,"magasvérnyomás-betegség, vázizom gyulladásos megbetegedése"
 17503,N,65,"szívbetegség, TBC, asztma, magas koleszterin"
 17504,F,74,"magasvérnyomás-betegség, kóros elhízás"
 17505,F,63,"magasvérnyomás-betegség, cukorbetegség, szívritmuszavar, kóros elhízás, szívbetegség"
-17506,F,60,"magas koleszterin, magasvérnyomás betegség"
-17507,N,59,magasvérnyomás betegség
-17508,N,81,magasvérnyomás betegség
+17506,F,60,"magas koleszterin, magasvérnyomás-betegség"
+17507,N,59,magasvérnyomás-betegség
+17508,N,81,magasvérnyomás-betegség
 17509,N,76,"asztma, tüdőbetegség, áttétes tumor, koszorúérelmeszesedés"
-17510,N,85,"magasvérnyomás betegség, vázizom gyulladásos megbetegedése"
+17510,N,85,"magasvérnyomás-betegség, vázizom gyulladásos megbetegedése"
 17511,F,63,kóros elhízás
 17512,N,80,-NI-
 17513,N,88,"vaszkuláris demencia, depresszió, szívbetegség, érbetegség, rosszindulatú daganat"
-17514,N,57,"magasvérnyomás betegség, cukorbetegség, szívbetegség, krónikus veseelégtelenség"
-17515,F,76,"magasvérnyomás betegség, cukorbetegség"
+17514,N,57,"magasvérnyomás-betegség, cukorbetegség, szívbetegség, krónikus veseelégtelenség"
+17515,F,76,"magasvérnyomás-betegség, cukorbetegség"
 17516,F,75,"tüdőbetegség, krónikus veseelégtelenség, szívritmuszavar"
-17517,F,65,"magasvérnyomás betegség, spontán légmell"
-17518,F,86,"magasvérnyomás betegség, szívbetegség, vastagbél betegség, demencia"
+17517,F,65,"magasvérnyomás-betegség, spontán légmell"
+17518,F,86,"magasvérnyomás-betegség, szívbetegség, vastagbél betegség, demencia"
 17519,F,65,"mentális és viselkedészavar, alkoholizmus"
-17520,N,87,"csökkent pajzsmirigyműködés, magasvérnyomás betegség"
-17521,F,58,"magasvérnyomás betegség, szívbetegség, cukorbetegség"
-17522,F,81,"cukorbetegség, magasvérnyomás betegség"
+17520,N,87,"csökkent pajzsmirigyműködés, magasvérnyomás-betegség"
+17521,F,58,"magasvérnyomás-betegség, szívbetegség, cukorbetegség"
+17522,F,81,"cukorbetegség, magasvérnyomás-betegség"
 17523,F,90,veseelégtelenség
-17524,N,68,magasvérnyomás betegség
+17524,N,68,magasvérnyomás-betegség
 17525,N,85,"koszorúér meszesedés, parkinson szindróma, szívbetegség, csontritkulás, vázizom gyulladásos megbetegedése"
-17526,N,90,magasvérnyomás betegség
-17527,F,72,"magasvérnyomás betegség, szívtágulás, szívbetegség"
+17526,N,90,magasvérnyomás-betegség
+17527,F,72,"magasvérnyomás-betegség, szívtágulás, szívbetegség"
 17528,N,90,"krónikus szív- és veseelégetelenség, demencia, depresszió"
-17529,F,81,"magasvérnyomás betegség, csökkent pajzsmirigyműködés, körzeti idegek degenerációja"
-17530,N,68,magasvérnyomás betegség
-17531,N,81,"magasvérnyomás betegség, krónikus veseelégtelenség"
-17532,F,61,"magasvérnyomás betegség, vázizom gyulladásos megbetegedése"
-17533,N,55,"veseelégtelenség, magasvérnyomás betegség, allergiás asztma, szívbetegség, kóros elhízás"
+17529,F,81,"magasvérnyomás-betegség, csökkent pajzsmirigyműködés, körzeti idegek degenerációja"
+17530,N,68,magasvérnyomás-betegség
+17531,N,81,"magasvérnyomás-betegség, krónikus veseelégtelenség"
+17532,F,61,"magasvérnyomás-betegség, vázizom gyulladásos megbetegedése"
+17533,N,55,"veseelégtelenség, magasvérnyomás-betegség, allergiás asztma, szívbetegség, kóros elhízás"
 17534,N,66,"légzési elégtelenség, vírusos tüdőgyulladás, krónikus veseelégtelenség, magasvérnyomás-betegség, pajzsmirigy betegség"
-17535,F,72,"magasvérnyomás betegség, tüdőbetegség, veseelégtelenség, szívritmuszavar"
+17535,F,72,"magasvérnyomás-betegség, tüdőbetegség, veseelégtelenség, szívritmuszavar"
 17536,F,87,"szívinfarktus, szívritmuszavar"
-17537,F,74,"tüdőgyulladás, magasvérnyomás betegség, szívbetegség"
-17538,F,63,"magasvérnyomás betegség, szívbeteg, cukorbetegség, kóros elhízás"
+17537,F,74,"tüdőgyulladás, magasvérnyomás-betegség, szívbetegség"
+17538,F,63,"magasvérnyomás-betegség, szívbeteg, cukorbetegség, kóros elhízás"
 17539,F,67,"szívritmuszavar, tüdőbetegség, vázizom gyulladásos megbetegedése, veseelégtelenség, szívizomelhalás"
 17540,F,74,"szívritmuszavar, krónikus veseelégtelenség"
 17541,F,33,"cukorbetegség, kóros elhízás"
-17542,N,78,"magasvérnyomás betegség, kóros elhízás"
-17543,N,94,"tüdőgyulladás, magasvérnyomás betegség"
-17544,F,71,"magasvérnyomás betegség, leukémia"
+17542,N,78,"magasvérnyomás-betegség, kóros elhízás"
+17543,N,94,"tüdőgyulladás, magasvérnyomás-betegség"
+17544,F,71,"magasvérnyomás-betegség, leukémia"
 17545,F,76,szívtágulás
 17546,N,76,"magas vérnyomás, cukorbetegség"
-17547,N,86,"vázizom gyulladásos megbetegedése, demencia, magasvérnyomás betegség, szívbetegség, szívritmuszavar"
-17548,F,65,"magasvérnyomás betegség, vázizom gyulladásos megbetegedése, kóros elhízás"
+17547,N,86,"vázizom gyulladásos megbetegedése, demencia, magasvérnyomás-betegség, szívbetegség, szívritmuszavar"
+17548,F,65,"magasvérnyomás-betegség, vázizom gyulladásos megbetegedése, kóros elhízás"
 17549,F,71,"cukorbetegség, szívritmuszavar, csípőprotézis, porckorongsérv"
 17550,F,66,"tüdő rosszindulatú daganata, magasvérnyomás-betegség, nyirokcsomók rosszindulatú daganata, agy és agyburkok másodlagos rosszindulatú daganata"
-17551,N,79,magasvérnyomás betegség
-17552,N,80,magasvérnyomás betegség
-17553,N,85,magasvérnyomás betegség
-17554,F,64,"magasvérnyomás betegség, tüdőbetegség, rosszindulatú daganat"
-17555,F,61,magasvérnyomás betegség
-17556,F,68,"magasvérnyomás betegség, generalizált érbetegség, cukorbetegség"
-17557,N,64,"magasvérnyomás betegség, cukorbetegség, tüdőtumor"
-17558,N,76,"szívbetegség, magasvérnyomás betegség, vázizom gyulladásos megbetegedése"
-17559,N,80,"magasvérnyomás betegség, vázizom gyulladásos megbetegedése, szívbetegség, csökkent pajzsmirigyműködés"
-17560,N,71,"magasvérnyomás betegség, tüdőbetegség"
+17551,N,79,magasvérnyomás-betegség
+17552,N,80,magasvérnyomás-betegség
+17553,N,85,magasvérnyomás-betegség
+17554,F,64,"magasvérnyomás-betegség, tüdőbetegség, rosszindulatú daganat"
+17555,F,61,magasvérnyomás-betegség
+17556,F,68,"magasvérnyomás-betegség, generalizált érbetegség, cukorbetegség"
+17557,N,64,"magasvérnyomás-betegség, cukorbetegség, tüdőtumor"
+17558,N,76,"szívbetegség, magasvérnyomás-betegség, vázizom gyulladásos megbetegedése"
+17559,N,80,"magasvérnyomás-betegség, vázizom gyulladásos megbetegedése, szívbetegség, csökkent pajzsmirigyműködés"
+17560,N,71,"magasvérnyomás-betegség, tüdőbetegség"
 17561,F,38,
-17562,N,73,"cukorbetegség, szövővázizom gyulladásos megbetegedése, magasvérnyomás betegség, csökkent pajzsmirigyműködés, szívbetegség, tüdőbetegség"
+17562,N,73,"cukorbetegség, szövővázizom gyulladásos megbetegedése, magasvérnyomás-betegség, csökkent pajzsmirigyműködés, szívbetegség, tüdőbetegség"
 17563,F,81,"cukorbetegség, szövővázizom gyulladásos megbetegedése, magasvérnyomás-betegség, nyaki artéria szűkülete, agyi érkeringési zavar betegségek, vastagbél betegség, szívelégtelenség"
 17564,F,60,"magasvérnyomás-betegéség, szívbetegség"
-17565,F,71,"magasvérnyomás betegség, Parkinson-kór"
+17565,F,71,"magasvérnyomás-betegség, Parkinson-kór"
 17566,F,82,"magasvérnyomás-betegség, szívbetegség, szívritmuszavar"
 17567,F,66,"gége műtéti eltávolítása, nyaki daganat, akut légzési elégtelenség"
-17568,N,84,"magasvérnyomás betegség, sztrók"
-17569,N,85,"magasvérnyomás betegség, cukorbetegség, szívinfarktus"
-17570,N,83,"magasvérnyomás betegség, tüdőembólia"
+17568,N,84,"magasvérnyomás-betegség, sztrók"
+17569,N,85,"magasvérnyomás-betegség, cukorbetegség, szívinfarktus"
+17570,N,83,"magasvérnyomás-betegség, tüdőembólia"
 17571,N,80,"krrónkus veseelégtelenség, cukorbetegség"
-17572,N,82,"cukorbetegség, magasvérnyomás betegség, jobb mellékvese daganat, demencia"
-17573,N,72,magasvérnyomás betegség
-17574,N,77,"magasvérnyomás betegség. cukorbetegség, szívritmuszavar, tüdőembólia, vastagbél betegség"
-17575,N,61,"magasvérnyomás betegség, cukorbetegség"
+17572,N,82,"cukorbetegség, magasvérnyomás-betegség, jobb mellékvese daganat, demencia"
+17573,N,72,magasvérnyomás-betegség
+17574,N,77,"magasvérnyomás-betegség. cukorbetegség, szívritmuszavar, tüdőembólia, vastagbél betegség"
+17575,N,61,"magasvérnyomás-betegség, cukorbetegség"
 17576,N,80,"agyi érkeringési zavar, tüdőtumor, szívritmuszavar"
-17577,N,78,"Parkinson-kór, magasvérnyomás betegség"
+17577,N,78,"Parkinson-kór, magasvérnyomás-betegség"
 17578,N,100,csontritkulás
-17579,N,91,"magasvérnyomás betegség, pszichiátriai kezelés, sztrók"
-17580,N,68,"magasvérnyomás betegség, cukorbetegség"
-17581,N,70,"magasvérnyomás betegség, csökkent pajzsmirigyműködés, szívritmuszavar, reflux betegség"
-17582,N,79,magasvérnyomás betegség
+17579,N,91,"magasvérnyomás-betegség, pszichiátriai kezelés, sztrók"
+17580,N,68,"magasvérnyomás-betegség, cukorbetegség"
+17581,N,70,"magasvérnyomás-betegség, csökkent pajzsmirigyműködés, szívritmuszavar, reflux betegség"
+17582,N,79,magasvérnyomás-betegség
 17583,N,58,"magas vérnyomás, általános érelmeszesedés"
-17584,N,93,"tüdőgyulladás, magasvérnyomás betegség, sztrók"
-17585,N,81,magasvérnyomás betegség
-17586,N,91,"magasvérnyomás betegség, szívbetegség, asztma, szívritmuszavar"
-17587,N,70,magasvérnyomás betegség
+17584,N,93,"tüdőgyulladás, magasvérnyomás-betegség, sztrók"
+17585,N,81,magasvérnyomás-betegség
+17586,N,91,"magasvérnyomás-betegség, szívbetegség, asztma, szívritmuszavar"
+17587,N,70,magasvérnyomás-betegség
 17588,N,80,"magas vérnyomás, cukorbetegség, pangásos szívelégtelenség, heveny veseelégtelenség, szívbetegség"
-17589,N,41,magasvérnyomás betegség
-17590,N,87,"magasvérnyomás betegség, szívbetegség"
+17589,N,41,magasvérnyomás-betegség
+17590,N,87,"magasvérnyomás-betegség, szívbetegség"
 17591,N,58,"magas vérnyomás, tüdődaganat"
-17592,N,55,"magasvérnyomás betegség, tüdőbetegség, vázizom gyulladásos megbetegedése"
-17593,N,50,"vázizom gyulladásos megbetegedése, magasvérnyomás betegség"
-17594,N,85,"vázizom gyulladásos megbetegedése, szívbetegség, magasvérnyomás betegség"
+17592,N,55,"magasvérnyomás-betegség, tüdőbetegség, vázizom gyulladásos megbetegedése"
+17593,N,50,"vázizom gyulladásos megbetegedése, magasvérnyomás-betegség"
+17594,N,85,"vázizom gyulladásos megbetegedése, szívbetegség, magasvérnyomás-betegség"
 17595,N,81,
 17596,N,49,
-17597,N,64,"magasvérnyomás betegség, epilepszia, trombózis, prosztata műtét"
-17598,N,63,"magasvérnyomás betegség, tüdőbetegség"
+17597,N,64,"magasvérnyomás-betegség, epilepszia, trombózis, prosztata műtét"
+17598,N,63,"magasvérnyomás-betegség, tüdőbetegség"
 17599,N,61,hasnyálmirigy rosszindulatú daganata
 17600,N,87,"körzeti idegek degenerációja, szívelégtelenség"
-17601,N,79,magasvérnyomás betegség
-17602,N,77,"magasvérnyomás betegség, cukorbetegség, szívritmuszavar"
-17603,N,70,"magasvérnyomás betegség, vázizom gyulladásos megbetegedése"
-17604,N,65,magasvérnyomás betegség
-17605,N,78,"magasvérnyomás betegség, cukorbetegség"
-17606,N,75,"cukorbetegség, magasvérnyomás betegség, Parkinson-szindróma, csökkent pajzsmirigyműködés"
-17607,N,83,"magasvérnyomás betegség, szívbetegség"
+17601,N,79,magasvérnyomás-betegség
+17602,N,77,"magasvérnyomás-betegség, cukorbetegség, szívritmuszavar"
+17603,N,70,"magasvérnyomás-betegség, vázizom gyulladásos megbetegedése"
+17604,N,65,magasvérnyomás-betegség
+17605,N,78,"magasvérnyomás-betegség, cukorbetegség"
+17606,N,75,"cukorbetegség, magasvérnyomás-betegség, Parkinson-szindróma, csökkent pajzsmirigyműködés"
+17607,N,83,"magasvérnyomás-betegség, szívbetegség"
 17608,N,75,"magas vérnyomás, csontritkulás, csigolyaösszeroppanás, magas koleszterin, szívelégtelenség"
 17609,N,77,magasvérnyomás
-17610,N,50,"kóros elhízás, magasvérnyomás betegség"
-17611,N,80,"prosztata műtét, magasvérnyomás betegség"
-17612,N,71,"epilepszia, magasvérnyomás betegség"
+17610,N,50,"kóros elhízás, magasvérnyomás-betegség"
+17611,N,80,"prosztata műtét, magasvérnyomás-betegség"
+17612,N,71,"epilepszia, magasvérnyomás-betegség"
 17613,N,81,traumás tágulásos vérzés
-17614,N,82,magasvérnyomás betegség
+17614,N,82,magasvérnyomás-betegség
 17615,N,75,prosztata tumor
-17616,N,82,magasvérnyomás betegség
+17616,N,82,magasvérnyomás-betegség
 17617,N,49,"végbéldaganat, vérhiány, sárgaság"
 17618,N,83,"demencia, agyérszűkület, érszűkület, agyi sorvadás"
 17619,N,57,"tüdőtumor, agy és agyburkok másodlagos rosszindulatú daganata, fej, nyak, arc nyirokcsomóinak rosszindulatú daganata"
 17620,N,84,"krónikus veseelégtelenség, szívritmuszavar"
-17621,N,75,"magasvérnyomás betegség, köszvény"
-17622,N,46,"magasvérnyomás betegség, csökkent pajzsmirigyműködés, cukorbetegség"
+17621,N,75,"magasvérnyomás-betegség, köszvény"
+17622,N,46,"magasvérnyomás-betegség, csökkent pajzsmirigyműködés, cukorbetegség"
 17623,N,89,"szívritmuszavar, csontritkulás"
-17624,N,71,"szívbetegség, magasvérnyomás betegség"
-17625,N,70,"magasvérnyomás betegség, fejfájás, kóros elhízás, szívritmuszavar"
+17624,N,71,"szívbetegség, magasvérnyomás-betegség"
+17625,N,70,"magasvérnyomás-betegség, fejfájás, kóros elhízás, szívritmuszavar"
 17626,N,87,szívelégtelenség
-17627,N,83,magasvérnyomás betegség
-17628,N,66,magasvérnyomás betegség
+17627,N,83,magasvérnyomás-betegség
+17628,N,66,magasvérnyomás-betegség
 17629,N,74,"magas vérnyomás, érelmeszesedés, agykárosodás"
 17630,N,74,"magas vérnyomás, iszkémiás szívbetegség, pitvarfibrilláció, májzsugor"
 17631,N,83,-NI-
@@ -17842,54 +17842,54 @@ Sorszám,Nem,Kor,Alapbetegségek
 17841,N,56,"magas vérnyomás, cukorbetegség"
 17842,N,84,"Agykárosodás, magasvérnyomás-betegség, vérszegénység, demencia"
 17843,N,75,"Bélgyulladás, daganatos megbetegedés"
-17844,N,87,"Magasvérnyomás-betegség, asztma"
-17845,N,73,"Magasvérnyomás-betegség, daganatos megbetegedés"
+17844,N,87,"magasvérnyomás-betegség, asztma"
+17845,N,73,"magasvérnyomás-betegség, daganatos megbetegedés"
 17846,F,80,"Prosztata megnagyobbodás, vesebetegség, érelmeszesedés, demencia"
 17847,F,69,"Májbetegség, májelégtelenség"
 17848,F,78,"Szívbetegség, cukorbetegség"
 17849,N,54,"Szívbetegség, Addison-kór"
-17850,N,83,"Magasvérnyomás-betegség, szívbetegség"
+17850,N,83,"magasvérnyomás-betegség, szívbetegség"
 17851,F,65,"Érelmeszesedés, szívbetegség, érszűkület, szívbetegség, cukorbetegség agykárosodás, vérszegénység"
 17852,N,82,"Cukorbetegség, magasvérnyomás-betegség, szívbetegség"
 17853,N,56,"Magas vérnyomás, cukorbetegség"
 17854,N,53,"Kóros elhízás, pajzsmirigy betegség"
-17855,F,84,"Magasvérnyomás-betegség, cukorbetegség"
+17855,F,84,"magasvérnyomás-betegség, cukorbetegség"
 17856,N,71,"Pajzsmirigy betegség, cukorbetegség, magasvérnyomás-betegség, reflux, rekeszsérv"
 17857,F,73,"Cukorbetegség, asztma, magasvérnyomás-betegség"
 17858,F,30,"Daganatos megbetegedés, kóros elhízás"
-17859,F,45,"Magasvérnyomás betegség, cukorbetegség"
+17859,F,45,"magasvérnyomás-betegség, cukorbetegség"
 17860,N,87,"Szívbetegség, magasvérnyomás-betegség, agyi érelmeszesedés, vérszegénység, agykárosodás, demencia"
 17861,F,57,Mélyvénás trombózis
 17862,F,80,"Szívbetegség, aorta műbillentyű"
-17863,N,63,"Magasvérnyomás-betegség, szívbetegség, daganatos megbetegedés"
+17863,N,63,"magasvérnyomás-betegség, szívbetegség, daganatos megbetegedés"
 17864,F,75,"Cukorbetegség, szívbetegség, magasvérnyomás-betegség"
-17865,N,73,"Magasvérnyomás-betegség, cukorbetegség"
-17866,N,95,"Magasvérnyomás-betegség, szívbetegség"
+17865,N,73,"magasvérnyomás-betegség, cukorbetegség"
+17866,N,95,"magasvérnyomás-betegség, szívbetegség"
 17867,F,66,"Daganatos megbetegedés, általános érelmeszesedés"
 17868,F,50,"Májbetegség, hasnyálmirigy sorvadás, degeneratív csontszerkezeti eltérések"
 17869,F,82,"Májbetegség, szívbetegség, cukorbetegség, magasvérnyomás-betegség, prosztata túltengés"
-17870,N,67,"Magasvérnyomás-betegség, pajzsmirigy betegség, asztma, kóros elhízás"
+17870,N,67,"magasvérnyomás-betegség, pajzsmirigy betegség, asztma, kóros elhízás"
 17871,F,43,"Cukorbetegség, magasvérnyomás-betegség, kóros elhízás"
 17872,N,79,Demencia
-17873,N,80,Magasvérnyomás-betegség
+17873,N,80,magasvérnyomás-betegség
 17874,F,50,-NI-
-17875,N,67,"Izületi gyulladás, magasvérnyomás betegség, reflux betegség"
+17875,N,67,"Izületi gyulladás, magasvérnyomás-betegség, reflux betegség"
 17876,F,53,Májbetegség
-17877,F,73,Magasvérnyomás-betegség
+17877,F,73,magasvérnyomás-betegség
 17878,N,86,"Szívbetegség, veseelégtelenség, cukorbetegség"
-17879,N,70,"Magasvérnyomás-betegség, szívelégtelenség"
+17879,N,70,"magasvérnyomás-betegség, szívelégtelenség"
 17880,N,81,Vérző gyomorfekély
-17881,F,43,Magasvérnyomás-betegség
+17881,F,43,magasvérnyomás-betegség
 17882,N,78,"Érelmeszesedés, izületi gyulladás, vérszegénység, szívbetegség"
 17883,F,72,Cukorbetegség
-17884,F,89,"Magasvérnyomás-betegség, szív és érrendszeri betegség, krónikus veseelégtelenség"
+17884,F,89,"magasvérnyomás-betegség, szív és érrendszeri betegség, krónikus veseelégtelenség"
 17885,N,53,-NI-
-17886,N,87,"Magasvérnyomás-betegség, pajzsmirigy betegség, szívbetegség"
-17887,N,97,"Magasvérnyomás-betegség, csontritkulás, depresszió"
+17886,N,87,"magasvérnyomás-betegség, pajzsmirigy betegség, szívbetegség"
+17887,N,97,"magasvérnyomás-betegség, csontritkulás, depresszió"
 17888,F,92,"Prosztata megnagyobbodás, agykárosodás, érelmeszesedés"
-17889,N,53,"Magasvérnyomás-betegség, vesebetegség, májbetegség, daganatos megbetegedés"
-17890,F,86,"Magasvérnyomás-betegség, érszűkület, szívbetegség"
-17891,F,70,"Magasvérnyomás-betegség, szívbetegség"
+17889,N,53,"magasvérnyomás-betegség, vesebetegség, májbetegség, daganatos megbetegedés"
+17890,F,86,"magasvérnyomás-betegség, érszűkület, szívbetegség"
+17891,F,70,"magasvérnyomás-betegség, szívbetegség"
 17892,F,48,Daganatos megbetegedés
 17893,F,74,"Tüdőbetegség, koszorúérbetegség, izületi gyulladás, magasvérnyomás-betegség, szívbetegség"
 17894,F,78,"Tüdőbetegség, szívelégtelenség"
@@ -17898,170 +17898,170 @@ Sorszám,Nem,Kor,Alapbetegségek
 17897,F,76,Daganatos megbetegedések
 17898,N,62,"Szívelégtelenség, szívbetegség"
 17899,N,65,"Tüdőbetegség, magasvérnyomás-betegség, reflux, cukorbetegség, pszichés betegség"
-17900,F,81,"Magasvérnyomás-betegség, szív és érendszeri betegség, cukorbetegség"
-17901,F,70,"Magasvérnyomás-betegség, szívbetegség"
-17902,N,62,"Magasvérnyomás-betegség, izület kopás, zsírmáj, cukorbetegség, bélfertőzés"
-17903,F,74,Magasvérnyomás-betegség
+17900,F,81,"magasvérnyomás-betegség, szív és érendszeri betegség, cukorbetegség"
+17901,F,70,"magasvérnyomás-betegség, szívbetegség"
+17902,N,62,"magasvérnyomás-betegség, izület kopás, zsírmáj, cukorbetegség, bélfertőzés"
+17903,F,74,magasvérnyomás-betegség
 17904,N,87,"Trombózis, magasvérnyomás-betegség, gyomorfekély, vérszegénység"
-17905,F,66,Magasvérnyomás-betegség
-17906,F,72,"Magasvérnyomás-betegség, aorta műbillentyű"
-17907,N,82,"Magasvérnyomás-betegség, cukorbetegség, vesebetegség"
+17905,F,66,magasvérnyomás-betegség
+17906,F,72,"magasvérnyomás-betegség, aorta műbillentyű"
+17907,N,82,"magasvérnyomás-betegség, cukorbetegség, vesebetegség"
 17908,F,76,"Cukorbetegség, magasvérnyomás-betegség, idült veseelégtelenség"
 17909,N,62,Szívelégtelenség
 17910,F,54,"Cukorbetegség, tüdőbetegség, érgyulladás, magasvérnyomás-betegség, kóros elhízás"
 17911,F,64,"Szívbetegség, magasvérnyomás-betegség"
-17912,N,77,"Magasvérnyomás-betegség, bélfertőzés"
+17912,N,77,"magasvérnyomás-betegség, bélfertőzés"
 17913,F,57,Daganatos megbetegedések
-17914,F,57,"Magasvérnyomás-betegség, verőérszűkület"
+17914,F,57,"magasvérnyomás-betegség, verőérszűkület"
 17915,F,80,"Szívbetegség, magasvérnyomás-betegség"
 17916,F,64,"Tüdőbetegség, daganatos megbetegedés"
-17917,N,74,"Magasvérnyomás-betegség, pajzsmirigy betegség"
-17918,F,69,"Magasvérnyomás-betegség, bélgyulladás"
-17919,F,61,"Magasvérnyomás-betegség, pajzsmirigy betegség, daganatos megbetegedés, ütőérszűkület"
+17917,N,74,"magasvérnyomás-betegség, pajzsmirigy betegség"
+17918,F,69,"magasvérnyomás-betegség, bélgyulladás"
+17919,F,61,"magasvérnyomás-betegség, pajzsmirigy betegség, daganatos megbetegedés, ütőérszűkület"
 17920,F,73,"Szívbetegség, magasvérnyomás-betegség, cukorbetegség"
-17921,F,86,"Magasvérnyomás-betegség, szív és érrendszeri megbetegedés"
-17922,N,77,"Magasvérnyomás-betegség, szívbetegség, érelmeszesedés, depresszió, szürkehályog, hasnyálmirigy-gyulladás"
-17923,F,83,Magasvérnyomás-betegség
+17921,F,86,"magasvérnyomás-betegség, szív és érrendszeri megbetegedés"
+17922,N,77,"magasvérnyomás-betegség, szívbetegség, érelmeszesedés, depresszió, szürkehályog, hasnyálmirigy-gyulladás"
+17923,F,83,magasvérnyomás-betegség
 17924,F,57,"Cukorbetegség, magasvérnyomás-betegség, kóros elhízás"
-17925,N,66,"Magasvérnyomás-betegség, cukorbetegség"
+17925,N,66,"magasvérnyomás-betegség, cukorbetegség"
 17926,F,70,"Veseelégtelenség, daganatos megbetegedések"
 17927,N,88,"Cukorbetegség, mgasvérnyomás-betegség, szív és érrendszeri betegség, agykárosodás, tüdőbetegség"
-17928,F,51,"Magasvérnyomás-betegség, szív és érrendszeri betegség, agykárosodás"
+17928,F,51,"magasvérnyomás-betegség, szív és érrendszeri betegség, agykárosodás"
 17929,F,77,"Cukorbetegség, magasvérnyomás-betegség, szívbetegség"
 17930,F,79,Szívbetegség
-17931,F,53,"Magasvérnyomás-betegség, kóros elhízás"
-17932,F,67,"Magasvérnyomás-betegség, izületi betegség, szívbetegség, reflux"
+17931,F,53,"magasvérnyomás-betegség, kóros elhízás"
+17932,F,67,"magasvérnyomás-betegség, izületi betegség, szívbetegség, reflux"
 17933,N,38,Kóros elhízás
 17934,F,91,
-17935,F,79,"Magasvérnyomás-betegség, cukorbetegség, vastagbél gyulladás, érelmeszesedés"
-17936,F,68,"Magasvérnyomás-betegség, agyi infarktus"
-17937,N,77,"Magasvérnyomás-betegség, szívbetegség"
+17935,F,79,"magasvérnyomás-betegség, cukorbetegség, vastagbél gyulladás, érelmeszesedés"
+17936,F,68,"magasvérnyomás-betegség, agyi infarktus"
+17937,N,77,"magasvérnyomás-betegség, szívbetegség"
 17938,N,62,Daganatos megbetegedés
-17939,N,89,"Magasvérnyomás-betegség, cukorbetegség, szív és érrendszeri betegség, agyi infarktus"
-17940,F,73,Magasvérnyomás-betegség
+17939,N,89,"magasvérnyomás-betegség, cukorbetegség, szív és érrendszeri betegség, agyi infarktus"
+17940,F,73,magasvérnyomás-betegség
 17941,F,63,
 17942,F,73,Szívelégtelenség
-17943,F,65,Magasvérnyomás-betegség
-17944,F,91,"Magasvérnyomás-betegség, prosztata megnagyobodás, szívbetegség, asztma"
-17945,N,60,Magasvérnyomás-betegség
+17943,F,65,magasvérnyomás-betegség
+17944,F,91,"magasvérnyomás-betegség, prosztata megnagyobodás, szívbetegség, asztma"
+17945,N,60,magasvérnyomás-betegség
 17946,F,75,"Tüdőbetegség, reflux, stroke, magasvérnyomás-betegség, cukorbetegség, szívbetegség"
 17947,F,24,"Asztma, magasvérnyomás-betegség"
 17948,F,83,"Szívbetegség, cukorbetegség, idült veseelégtelenség"
 17949,N,77,"Szív és érrendszeri betegség, magasvérnyomás-betegség, csontritkulás"
-17950,F,75,Magasvérnyomás-betegség
-17951,N,60,"Magasvérnyomás-betegség, tüdőbetegség"
-17952,F,65,Magasvérnyomás-betegség
+17950,F,75,magasvérnyomás-betegség
+17951,N,60,"magasvérnyomás-betegség, tüdőbetegség"
+17952,F,65,magasvérnyomás-betegség
 17953,F,71,"Asztma, tüdőbetegség, magasvérnyomás-betegség, érelmeszesedés"
-17954,F,81,"Magasvérnyomás-betegség, cukorbetegség"
-17955,F,85,"Magasvérnyomás-betegség, prosztata megnagyobbodás"
-17956,N,81,"Magasvérnyomás-betegség, reflux, vérszegénység"
-17957,F,82,"Magasvérnyomás-betegség, szívbetegség, demencia"
+17954,F,81,"magasvérnyomás-betegség, cukorbetegség"
+17955,F,85,"magasvérnyomás-betegség, prosztata megnagyobbodás"
+17956,N,81,"magasvérnyomás-betegség, reflux, vérszegénység"
+17957,F,82,"magasvérnyomás-betegség, szívbetegség, demencia"
 17958,F,93,"Általános érelmeszesedés, magasvérnyomás-betegség, epilepszia, verőérszűkület, vesebetegség, prosztata nagyobbodás"
-17959,F,82,"Magasvérnyomás-betegség, pitvarfibrilláció, agyi infarktus"
-17960,N,49,"Magasvérnyomás-betegség, vesebetegség, szív és érrendszeri betegség, cukorbetegség, szívműbillentyű beültetés"
+17959,F,82,"magasvérnyomás-betegség, pitvarfibrilláció, agyi infarktus"
+17960,N,49,"magasvérnyomás-betegség, vesebetegség, szív és érrendszeri betegség, cukorbetegség, szívműbillentyű beültetés"
 17961,N,72,"Kóros elhízás, csípőcsont törés"
 17962,N,81,"Csontritkulás, emésztőrendszeri megbetegedés, vasatagbélgyulladás"
-17963,N,54,"Magasvérnyomás-betegség, kóros elhízás, daganatos betegség"
+17963,N,54,"magasvérnyomás-betegség, kóros elhízás, daganatos betegség"
 17964,F,79,"Tüdőbetegség, vérkepzőrendszeri betegség, májbetegség, vérszegénység"
-17965,N,78,"Magasvérnyomás-betegség, cukorbetegség"
+17965,N,78,"magasvérnyomás-betegség, cukorbetegség"
 17966,F,69,"Parkinson-kór, cukorbetegség"
 17967,N,74,"Magas vérnyomás, szívritmuszavar, krónikus tüdőbetegség"
-17968,N,71,"Magasvérnyomás-betegség, prosztata túltengés"
-17969,N,65,"Magasvérnyomás-betegség, cukorbetegség"
+17968,N,71,"magasvérnyomás-betegség, prosztata túltengés"
+17969,N,65,"magasvérnyomás-betegség, cukorbetegség"
 17970,N,61,"Magas vérnyomás, cukorbetegség, tüdőbetegség"
 17971,N,71,"Cukorbetegség, asztma, kóros elhízás"
 17972,N,56,"Skizofrénia, agykárosodás"
 17973,N,78,"Agykárosodás, magasvérnyomás-betegség"
-17974,N,80,"Magasvérnyomás-betegség, Alzheimer-kór, demencia, nyombélfekély"
+17974,N,80,"magasvérnyomás-betegség, Alzheimer-kór, demencia, nyombélfekély"
 17975,N,77,"Szívbetegség, tüdőbetegség"
-17976,N,85,"Magasvérnyomás-betegség, stroke"
-17977,N,44,"Magasvérnyomás-betegség, cukorbetegség, pajzsmirigy betegség, kóros elhízás"
-17978,N,84,"Magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség, szívelégtelenség, szívbetegség, pajzsmirigy betegség"
+17976,N,85,"magasvérnyomás-betegség, stroke"
+17977,N,44,"magasvérnyomás-betegség, cukorbetegség, pajzsmirigy betegség, kóros elhízás"
+17978,N,84,"magasvérnyomás-betegség, cukorbetegség, krónikus veseelégtelenség, szívelégtelenség, szívbetegség, pajzsmirigy betegség"
 17979,N,70,Daganatos megbetegedés
 17980,N,93,"Prosztata megnagyobbodás, veseelégtelenség, magasvérnyomás-betegség"
 17981,N,54,"Cukorbetegség, magasvérnyomás-betegség"
-17982,N,95,"Magasvérnyomás-betegség, érszűkület, demencia, iszkémiás szívbetegség, szívelégtelenség, csontritkulás, prosztata megnagyobbodás"
-17983,N,79,"Magasvérnyomás-betegség, vesebetegség"
+17982,N,95,"magasvérnyomás-betegség, érszűkület, demencia, iszkémiás szívbetegség, szívelégtelenség, csontritkulás, prosztata megnagyobbodás"
+17983,N,79,"magasvérnyomás-betegség, vesebetegség"
 17984,N,73,Pajzsmirigy betegség
 17985,N,71,"Szívbetegség, pajzsmirigy betegség"
 17986,N,91,Daganatos megbetegedések
 17987,N,56,"Májbetegség, cukorbetegség"
 17988,N,74,"Szívbetegség, magas vérnyomás, agyi érelmeszesedés"
 17989,N,79,"Stroke, magasvérnyomás-betegség, cukorbetegség, szívbetegség"
-17990,N,80,"Magasvérnyomás-betegség, érszűkület, demencia, cukorbetegség"
+17990,N,80,"magasvérnyomás-betegség, érszűkület, demencia, cukorbetegség"
 17991,N,78,"Pajzsmirigy betegség, érszűkület"
 17992,N,47,"Szívbetegség, májgyulladás"
-17993,N,77,"Magasvérnyomás-betegség, szívbetegség"
-17994,N,84,"Magasvérnyomás-betegség, cukorbetegség, szívbetegség"
-17995,N,80,"Magasvérnyomás-betegség, cukorbetegség, pajzsmirigybetegség, tüdőbetegség, ízületi gyulladás, daganatos megbetegedés, stroke"
+17993,N,77,"magasvérnyomás-betegség, szívbetegség"
+17994,N,84,"magasvérnyomás-betegség, cukorbetegség, szívbetegség"
+17995,N,80,"magasvérnyomás-betegség, cukorbetegség, pajzsmirigybetegség, tüdőbetegség, ízületi gyulladás, daganatos megbetegedés, stroke"
 17996,N,82,"Érszűkület, szív és érrendszeri betegség"
 17997,N,67,Kóros elhízás
-17998,N,65,"Magasvérnyomás-betegség, tüdőbetegség"
-17999,N,61,"Magasvérnyomás-betegség, cukorbetegség, érszűkület"
+17998,N,65,"magasvérnyomás-betegség, tüdőbetegség"
+17999,N,61,"magasvérnyomás-betegség, cukorbetegség, érszűkület"
 18000,N,67,Daganatos megbetegedések
-18001,N,89,"Magasvérnyomás-betegség, szívbetegség, demencia, veseelégtelenség, prosztata megnagyobbodás"
-18002,N,65,"Magasvérnyomás-betegség, érszűkület, veseelégtelenség, vérszegénység"
-18003,N,82,"Magasvérnyomás-betegség, szívbetegség, májbetegség, szívelégtelenség, veseelégtelenség"
+18001,N,89,"magasvérnyomás-betegség, szívbetegség, demencia, veseelégtelenség, prosztata megnagyobbodás"
+18002,N,65,"magasvérnyomás-betegség, érszűkület, veseelégtelenség, vérszegénység"
+18003,N,82,"magasvérnyomás-betegség, szívbetegség, májbetegség, szívelégtelenség, veseelégtelenség"
 18004,N,63,"Cukorbetegség, magasvérnyomás-betegség, gerincsérv"
 18005,N,75,"Szívbetegség, magasvérnyomás-betegség, cukorbetegség"
 18006,N,78,"Cukorbetegség, magasvérnyomás-betegség, stroke, tüdőbetegség"
-18007,N,79,"Magasvérnyomás-betegség, cukorbetegség"
+18007,N,79,"magasvérnyomás-betegség, cukorbetegség"
 18008,N,71,"Daganatos megbetegedések, magasvérnyomás-betegség"
 18009,N,76,"Tüdőbetegség, magasvérnyomás-betegség, szívbetegség, érelmeszesedés, cukorbetegség"
-18010,N,76,"Magasvérnyomás-betegség, szívbetegség, vérszegénység"
+18010,N,76,"magasvérnyomás-betegség, szívbetegség, vérszegénység"
 18011,N,78,"Magas vérnyomás, vesebetegség"
 18012,N,82,"Idegrendszeri zavar, demencia, csontritkulás"
-18013,N,78,"Magasvérnyomás-betegség, cukorbetegség, asztma"
-18014,N,86,"Magasvérnyomás-betegség, cukorbetegség"
-18015,N,65,"Magasvérnyomás-betegség, cukorbetegség, demencia"
+18013,N,78,"magasvérnyomás-betegség, cukorbetegség, asztma"
+18014,N,86,"magasvérnyomás-betegség, cukorbetegség"
+18015,N,65,"magasvérnyomás-betegség, cukorbetegség, demencia"
 18016,N,34,"Szellemi visszamaradottság, kóros elhízás"
-18017,N,77,"Magasvérnyomás-betegség, daganatos betegség, mélyvénás trombózis"
-18018,N,76,"Magasvérnyomás-betegség, cukorbetegség"
+18017,N,77,"magasvérnyomás-betegség, daganatos betegség, mélyvénás trombózis"
+18018,N,76,"magasvérnyomás-betegség, cukorbetegség"
 18019,N,77,"Daganatos megbetegedés, májbetegség"
 18020,N,29,-NI-
-18021,N,75,"Magasvérnyomás-betegség, prosztata megnagyobbodás"
-18022,N,88,"Magasvérnyomás-betegség, szívbetegség, krónikus veseelégtelenség"
-18023,N,74,"Magasvérnyomás-betegség, cukorbetegség"
-18024,N,69,Magasvérnyomás-betegség
-18025,N,76,"Magasvérnyomás-betegség, daganatos betegség"
+18021,N,75,"magasvérnyomás-betegség, prosztata megnagyobbodás"
+18022,N,88,"magasvérnyomás-betegség, szívbetegség, krónikus veseelégtelenség"
+18023,N,74,"magasvérnyomás-betegség, cukorbetegség"
+18024,N,69,magasvérnyomás-betegség
+18025,N,76,"magasvérnyomás-betegség, daganatos betegség"
 18026,N,67,"Krónikus veseelégtelenség, epilepszia, tüdőbetegség"
-18027,N,91,"Magasvérnyomás-betegség, szívbetegség, érelmeszesedés"
+18027,N,91,"magasvérnyomás-betegség, szívbetegség, érelmeszesedés"
 18028,N,69,"Daganatos betegség, tüdőbetegség, magasvérnyomás-betegség, szív és érrendszeri betegség"
 18029,N,77,"Szívbetegség, cukorbetegség"
-18030,N,74,"Magasvérnyomás-betegség, szívbetegség, májbetegség"
+18030,N,74,"magasvérnyomás-betegség, szívbetegség, májbetegség"
 18031,N,61,"Cukorbetegség, magasvérnyomás-betegség"
 18032,N,66,-NI-
-18033,N,78,"Magasvérnyomás-betegség, szívelégtelenség"
-18034,N,80,"Magasvérnyomás-betegség, pszichés zavar, szívbetegség cukorbetegség, szívbetegség"
-18035,N,77,Magasvérnyomás-betegség
+18033,N,78,"magasvérnyomás-betegség, szívelégtelenség"
+18034,N,80,"magasvérnyomás-betegség, pszichés zavar, szívbetegség cukorbetegség, szívbetegség"
+18035,N,77,magasvérnyomás-betegség
 18036,N,79,"Szívbetegség, magasvérnyomás-betegség, tüdőbetegség"
-18037,N,78,"Magasvérnyomás-betegség, prosztata túltengés"
+18037,N,78,"magasvérnyomás-betegség, prosztata túltengés"
 18038,N,76,Tüdőbetegség
 18039,N,83,"Szívbetegség, cukorbetegség, magasvérnyomás-betegség, demencia"
 18040,N,63,"Izületi gyulladás, magasvérnyomás-betegség, gerincmeszesedés, köldöksérv, daganatos megbetegedés"
 18041,N,88,"Asztma, magasvérnyomás-betegség, vérszegénység, pajzsmirigy betegség"
 18042,N,29,"Tüdőbetegség, krónikus veseelégtelenség"
-18043,N,91,"Magasvérnyomás-betegség, cukorbetegség, prosztata túltengés, érelmeszesedés"
-18044,N,90,"Magasvérnyomás-betegség, cukorbetegség, szívbetegség"
-18045,N,79,"Magasvérnyomás-betegség, daganatos betegség"
+18043,N,91,"magasvérnyomás-betegség, cukorbetegség, prosztata túltengés, érelmeszesedés"
+18044,N,90,"magasvérnyomás-betegség, cukorbetegség, szívbetegség"
+18045,N,79,"magasvérnyomás-betegség, daganatos betegség"
 18046,N,70,"Asztma, cukorbetegség, magasvérnyomás-betegség, krónikus veseelégtelenség"
-18047,N,78,"Magasvérnyomás-betegség, tüdőbetegsség"
-18048,N,65,Magasvérnyomás-betegség
-18049,N,62,"Magasvérnyomás-betegség, cukorbetegség, kóros elhízás, szívelégtelenség"
-18050,N,82,"Magasvérnyomás-betegség, szívbetegség"
+18047,N,78,"magasvérnyomás-betegség, tüdőbetegsség"
+18048,N,65,magasvérnyomás-betegség
+18049,N,62,"magasvérnyomás-betegség, cukorbetegség, kóros elhízás, szívelégtelenség"
+18050,N,82,"magasvérnyomás-betegség, szívbetegség"
 18051,N,93,"Szív és érrendszeri megbetegedés, májbetegség, reflux, pajzsmirigybetegség, daganatos betegség"
-18052,N,75,Magasvérnyomás-betegség
+18052,N,75,magasvérnyomás-betegség
 18053,N,69,"Cukorbetegség, magasvérnyomás-betegség, csípőprotézis, prosztata megnagyobbodás"
 18054,N,73,"Cukorbetegség, daganatos betegség, magasvérnyomás-betegség"
-18055,N,78,"Magasvérnyomás-betegség, cukorbetegség, veseelégtelenség, szívbetegség"
-18056,N,76,"Magasvérnyomás-betegség, szívbetegség, cukorbetegség"
+18055,N,78,"magasvérnyomás-betegség, cukorbetegség, veseelégtelenség, szívbetegség"
+18056,N,76,"magasvérnyomás-betegség, szívbetegség, cukorbetegség"
 18057,N,83,Általános érelmeszesedés
-18058,N,70,"Magasvérnyomás-betegség, csontritkulás, májbetegség, epilepszia, demencia"
+18058,N,70,"magasvérnyomás-betegség, csontritkulás, májbetegség, epilepszia, demencia"
 18059,N,66,"Szív és érrendszeri megbetegedés, cukorbetegség, magasvérnyomás-betegség"
-18060,N,80,"Magasvérnyomás-betegség, krónikus veseelégtelenség, Alzheimer-kór, daganatos betegség, vérszegénység"
-18061,N,93,"Magasvérnyomás-betegség, Parkinson-kór, pajzsmirigy betegség, vesebetegség, csontritkulás, szívbetegség"
-18062,N,59,"Magasvérnyomás-betegség, cukorbetegség, mélyvénástrombózis"
-18063,N,68,"Magasvérnyomás-betegség, szív és érrendszeri betegség, Parkinson-kór, agykárosodás"
+18060,N,80,"magasvérnyomás-betegség, krónikus veseelégtelenség, Alzheimer-kór, daganatos betegség, vérszegénység"
+18061,N,93,"magasvérnyomás-betegség, Parkinson-kór, pajzsmirigy betegség, vesebetegség, csontritkulás, szívbetegség"
+18062,N,59,"magasvérnyomás-betegség, cukorbetegség, mélyvénástrombózis"
+18063,N,68,"magasvérnyomás-betegség, szív és érrendszeri betegség, Parkinson-kór, agykárosodás"
 18064,N,88,"Cukorbetegség, szívbetegség"
 18065,N,86,"Agyi infarktus, magasvérnyomás-betegség, szívbetegség, tüdőbetegség"
 18066,N,45,"Daganatos betegség, veseelégtelenség, vérszegénység"
@@ -18308,7 +18308,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 18307,N,71,"cukorbetegség, magasvérnyomás-betegség, keringési rendszer rendellenességei"
 18308,N,75,"magas vérnyomás, károsodott szívpumpa funkció, rosszindulatú daganat"
 18309,F,74,magas vérnyomás
-18310,N,67,"kóros elhízás, magas vérnyomás-betegség, cukorbetegség, szívmegállás"
+18310,N,67,"kóros elhízás, magasvérnyomás-betegség, cukorbetegség, szívmegállás"
 18311,N,56,"magas vérnyomás, kóros elhízás, újraélesztést követő oxigénhiányos agykárosodás, kóma"
 18312,F,78,"szívnagyobbodás, agyi károsodás, érszűkület, magas vérnyomás"
 18313,F,79,"magasvérnyomás-betegség, tüdőembólia, heveny szívelégtelenség, prosztata rosszindulatú daganata, idült iszkémiás szívbetegség, pitvarfibrilláció, alacsony kálium koncentráció"
@@ -18575,7 +18575,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 18574,N,93,magas vérnyomás
 18575,N,71,szívelégtelenség
 18576,N,85,"magas vérnyomás, Parkinson-kór, daganatos megbetegedés"
-18577,N,70,"tüdőtágulat, magas vérnyomás betegség, pajzsmirigy eltávolítás utáni állapot"
+18577,N,70,"tüdőtágulat, magasvérnyomás-betegség, pajzsmirigy eltávolítás utáni állapot"
 18578,N,86,
 18579,N,88,epehólyag kövesség
 18580,N,73,"magasvérnyomás-betegség, cukorbetegség"
@@ -18859,7 +18859,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 18858,F,41,-NI-
 18859,N,60,Non-Hodgkin limfóma
 18860,N,81,"krónikus veseelégtelenség, pangásos szívelégtelenség, magasvérnyomás-betegség, pitvarfibrilláció, szívbetegség"
-18861,N,78,"cukorbetegség, magasvérnyomás betegség, pajzsmirigy-túlműködés"
+18861,N,78,"cukorbetegség, magasvérnyomás-betegség, pajzsmirigy-túlműködés"
 18862,N,86,"krónikus obstruktív tüdőbetegség, magasvérnyomás-betegség, cukorbetegség, iszkémiás szívbetegség, demencia, agykárosodás"
 18863,F,83,"magasvérnyomás-betegség, cukorbetegség, depresszió, leukémia"
 18864,N,69,"cukorbetegség, krónikus veseelégtelenség, magasvérnyomás-betegség"
@@ -19502,144 +19502,144 @@ Sorszám,Nem,Kor,Alapbetegségek
 19501,N,80,"Vérszegénység, alacsony fehérvérsejtszám, pajzsmirigy betegség, érelmeszesedés, magasvérnyomás-betegség, demencia"
 19502,F,59,"Heveny veseelégtelenség, pangásos szívelégtelenség, daganatos megbetegedés"
 19503,N,85,"Szívbetegség, szívelégtelenség"
-19504,F,59,"Magasvérnyomás-betegség, elhízás, krónikus veseelégtelenség, pangásos szívelégtelenség, szívbetegség"
-19505,F,70,"Magasvérnyomás-betegség, daganatos betegség"
+19504,F,59,"magasvérnyomás-betegség, elhízás, krónikus veseelégtelenség, pangásos szívelégtelenség, szívbetegség"
+19505,F,70,"magasvérnyomás-betegség, daganatos betegség"
 19506,N,71,"Cukorbetegség, hasnyálmirigy-gyulladás, májbetegség, agyvérzés, érelmeszesedés"
 19507,F,62,Kóros elhízás
-19508,F,61,"Magasvérnyomás-betegség, koszorúér elzáródás"
+19508,F,61,"magasvérnyomás-betegség, koszorúér elzáródás"
 19509,N,69,"Szívbetegség, szív és érrendszeri betegség, reflux, elhízás"
-19510,N,86,"Magasvérnyomás-betegség, demencia"
-19511,F,79,Magasvérnyomás-betegség
-19512,N,55,"Magasvérnyomás-betegség, cukorbetegség, szívbetegség, kóros elhízás"
+19510,N,86,"magasvérnyomás-betegség, demencia"
+19511,F,79,magasvérnyomás-betegség
+19512,N,55,"magasvérnyomás-betegség, cukorbetegség, szívbetegség, kóros elhízás"
 19513,F,83,"Vesebetegség, agyvérzés, magasvérnyomás-betegség, szívbetegség, tüdőbetegség, gerincmeszesedés, daganatos betegség"
 19514,F,61,Daganatos megbetegedés
-19515,N,63,"Magasvérnyomás-betegség, pajzsmirigybetegség"
+19515,N,63,"magasvérnyomás-betegség, pajzsmirigybetegség"
 19516,F,37,"Szívbetegség, hashártya mögötti vérzés"
-19517,N,66,"Magasvérnyomás-betegség, szívbetegség, cukorbetegség, szorongás, elhízás"
-19518,F,45,"Magasvérnyomás-betegség, fekélyes vastagbélgyulladás"
+19517,N,66,"magasvérnyomás-betegség, szívbetegség, cukorbetegség, szorongás, elhízás"
+19518,F,45,"magasvérnyomás-betegség, fekélyes vastagbélgyulladás"
 19519,F,63,"Tüdőbetegség, magasvérnyomás-betegség, pajzsmirigy betegség"
-19520,N,61,Magasvérnyomás-betegség
-19521,N,90,"Magasvérnyomás-betegség, szívbetegség"
+19520,N,61,magasvérnyomás-betegség
+19521,N,90,"magasvérnyomás-betegség, szívbetegség"
 19522,N,68,Daganatos betegség
-19523,F,66,Magasvérnyomás-betegség
-19524,F,62,Magasvérnyomás-betegség
+19523,F,66,magasvérnyomás-betegség
+19524,F,62,magasvérnyomás-betegség
 19525,F,50,-NI-
-19526,F,62,"Magasvérnyomás-betegség, cukorbetegség"
+19526,F,62,"magasvérnyomás-betegség, cukorbetegség"
 19527,N,70,"Tüdőbetegség, daganatos betegségek"
 19528,F,56,-NI-
 19529,N,76,"Daganatos betegség, érelmeszesedés, magasvérnyomás-betegség, cukorbetegség"
-19530,F,71,"Magasvérnyomás-betegség, pitvarfibrilláció"
+19530,F,71,"magasvérnyomás-betegség, pitvarfibrilláció"
 19531,N,76,"Érszűkület, cukorbetegség, szívbetegség"
-19532,N,74,"Magasvérnyomás-betegség, szívbetegség, inzulinrezisztencia"
-19533,F,83,"Magasvérnyomás-betegség, szívbetegség"
+19532,N,74,"magasvérnyomás-betegség, szívbetegség, inzulinrezisztencia"
+19533,F,83,"magasvérnyomás-betegség, szívbetegség"
 19534,N,55,Nyelőcső reflux
-19535,F,45,"Magasvérnyomás-betegség, légmell"
+19535,F,45,"magasvérnyomás-betegség, légmell"
 19536,F,78,"Cukorbetegség, magasvérnyomás-betegség"
 19537,F,68,"Cukorbetegség, szívbetegség, krónikus veseelégtelenség, tüdőbetegség, Alzheimer-kór"
 19538,N,88,Daganatos megbetegedés
-19539,F,70,"Magasvérnyomás-betegség, cukorbetegség, szív- és érrendszeri betegség"
-19540,F,61,"Magasvérnyomás-betegség, köszvény, kóros elhízás"
-19541,F,67,Magasvérnyomás-betegség
+19539,F,70,"magasvérnyomás-betegség, cukorbetegség, szív- és érrendszeri betegség"
+19540,F,61,"magasvérnyomás-betegség, köszvény, kóros elhízás"
+19541,F,67,magasvérnyomás-betegség
 19542,F,66,Idült obstruktív tüdőbetegség
 19543,N,71,"Cukorbetegség, nyelőcső reflux, magasvérnyomás-betegség, vérszegénység"
 19544,F,67,"Szívbetegség, magasvérnyomás-betegség, krónikus hörghurut"
 19545,F,54,Súlyos izomgyengeség
 19546,N,89,"Érszűkület, elhízás, szívbetegség, magasvérnyomás-betegség"
-19547,F,60,"Magasvérnyomás-betegség, tüdőbetegség"
-19548,F,79,"Magasvérnyomás-betegség, veseelégtelenség"
-19549,N,68,"Magasvérnyomás-betegség, stroke"
+19547,F,60,"magasvérnyomás-betegség, tüdőbetegség"
+19548,F,79,"magasvérnyomás-betegség, veseelégtelenség"
+19549,N,68,"magasvérnyomás-betegség, stroke"
 19550,N,61,Szívritmuszavar
-19551,F,66,"Magasvérnyomás-betegség, cukorbetegség, ütőerek meszesedése"
+19551,F,66,"magasvérnyomás-betegség, cukorbetegség, ütőerek meszesedése"
 19552,N,47,Cukorbetegség
-19553,F,72,"Magasvérnyomás-betegség, cukorbetegség"
-19554,F,71,"Magasvérnyomás-betegség, cukorbetegség, szívbetegség, asztma, vérszegénység"
+19553,F,72,"magasvérnyomás-betegség, cukorbetegség"
+19554,F,71,"magasvérnyomás-betegség, cukorbetegség, szívbetegség, asztma, vérszegénység"
 19555,N,84,-NI-
 19556,N,54,-NI-
-19557,F,65,"Magasvérnyomás-betegség, szívbetegség, pitvarfibrilláció, pangásos szívelégtelenség"
+19557,F,65,"magasvérnyomás-betegség, szívbetegség, pitvarfibrilláció, pangásos szívelégtelenség"
 19558,N,81,"Cukorbetegség, magasvérnyomás-betegség, pszichés zavar"
-19559,F,58,Magasvérnyomás-betegség
-19560,F,64,"Magasvérnyomás-betegség, pitvarfibrilláció"
-19561,N,66,"Magasvérnyomás-betegség, sclerosis multiplex"
+19559,F,58,magasvérnyomás-betegség
+19560,F,64,"magasvérnyomás-betegség, pitvarfibrilláció"
+19561,N,66,"magasvérnyomás-betegség, sclerosis multiplex"
 19562,N,71,"Magas vérnyomás, cukorbetegség, elhízás"
 19563,N,48,"Véralvadási zavar, krónikus alkoholizmus"
-19564,F,86,"Magasvérnyomás-betegség, prosztata megnagyobbodás, Parkinson-szindróma, demencia"
-19565,N,82,Magasvérnyomás-betegség
+19564,F,86,"magasvérnyomás-betegség, prosztata megnagyobbodás, Parkinson-szindróma, demencia"
+19565,N,82,magasvérnyomás-betegség
 19566,N,85,"Demencia, magasvérnyomás-betegség, cukorbetegség, pitvarfibrilláció"
-19567,F,67,"Magasvérnyomás-betegség, vesekő, epilepszia"
+19567,F,67,"magasvérnyomás-betegség, vesekő, epilepszia"
 19568,F,48,Daganatos betegség
-19569,F,77,Magasvérnyomás-betegség
-19570,N,76,"Magasvérnyomás-betegség, szívbetegség"
+19569,F,77,magasvérnyomás-betegség
+19570,N,76,"magasvérnyomás-betegség, szívbetegség"
 19571,N,50,Fekélyes vastagbélgyulladás
 19572,N,74,"Magas vérnyomás, idült veseelégtelenség"
 19573,N,72,"Szívbetegség, cukorbetegség, kóros elhízás"
-19574,N,64,"Magasvérnyomás-betegség, agyvérzés"
+19574,N,64,"magasvérnyomás-betegség, agyvérzés"
 19575,N,73,"Agyvérzés, cukorbetegség szívbetegség, krónikus veseelégtelenség"
 19576,N,82,"Idegbénulás, Parkinson-kór, demencia, szívbetegség"
-19577,N,59,Magasvérnyomás-betegség
+19577,N,59,magasvérnyomás-betegség
 19578,N,68,"Szív és érrendszeri betegség, lépmegnagyobbodás, vérszegénység"
 19579,N,60,"Cukorbetegség, elhízás"
-19580,N,60,"Magasvérnyomás-betegség, asztma, gyomorvérzés"
+19580,N,60,"magasvérnyomás-betegség, asztma, gyomorvérzés"
 19581,N,69,"Tüdőbetegség, toxikus májbetegség"
 19582,N,60,"Cukorbetegség, magasvérnyomás-betegség, koszorúverőér-elkeményedés"
-19583,N,71,"Magasvérnyomás-betegség, tüdőbetegség, légzési elégtelenség"
+19583,N,71,"magasvérnyomás-betegség, tüdőbetegség, légzési elégtelenség"
 19584,N,87,"Szívbetegség, érelmeszesedés, érbetegség, magasvérnyomás-betegség, prosztata megnagyobbodás, általános érszűkület, köszvény"
-19585,N,90,"Magasvérnyomás-betegség, szív- és érrendszeri betegség, asztma, vérszegénység"
+19585,N,90,"magasvérnyomás-betegség, szív- és érrendszeri betegség, asztma, vérszegénység"
 19586,N,55,-NI-
 19587,N,71,"Cukorbetegség, magasvérnyomás-betegség, vérszegénység"
 19588,N,79,-NI-
-19589,N,59,Magasvérnyomás-betegség
+19589,N,59,magasvérnyomás-betegség
 19590,N,84,"Alzheimer-kór, pajzsmirigybetegség, magasvérnyomás-betegség, szívbetegség, pangásos szívelégtelenség"
 19591,N,46,"Cukorbetegség, szív- és érrendszeri betegség, infarktus, vesebetegség, csontvelőgyulladás"
-19592,N,77,"Magasvérnyomás-betegség, Crohn-betegség, cukorbetegség, végtagi ütőerek érszűkület, kevert szorongásos és depressziós zavar"
-19593,N,48,Magasvérnyomás-betegség
-19594,N,80,"Magasvérnyomás-betegség, daganatos betegség"
+19592,N,77,"magasvérnyomás-betegség, Crohn-betegség, cukorbetegség, végtagi ütőerek érszűkület, kevert szorongásos és depressziós zavar"
+19593,N,48,magasvérnyomás-betegség
+19594,N,80,"magasvérnyomás-betegség, daganatos betegség"
 19595,N,73,"Cukorbetegség, magasvérnyomás-betegség, szívelégtelenség, krónikus veseelégtelenség, daganatos betegség"
-19596,N,69,"Magasvérnyomás-betegség, cukorbetegség, ízületi kopás"
+19596,N,69,"magasvérnyomás-betegség, cukorbetegség, ízületi kopás"
 19597,N,70,Daganatos betegség
 19598,N,53,Kóros elhízás
-19599,N,76,"Magasvérnyomás-betegség, agykárosodás, tüdőbetegség"
+19599,N,76,"magasvérnyomás-betegség, agykárosodás, tüdőbetegség"
 19600,N,50,"Kóros elhízás, magasvérnyomás-betegség, cukorbetegség, pajzsmirigybetegség, asztma"
-19601,N,77,"Magasvérnyomás-betegség, májbetegség, daganatos betegség"
+19601,N,77,"magasvérnyomás-betegség, májbetegség, daganatos betegség"
 19602,N,73,"Tüdőbetegség, magasvérnyomás-betegség"
 19603,N,67,"Magas vérnyomás, alkoholizmus"
 19604,N,78,"Pitvarfibrilláció, nyelőcsőfekély, skizofrénia"
 19605,N,75,"Parkinson-kór, daganatos betegség"
 19606,N,37,-NI-
 19607,N,63,"Idült hasnyálmirigy gyulladás, májbetegség"
-19608,N,77,"Magasvérnyomás-betegség, tüdőbetegség, pikkelysömör"
-19609,N,69,"Magasvérnyomás-betegség, cukorbetegség"
-19610,N,81,"Magasvérnyomás-betegség, veseelégtelenség"
-19611,N,93,"Magasvérnyomás-betegség, szívelégtelenség, szív- és érrendszeri betegség"
-19612,N,81,"Magasvérnyomás-betegség, prosztata megnagyobbodás, epilepszia"
-19613,N,56,Magasvérnyomás-betegség
-19614,N,74,"Magasvérnyomás-betegség, cukorbetegség"
+19608,N,77,"magasvérnyomás-betegség, tüdőbetegség, pikkelysömör"
+19609,N,69,"magasvérnyomás-betegség, cukorbetegség"
+19610,N,81,"magasvérnyomás-betegség, veseelégtelenség"
+19611,N,93,"magasvérnyomás-betegség, szívelégtelenség, szív- és érrendszeri betegség"
+19612,N,81,"magasvérnyomás-betegség, prosztata megnagyobbodás, epilepszia"
+19613,N,56,magasvérnyomás-betegség
+19614,N,74,"magasvérnyomás-betegség, cukorbetegség"
 19615,N,81,Szív- és érrendszeri megbetegedés
 19616,N,61,"Kóros elhízás, magasvérnyomás-betegség, nyelőcső reflux, szívritmuszavar, prosztata megnagyobbodás"
 19617,N,73,-NI-
-19618,N,77,"Magasvérnyomás-betegség, daganatos megbetegedés"
-19619,N,66,Magasvérnyomás-betegség
-19620,N,84,"Magasvérnyomás-betegség, cukorbetegség"
-19621,N,48,"Magasvérnyomás-betegség, cukorbetegség, súlyos elhízás"
+19618,N,77,"magasvérnyomás-betegség, daganatos megbetegedés"
+19619,N,66,magasvérnyomás-betegség
+19620,N,84,"magasvérnyomás-betegség, cukorbetegség"
+19621,N,48,"magasvérnyomás-betegség, cukorbetegség, súlyos elhízás"
 19622,N,68,"Stroke, magasvérnyomás-betegség"
-19623,N,57,"Magasvérnyomás-betegség, cukorbetegség"
-19624,N,82,"Magasvérnyomás-betegség, szívbetegség, demencia, aggkori agyi elfajulás, cukorbetegség"
+19623,N,57,"magasvérnyomás-betegség, cukorbetegség"
+19624,N,82,"magasvérnyomás-betegség, szívbetegség, demencia, aggkori agyi elfajulás, cukorbetegség"
 19625,N,86,"Demencia, cukorbetegség, magasvérnyomás-betegség"
 19626,N,69,"Kóros elhízás, trombózis hajlam, pajzsmirigybetegség"
 19627,N,80,"Daganatos betegség, demencia"
-19628,N,65,"Magasvérnyomás-betegség, szívbetegség, cukorbetegség, májbetegség"
-19629,N,68,Magasvérnyomás-betegség
-19630,N,45,"Magasvérnyomás-betegség, kóros elhízás"
+19628,N,65,"magasvérnyomás-betegség, szívbetegség, cukorbetegség, májbetegség"
+19629,N,68,magasvérnyomás-betegség
+19630,N,45,"magasvérnyomás-betegség, kóros elhízás"
 19631,N,72,"Daganatos betegség, asztma, magasvérnyomás-betegség, szívbetegség"
 19632,N,77,"Szívbetegség, alsó végtagi mélyvénás trombózis, tüdőbetegség"
-19633,N,76,"Magasvérnyomás-betegség, cukorbetegség, szívbetegség, daganatos betegség"
-19634,N,71,Magasvérnyomás-betegség
-19635,N,61,"Magasvérnyomás-betegség, általános érelmeszesedés"
-19636,N,77,"Magasvérnyomás-betegség, hemodialízissel élő személy"
-19637,N,56,"Magasvérnyomás-betegség, koszorúverőér-elkeményedés, máj zsíros elfajulása"
+19633,N,76,"magasvérnyomás-betegség, cukorbetegség, szívbetegség, daganatos betegség"
+19634,N,71,magasvérnyomás-betegség
+19635,N,61,"magasvérnyomás-betegség, általános érelmeszesedés"
+19636,N,77,"magasvérnyomás-betegség, hemodialízissel élő személy"
+19637,N,56,"magasvérnyomás-betegség, koszorúverőér-elkeményedés, máj zsíros elfajulása"
 19638,N,62,"Cukorbetegség, magasvérnyomás-betegség, krónikus veseelégtelenség, gyomorvérzés, szívbetegség, vérszegénység"
 19639,N,78,"Prosztata megnagyobbodás, magasvérnyomás-betegség"
-19640,N,66,"Magasvérnyomás-betegség, szívbetegség"
-19641,N,59,Magasvérnyomás-betegség
+19640,N,66,"magasvérnyomás-betegség, szívbetegség"
+19641,N,59,magasvérnyomás-betegség
 19642,N,81,"Tüdőbetegség, daganatos betegség"
 19643,N,80,"Agykárosodás, magasvérnyomás-betegség, daganatos betegség"
 19644,N,61,"Cukorbetegség, magasvérnyomás-betegség, hasfali sérv, kóros elhízás, légzési elégtelenség, akut veseelégtelenség"
@@ -19647,104 +19647,104 @@ Sorszám,Nem,Kor,Alapbetegségek
 19646,N,87,Gyomorvérzés
 19647,N,50,"Kóros elhízás, szorongás"
 19648,N,89,"Csontritkulás, depresszió, érelmeszesedés, pajzsmirigybetegség"
-19649,N,77,"Magasvérnyomás-betegség, cukorbetegség, agykárosodás, Parkinson-kór"
+19649,N,77,"magasvérnyomás-betegség, cukorbetegség, agykárosodás, Parkinson-kór"
 19650,N,76,"Daganatos betegség, tüdőbetegség, magasvérnyomás-betegség, szívbetegség"
 19651,N,71,"Cukorbetegség, magasvérnyomás-betegség"
 19652,N,65,Kevert szorongásos és depressziós zavar
 19653,N,73,"Cukorbetegség, magasvérnyomás-betegség, szívbetegség"
 19654,N,84,Daganatos betegség
-19655,N,83,"Magasvérnyomás-betegség, cukorbetegség, hasnyálmirigy gyulladás, csontritkulás, pajzsmirigybetegség"
+19655,N,83,"magasvérnyomás-betegség, cukorbetegség, hasnyálmirigy gyulladás, csontritkulás, pajzsmirigybetegség"
 19656,N,52,-NI-
 19657,N,80,"Szívbetegség, pitvarfibrilláció"
-19658,N,87,"Magasvérnyomás-betegség, általános érelmeszesedés, enyhe kognitív zavar"
-19659,N,67,"Magasvérnyomás-betegség, cukorbetegség"
+19658,N,87,"magasvérnyomás-betegség, általános érelmeszesedés, enyhe kognitív zavar"
+19659,N,67,"magasvérnyomás-betegség, cukorbetegség"
 19660,N,56,"Epilepszia, tüdőbetegség, krónikus zsírmáj"
 19661,N,75,Cukorbetegség
-19662,N,65,"Magasvérnyomás-betegség, cukorbetegség, organikus hangulatzavarok, pitvarfibrilláció"
-19663,N,65,Magasvérnyomás-betegség
+19662,N,65,"magasvérnyomás-betegség, cukorbetegség, organikus hangulatzavarok, pitvarfibrilláció"
+19663,N,65,magasvérnyomás-betegség
 19664,N,78,"Daganatos betegség, idült obstruktív tüdőbetegség, magasvérnyomás-betegség"
-19665,N,73,"Magasvérnyomás-betegség, tüdőbetegség, szívbetegség"
+19665,N,73,"magasvérnyomás-betegség, tüdőbetegség, szívbetegség"
 19666,N,81,"Cukorbetegség, magasvérnyomás-betegség, pajzsmirigy betegség, kóros elhízás, akut veseelégtelenség"
-19667,N,89,"Magasvérnyomás-betegség, cukorbetegség, pitvarfibrilláció, szívbetegség"
-19668,N,71,"Magasvérnyomás-betegség, májbetegség"
+19667,N,89,"magasvérnyomás-betegség, cukorbetegség, pitvarfibrilláció, szívbetegség"
+19668,N,71,"magasvérnyomás-betegség, májbetegség"
 19669,N,63,"Cukorbetegség, pajzsmirigy betegség, kóros elhízás, magasvérnyomás-betegség"
 19670,N,65,"Magas vérnyomás, depresszió, vérszegénység, akut nyirokcsomó gyulladás"
-19671,N,65,"Magasvérnyomás-betegség, cukorbetegség, súlyos izomgyengeség"
+19671,N,65,"magasvérnyomás-betegség, cukorbetegség, súlyos izomgyengeség"
 19672,N,82,"Érelmeszesedés, szív és érrendszeri betegség, magasvérnyomás-betegség, veseelégtelenség"
-19673,N,69,"Magasvérnyomás-betegség, kóros elhízás, krónikus veseelégtelenség, demencia, szívelégtelenség, cukorbetegség"
+19673,N,69,"magasvérnyomás-betegség, kóros elhízás, krónikus veseelégtelenség, demencia, szívelégtelenség, cukorbetegség"
 19674,N,64,"Guillain Barre szindróma, magasvérnyomás-betegség"
-19675,N,89,"Magasvérnyomás-betegség, idült obstruktív tüdőbetegség"
-19676,N,77,"Magasvérnyomás-betegség, idült obstruktív tüdőbetegség, pitvarfibrilláció, pacemakeres beteg"
-19677,N,81,"Magasvérnyomás-betegség, szívbetegség"
-19678,N,61,"Magasvérnyomás-betegség, kóros elhízás"
+19675,N,89,"magasvérnyomás-betegség, idült obstruktív tüdőbetegség"
+19676,N,77,"magasvérnyomás-betegség, idült obstruktív tüdőbetegség, pitvarfibrilláció, pacemakeres beteg"
+19677,N,81,"magasvérnyomás-betegség, szívbetegség"
+19678,N,61,"magasvérnyomás-betegség, kóros elhízás"
 19679,N,70,"Mellüregi folyadékképződés, magasvérnyomás-betegség, alsó végtag ütőereinek embóliája és rögösödése, ütőérszűkület"
-19680,N,84,"Magasvérnyomás-betegség, érelmeszesedés, cukorbetegség"
+19680,N,84,"magasvérnyomás-betegség, érelmeszesedés, cukorbetegség"
 19681,N,67,"Magas vérnyomás, extrém elhízás, pajzsmirigy alulműködés"
 19682,N,74,Cukorbetegség
 19683,N,87,Szívelégtelenség
-19684,N,76,"Magasvérnyomás-betegség, cukorbetegség, stroke"
+19684,N,76,"magasvérnyomás-betegség, cukorbetegség, stroke"
 19685,N,95,"Vérszegénység, cukorbetegség, magasvérnyomás-betegség, szívbetegség, aorta billentyű szűkülete, szívelégtelenség, érszűkület, gerincmeszesedés"
 19686,N,68,"Daganatos betegség, bélelzáródás, magasvérnyomás-betegség, krónikus veseelégtelenség"
 19687,N,68,-NI-
 19688,N,73,"Szív- és érrendszeri betegség, magasvérnyomás-betegség"
-19689,N,56,"Magasvérnyomás-betegség, asztma, daganatos betegség"
-19690,N,87,"Magasvérnyomás-betegség, szív és érrendszeri betegség"
-19691,N,84,"Magasvérnyomás-betegség, cukorbetegség"
-19692,N,67,"Magasvérnyomás-betegség, daganatos betegség"
+19689,N,56,"magasvérnyomás-betegség, asztma, daganatos betegség"
+19690,N,87,"magasvérnyomás-betegség, szív és érrendszeri betegség"
+19691,N,84,"magasvérnyomás-betegség, cukorbetegség"
+19692,N,67,"magasvérnyomás-betegség, daganatos betegség"
 19693,N,80,Idült iszkémiás szívbetegség
 19694,N,63,Pajzsmirigybetegség
 19695,N,59,Izomsorvadás
-19696,N,71,"Magasvérnyomás-betegség, szívbetegség, elhízás"
-19697,N,71,"Magasvérnyomás-betegség, tüdőembólia"
+19696,N,71,"magasvérnyomás-betegség, szívbetegség, elhízás"
+19697,N,71,"magasvérnyomás-betegség, tüdőembólia"
 19698,N,60,"Magas vérnyomás, cukorbetegség, elhízás, stroke"
 19699,N,59,"Mélyvénás trombózis, mozgásszervi panaszok, szívbetegség"
-19700,N,48,"Magasvérnyomás-betegség, pajzsmirigy betegség"
+19700,N,48,"magasvérnyomás-betegség, pajzsmirigy betegség"
 19701,N,65,"Toxikus májbetegség, verőér-elmeszesedés, szív- és érrendszeri betegség"
-19702,N,93,"Magasvérnyomás-betegség, szívbetegség, koszorúérgörcs"
+19702,N,93,"magasvérnyomás-betegség, szívbetegség, koszorúérgörcs"
 19703,N,82,"Szívbetegség, májelégtelenség, veseelégtelenség"
-19704,N,72,Magasvérnyomás-betegség
+19704,N,72,magasvérnyomás-betegség
 19705,N,79,"Pajzsmirigybetegség, érszűkület"
 19706,N,65,Idült obstruktiv tüdőbetegség
 19707,N,73,"Cukorbetegség, magasvérnyomás-betegség"
-19708,N,42,"Magasvérnyomás-betegség, cukorbetegség, érelmeszesedés"
+19708,N,42,"magasvérnyomás-betegség, cukorbetegség, érelmeszesedés"
 19709,N,80,Daganatos megbetegedés
 19710,N,79,"Cukorbetegség, szívbetegség, kóros elhízás"
 19711,N,56,Daganatos betegség
 19712,N,81,"Szívbetegség, szívinfarktus, érszűkület, stroke, vérszegénység, veseelégtelenség, magas vérnyomás, mitrális műbillentyű beültetés"
-19713,N,73,"Magasvérnyomás-betegség, érelmeszesedés"
-19714,N,83,"Magasvérnyomás-betegség, daganatos betegség, gyomorfekély"
-19715,N,67,Magasvérnyomás-betegség tüdőbetegség
-19716,N,86,"Magasvérnyomás-betegség, pitvarfibrilláció, cukorbetegség, veseelégtelenség, szívbetegség"
-19717,N,68,"Magasvérnyomás-betegség, cukorbetegség, szívbetegség"
+19713,N,73,"magasvérnyomás-betegség, érelmeszesedés"
+19714,N,83,"magasvérnyomás-betegség, daganatos betegség, gyomorfekély"
+19715,N,67,magasvérnyomás-betegség tüdőbetegség
+19716,N,86,"magasvérnyomás-betegség, pitvarfibrilláció, cukorbetegség, veseelégtelenség, szívbetegség"
+19717,N,68,"magasvérnyomás-betegség, cukorbetegség, szívbetegség"
 19718,N,81,"Krónikus veseelégtelenség, szívbetegség, magasvérnyomás-betegség, cukorbetegség, pajzsmirigy betegség, csontritkulás"
 19719,N,82,"Cukorbetegség, cukorbetegség, veseelégtelenség, magasvérnyomás-betegség, daganatos megbetegedés"
-19720,N,52,"Magasvérnyomás-betegség, cukorbetegség"
-19721,N,67,"Magasvérnyomás-betegség, cukorbetegség, pitvarfibrilláció, szívbetegség"
+19720,N,52,"magasvérnyomás-betegség, cukorbetegség"
+19721,N,67,"magasvérnyomás-betegség, cukorbetegség, pitvarfibrilláció, szívbetegség"
 19722,N,43,"Asztma, kóros elhízás"
-19723,N,87,"Magasvérnyomás-betegség, pangásos szívelégtelenség, szívizomelhalás, cukorbetegség, végtagi ütőerek érszűkülete"
+19723,N,87,"magasvérnyomás-betegség, pangásos szívelégtelenség, szívizomelhalás, cukorbetegség, végtagi ütőerek érszűkülete"
 19724,N,82,"Cukorbetegség, magasvérnyomás-betegség, szívbetegség, daganatos betegség"
 19725,N,84,"Tüdőbetegség, asztma, tüdőbetegség, magasvérnyomás-betegség, szívbetegség"
 19726,N,86,"Cukorbetegség, magasvérnyomás-betegség, reflux, zöld hályog, szívbetegség, szívbetegség"
-19727,N,69,"Magasvérnyomás-betegség, cukorbetegség, kóros elhízás"
-19728,N,61,"Magasvérnyomás-betegség, cukorbetegség, magas vérzsírszint"
-19729,N,80,"Magasvérnyomás-betegség, szívbetegség, prosztata megnagyobbodás"
-19730,N,73,"Magasvérnyomás-betegség, szív- és érrendszeri betegség, magas vérzsírszint"
-19731,N,73,"Magasvérnyomás-betegség, cukorbetegség, pajzsmirigybetegség, szívbetegség"
-19732,N,44,"Magasvérnyomás-betegség, kóros elhízás"
-19733,N,74,"Magasvérnyomás-betegség, cukorbetegség"
+19727,N,69,"magasvérnyomás-betegség, cukorbetegség, kóros elhízás"
+19728,N,61,"magasvérnyomás-betegség, cukorbetegség, magas vérzsírszint"
+19729,N,80,"magasvérnyomás-betegség, szívbetegség, prosztata megnagyobbodás"
+19730,N,73,"magasvérnyomás-betegség, szív- és érrendszeri betegség, magas vérzsírszint"
+19731,N,73,"magasvérnyomás-betegség, cukorbetegség, pajzsmirigybetegség, szívbetegség"
+19732,N,44,"magasvérnyomás-betegség, kóros elhízás"
+19733,N,74,"magasvérnyomás-betegség, cukorbetegség"
 19734,N,72,"Cukorbetegség, magasvérnyomás-betegség"
 19735,N,41,Crohn-betegség
 19736,N,61,-NI-
-19737,N,73,"Magasvérnyomás-betegség, kóros elhízás, ízületi bántalom"
-19738,N,57,"Magasvérnyomás-betegség, iszkémiás szívbetegség, tüdőbetegség, cukorbetegség"
-19739,N,75,"Magasvérnyomás-betegség, tüdőbetegség, veseelégtelenség"
+19737,N,73,"magasvérnyomás-betegség, kóros elhízás, ízületi bántalom"
+19738,N,57,"magasvérnyomás-betegség, iszkémiás szívbetegség, tüdőbetegség, cukorbetegség"
+19739,N,75,"magasvérnyomás-betegség, tüdőbetegség, veseelégtelenség"
 19740,N,73,"Idült iszkémiás szívbetegség, magasvérnyomás-betegség"
 19741,N,89,-NI-
 19742,N,69,Cukorbetegség
 19743,N,78,Cukorbetegség
 19744,N,78,Tüdőbetegség
-19745,N,64,"Magasvérnyomás-betegség, depresszió, veseelégtelenség"
-19746,N,76,"Magasvérnyomás-betegség, cukorbetegség, szívbetegség"
+19745,N,64,"magasvérnyomás-betegség, depresszió, veseelégtelenség"
+19746,N,76,"magasvérnyomás-betegség, cukorbetegség, szívbetegség"
 19747,N,64,"Heveny veseelégtelenség, pitvarfibrilláció, pangásos szívelégtelenség"
 19748,N,50,Általános érelmeszesedés
 19749,N,64,Cukorbetegség
@@ -19918,7 +19918,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 19917,N,82,"magas vérnyomás, szívelégtelenség, szívritmuszavar miatt szívritmusszabályozó beültetés, stroke, daganatos megbetegedés"
 19918,N,52,"cukorbetegség, elhízás, magas vérnyomás"
 19919,N,75,"magas vérnyomás, cukorbetegség, szívinfarktus"
-19920,N,65,"szívizom betegség, magas vérnyomás-betegség"
+19920,N,65,"szívizom betegség, magasvérnyomás-betegség"
 19921,N,78,"idült iszkémiás szívbetegség, magasvérnyomás-betegség (elsődleges)"
 19922,N,72,"magas vérnyomás, szívinfarktus"
 19923,N,74,"magas vérnyomás, krónikus veseelégtelenség, cukorbetegség, pangásos szívelégtelenség"
@@ -21038,7 +21038,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 21037,N,90,"magasvérnyomás-betegség, demencia, pajzsmirigybetegség"
 21038,N,68,"magasvérnyomás-betegség, asztma, cukorbetegség"
 21039,N,56,szívbetegség
-21040,N,74,"Magasvérnyomás-betegség, szívbetegség"
+21040,N,74,"magasvérnyomás-betegség, szívbetegség"
 21041,N,72,"magasvérnyomás-betegség, veseelégtelenség"
 21042,N,70,"magasvérnyomás-betegség, köszvény, pikkelysömör"
 21043,N,63,magasvérnyomás-betegség
@@ -21074,7 +21074,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 21073,N,67,"szívelégtelenség, cukorbetegség, magasvérnyomás-betegség, veseelégtelenség, hasnyálmirigy-gyulladás, asztma"
 21074,N,90,magasvérnyomás-betegség
 21075,N,74,"magasvérnyomás-betegség, csontritkulás"
-21076,N,67,"Magasvérnyomás-betegség, gyomorfekély, asztma"
+21076,N,67,"magasvérnyomás-betegség, gyomorfekély, asztma"
 21077,N,78,"magasvérnyomás-betegség, szívritmuszavar"
 21078,N,71,"agyi infarktus, koszorúér-elmeszesdés, vérmérgezés"
 21079,N,69,magasvérnyomás-betegség
@@ -23112,7 +23112,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 23111,N,65,daganatos megbetegedés áttétekkel
 23112,N,69,"magasvérnyomás-betegség, szívbetegség, leukémia"
 23113,N,55,-NI-
-23114,N,56,"magasvérnyomás betegség, cukorbetegség, neurológiai betegség"
+23114,N,56,"magasvérnyomás-betegség, cukorbetegség, neurológiai betegség"
 23115,N,82,"tüdőbetegség, magasvérnyomás-betegség, Parkinson-kór"
 23116,N,67,daganatos megbetegedés áttétekkel
 23117,N,62,"magasvérnyomás-betegség, cukorbetegség, elhízás"
@@ -23189,7 +23189,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 23188,N,85,érelmeszesedés
 23189,N,81,-NI-
 23190,N,44,"magasvérnyomás-betegség, epilepszia, asztma"
-23191,N,67,magasvérnyomás betegség
+23191,N,67,magasvérnyomás-betegség
 23192,N,51,-NI-
 23193,N,61,"szívritmuszavar, magasvérnyomás-betegség"
 23194,N,94,magasvérnyomás-betegség
@@ -23696,7 +23696,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 23695,F,65,"cukorbetegség, érelmeszesedés, ütőérszűkület"
 23696,F,57,magasvérnyomás-betegség
 23697,F,84,"magasvérnyomás-betegség, szívbetegség, ízületi gyulladás"
-23698,N,80,"magasvérnyomás betegség, pitvarfibrilláció, reflux"
+23698,N,80,"magasvérnyomás-betegség, pitvarfibrilláció, reflux"
 23699,N,84,"magasvérnyomás-betegség, cukorbetegség, tüdőbetegség, pivarfibrilláció, veseelégtelenség"
 23700,N,81,"magasvérnyomás-betegség, pitvarfibrilláció"
 23701,N,84,"magasvérnyomás-betegség, szívbetegség, cukorbetegség, agyi érelmeszesedés"
@@ -23866,7 +23866,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 23865,N,85,"magasvérnyomás-betegség, krónikus veseelégtelenség, vérszegénység"
 23866,N,78,tüdőbetegség
 23867,F,82,"Alzheimer-kór, keringés zavar"
-23868,N,80,"magas vérnyomás-betegség, cukorbetegség"
+23868,N,80,"magasvérnyomás-betegség, cukorbetegség"
 23869,N,59,"vírusos C-típusú Hepatitis, szívelégtelenség"
 23870,N,67,"Hallervorden-Spatz betegség, magasvérnyomás-betegség, szívelégtelenség"
 23871,F,42,"cukorbetegség, magasvérnyomás -betegség"
@@ -24938,7 +24938,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 24937,F,91,"magasvérnyomás-betegség, szívbetegség"
 24938,F,73,"ütőérszűkület, üszkösödés"
 24939,F,89,"szívbetegség, érelmeszesedés"
-24940,N,82,magas vérnyomás betegség
+24940,N,82,magasvérnyomás-betegség
 24941,N,88,"magasvérnyomás-betegség, pangásos szívelégtelenség, reflux, köszvény"
 24942,N,78,magasvérnyomás-betegség
 24943,N,91,"magasvérnyomás-betegség, szívelégtelenség"
@@ -25895,7 +25895,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 25894,F,59,"magasvérnyomás-betegség, kóros elhízás"
 25895,F,65,"magasvérnyomás-betegség, elhízás, cukorbetegség, prosztata túltengés"
 25896,F,69,"magasvérnyomás-betegség, krónikus veseelégtelenség, pitvarfibrilláció, B típusú hepatitisz"
-25897,F,68,"magasvérnyomás betegség, stroke, inzulin-rezisztencia"
+25897,F,68,"magasvérnyomás-betegség, stroke, inzulin-rezisztencia"
 25898,N,82,"magasvérnyomás-betegség, demencia, veseelégtelenség"
 25899,F,66,magas húgysavszint
 25900,F,56,magasvérnyomás-betegség
@@ -29004,7 +29004,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 29003,F,57,"veseelégtelenség, asztma"
 29004,F,78,"magasvérnyomás-betegség, cukorbetegség, húgyhólyag rosszindulatú daganata"
 29005,N,76,"magasvérnyomás-betegség, iszkémiás szívbetegség, szívizomelhalás"
-29006,N,74,magasvérnyomás betegség
+29006,N,74,magasvérnyomás-betegség
 29007,F,54,"magasvérnyomás-betegség, cukorbetegség, asztma"
 29008,F,75,"magasvérnyomás-betegség, cukorbetegség, alkoholizmus"
 29009,F,49,"kóros elhízás, magasvérnyomás-betegség"
@@ -29988,8 +29988,8 @@ Sorszám,Nem,Kor,Alapbetegségek
 29987,N,81,"magasvérnyomás-betegség, iszkémiás szívbetegség, köszvény, prosztata megnagyobbodás"
 29988,N,73,"magasvérnyomás-betegség, cukorbetegség"
 29989,N,90,keringési zavar
-29990,N,70,"magas-vérnyomás betegség, cukorbetegség"
-29991,N,85,"pitvarfibrilláció, magas-vérnyomás betegség"
+29990,N,70,"magasvérnyomás-betegség, cukorbetegség"
+29991,N,85,"pitvarfibrilláció, magasvérnyomás-betegség"
 29992,N,77,magasvérnyomás-betegség
 29993,N,66,"magasvérnyomás-betegség, cukorbetegség, tüdő rosszindulatú daganata"
 29994,N,63,"magasvérnyomás-betegség, cukorbetegség, daganatos megbetegedés"
@@ -30311,7 +30311,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 30310,N,78,"Parkinson-kór, demencia"
 30311,N,91,"magasvérnyomás-betegség, májbetegség, szívbetegség, krónikus veseelégtelenség"
 30312,N,70,"magasvérnyomás-betegség, iszkémiás szívbetegség, krónikus obstruktív tüdőbetegség"
-30313,N,89,magasvérnyomás-betegség; prosztatabetegség
+30313,N,89,"magasvérnyomás-betegség, prosztatabetegség"
 30314,N,86,"magasvérnyomás-betegség, húgyhólyagrák, gégerák"
 30315,N,75,prosztatatúltengés
 30316,N,69,"magas vérnyomás, krónikus veseelégtelenség"
@@ -30551,7 +30551,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 30550,N,68,"magasvérnyomás-betegség, iszkémiás szívbetegség, általános érelmeszesedés"
 30551,N,78,"skizoaffektív zavar, vesebetegség, magas koleszterin, szívbetegség"
 30552,N,66,"idült szívbetegség, magasvérnyomás-betegség, verőér-elmeszesedés, idült obstruktív tüdőbetegség, cukorbetegség"
-30553,N,85,"érelmeszesedés, magas vérnyomás-betegség, iszkémiás szívbetegség, szívbetegség, csontvelő megbetegedése"
+30553,N,85,"érelmeszesedés, magasvérnyomás-betegség, iszkémiás szívbetegség, szívbetegség, csontvelő megbetegedése"
 30554,N,72,"hasnyálmirigy megbetegedés, cukorbetegség"
 30555,N,65,"magasvérnyomás-betegség, cukorbetegség, májbetegség, demencia"
 30556,N,97,"magasvérnyomás-betegség, pitvafibrilláció miatti véralvadásgátlás, agysorvadás, demencia"
@@ -31839,7 +31839,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 31838,N,63,"magasvérnyomás-betegség, agyvérzés"
 31839,N,79,"demencia, Alzheimer-kór"
 31840,N,88,"cukorbetegség, magasvérnyomás-betegség"
-31841,N,56,"cukorbetegség, magas vérnyomás betegség, pitvarfibrilláció"
+31841,N,56,"cukorbetegség, magasvérnyomás-betegség, pitvarfibrilláció"
 31842,N,83,"magasvérnyomás-betegség, szívizom vérellátásának zavara, agyi érkatasztrófa, érszűkület"
 31843,N,42,-NI-
 31844,N,74,"májbetegség, daganatos megbetegedés"

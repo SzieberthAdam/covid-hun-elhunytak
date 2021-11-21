@@ -1,6 +1,7 @@
 import collections
 import csv
 import pathlib
+import re
 
 FORRÁS_FILE = "elhunytak_gov_hu.csv"
 CÉL_FILE = "elhunytak_gov_hu_tisztitott.csv"
@@ -74,7 +75,7 @@ if __name__ == '__main__':
         else:
             tábla[i][1] = nem_cserélt
 
-        alapbetegségek_külön = [s.strip() for s in alapbetegségek.split(',')]
+        alapbetegségek_külön = [s.strip() for s in re.split(',|;', alapbetegségek)]
         alapbetegségek_külön_cserélt = []
         for alapbetegség in alapbetegségek_külön:
             _a = alapbetegség_cserélt = alapbetegség_csere.get(alapbetegség)
