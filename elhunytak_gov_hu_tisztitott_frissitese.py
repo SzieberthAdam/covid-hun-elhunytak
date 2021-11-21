@@ -46,6 +46,8 @@ if __name__ == '__main__':
     else:
         alapbetegség_csere = {}
 
+    alapbetegség_csere_számláló = {alapbetegség: 0 for alapbetegség in alapbetegség_csere}
+
     for i in range(1, len(tábla)):  # index=0 a fejléc, ezt kihagyom
 
         sorszám = int(tábla[i][0])
@@ -82,14 +84,25 @@ if __name__ == '__main__':
             if alapbetegség_cserélt is None:
                 _jav = "".join([alapbetegség_karakter_csere.get(c, c) for c in alapbetegség])
                 _a = alapbetegség_csere[alapbetegség] = f'??? {_jav}'
+                alapbetegség_csere_számláló[alapbetegség] = 1
+            else:
+                try:
+                    alapbetegség_csere_számláló[alapbetegség] += 1
+                except KeyError:
+                    alapbetegség_csere[alapbetegség] = _a
+                    alapbetegség_csere_számláló[alapbetegség] = 1
             alapbetegségek_külön_cserélt.append(_a)
-        tábla[i][3] = ', '.join(alapbetegségek_külön_cserélt).strip(" ,")
+        tábla[i][3] = '; '.join(alapbetegségek_külön_cserélt).strip(" ;")
 
     with sor_csere_filepath.open('w', encoding='utf-8', newline='') as _f:
         csv.writer(_f).writerows([sor_csere[i] for i in sorted(sor_csere)])
 
     with nem_csere_filepath.open('w', encoding='utf-8', newline='') as _f:
         csv.writer(_f).writerows([[erről, nem_csere[erről]] for erről in sorted(nem_csere)])
+
+    #for _a, _n in alapbetegség_csere_számláló.items():
+    #    if _n == 0:
+    #        del alapbetegség_csere[_a]
 
     with alapbetegség_csere_filepath.open('w', encoding='utf-8', newline='') as _f:
         csv.writer(_f).writerows([[erről, alapbetegség_csere[erről]] for erről in sorted(alapbetegség_csere)])
