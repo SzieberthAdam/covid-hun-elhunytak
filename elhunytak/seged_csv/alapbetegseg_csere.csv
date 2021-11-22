@@ -191,6 +191,7 @@ IBS,IBS
 IBSZ,IBSZ
 II. diabetes mellitus,II. diabetes mellitus
 III fokú AV blokk,III fokú AV blokk
+III-fokú AV blokk miatt pacemaker beültetés,??? III-fokú AV blokk miatt pacemaker beültetés
 III. fokú AV-blokk,III. fokú AV-blokk
 ISZB,ISZB
 ISzB,ISzB
@@ -435,6 +436,7 @@ a fej,a fej
 a felső végtag ütőereinek emboliája és rögösödése,a felső végtag ütőereinek emboliája és rögösödése
 a folyadék- és elektrolit-háztartás,a folyadék- és elektrolit-háztartás
 a gyomor rosszindulatú daganata,a gyomor rosszindulatú daganata
+a hashártya másodlagos rosszindulatú daganata,??? a hashártya másodlagos rosszindulatú daganata
 a here daganatos megbetegedése,a here daganatos megbetegedése
 a háromhegyű billentyű elégtelensége,a háromhegyű billentyű elégtelensége
 a hónalj és felső végtag nyirokcsomóinak rosszindulatú daganata,a hónalj és felső végtag nyirokcsomóinak rosszindulatú daganata
@@ -488,6 +490,7 @@ agyalapi mirigy alulműködés,agyalapi mirigy alulműködés
 agyalapi mirigy betegség,agyalapi mirigy betegség
 agyalapi mirigy betegsége,agyalapi mirigy betegsége
 agyalapi mirigy daganat,agyalapi mirigy daganat
+agyalapi mirigy jóindulatú daganata,??? agyalapi mirigy jóindulatú daganata
 agyalapi vérzés,agyalapi vérzés
 agyburkok daganata,agyburkok daganata
 agyburkok jóindulatú daganata,agyburkok jóindulatú daganata
@@ -497,6 +500,7 @@ agyburok jóindulatú daganata,agyburok jóindulatú daganata
 agyburok másodlagos daganata,agyburok másodlagos daganata
 agybántalom,agybántalom
 agydaganat,agydaganat
+agyelhalás,??? agyelhalás
 agyhártya daganat,agyhártya daganat
 agyhártya gyulladás,agyhártya gyulladás
 agyhártyadaganat,agyhártyadaganat
@@ -565,6 +569,7 @@ agyi verőér szűkület,agyi verőér szűkület
 agyi vénás keringés zavarok,agyi vénás keringés zavarok
 agyi vénás keringészavar,agyi vénás keringészavar
 agyi vérellátás zavar,agyi vérellátás zavar
+agyi vérellátás zavara,??? agyi vérellátás zavara
 agyi vérellátási probléma,agyi vérellátási probléma
 agyi vérellátási zavar,agyi vérellátási zavar
 agyi vérellátási zavarok,agyi vérellátási zavarok
@@ -666,6 +671,7 @@ agyérmegbetegedés,agyérmegbetegedés
 agyérmeszesedés,agyérmeszesedés
 agyérszűkület,agyérszűkület
 agyödéma,agyödéma
+agyűri vérzés,??? agyűri vérzés
 akut agyi érkatasztrófa,akut agyi érkatasztrófa
 akut hasnyálmirigy gyulladás,akut hasnyálmirigy gyulladás
 akut hasnyálmirigy-gyulladás,akut hasnyálmirigy-gyulladás
@@ -731,6 +737,7 @@ allergia asztma,allergia asztma
 allergiás asztma,allergiás asztma
 allergiás rhinitis,allergiás rhinitis
 alsó légúti szűkületet okozó tüdőbetegség,alsó légúti szűkületet okozó tüdőbetegség
+alsó mozgató neuron betegség,??? alsó mozgató neuron betegség
 alsó végtag eltávolítása,alsó végtag eltávolítása
 alsó végtag fekély,alsó végtag fekély
 alsó végtag fekélye,alsó végtag fekélye
@@ -897,6 +904,7 @@ atipusos tüdőrezekció,atipusos tüdőrezekció
 atopiás dermatitis,atopiás dermatitis
 atrophia cer.,atrophia cer.
 atrophia cerebri,atrophia cerebri
+atípusos kétoldali tüdőgyulladás,??? atípusos kétoldali tüdőgyulladás
 autizmus,autizmus
 autoimmun betegség,autoimmun betegség
 autoimmun hemolitikus vérszegénység,autoimmun hemolitikus vérszegénység
@@ -961,6 +969,7 @@ bal oldali emlőtumor,bal oldali emlőtumor
 bal oldali infarktus,bal oldali infarktus
 bal oldali izomgyengeség,bal oldali izomgyengeség
 bal oldali légmell,bal oldali légmell
+bal oldali mellékvese daganat,??? bal oldali mellékvese daganat
 bal oldali petefészektályog miatti műtét,bal oldali petefészektályog miatti műtét
 bal oldali vesetumor miatti veseeltávolítás,bal oldali vesetumor miatti veseeltávolítás
 bal oldalon állandósult bénulás,bal oldalon állandósult bénulás
@@ -1290,6 +1299,7 @@ depreszió,depreszió
 diab. polyneuropathia,diab. polyneuropathia
 diabetes cukorbetegség,diabetes cukorbetegség
 diabetes mellitus,diabetes mellitus
+diabetészes láb szindróma,??? diabetészes láb szindróma
 diabétesz,diabétesz
 diabéteszes neuropátia,diabéteszes neuropátia
 diabéteszes szembetegség,diabéteszes szembetegség
@@ -1311,6 +1321,7 @@ down-szindróma,down-szindróma
 duodenum fekély,duodenum fekély
 dülmirigy-nagyobbodás,dülmirigy-nagyobbodás
 egyik oldali pajzsmirigylebeny eltávolítás,egyik oldali pajzsmirigylebeny eltávolítás
+egyik oldali veseeltávolításon átesett,??? egyik oldali veseeltávolításon átesett
 egyoldali vese eltávolítás,egyoldali vese eltávolítás
 egyéb,egyéb
 egyéb anaemiák,egyéb anaemiák
@@ -1798,6 +1809,7 @@ heveny veseelégtelenség,heveny veseelégtelenség
 heveny és idült gyomorhurut,heveny és idült gyomorhurut
 hiperandrogenizmus,hiperandrogenizmus
 hiperintenzív szívbetegség,hiperintenzív szívbetegség
+hiperintenzív szívbetegség szívelégtelenség nélkül,??? hiperintenzív szívbetegség szívelégtelenség nélkül
 hiperintenzív vesebetegség veseelégtelenséggel,hiperintenzív vesebetegség veseelégtelenséggel
 hiperkoleszterinémia,hiperkoleszterinémia
 hipertensiv szívbetegség,hipertensiv szívbetegség
@@ -1933,6 +1945,7 @@ idült Hepatitis C fertőzés,idült Hepatitis C fertőzés
 idült agykárosodás,idült agykárosodás
 idült agylágyulás,idült agylágyulás
 idült alkoholizmus,idült alkoholizmus
+idült arcüreggyulladás,??? idült arcüreggyulladás
 idült bronchitis,idült bronchitis
 idült dependens cukorbetegség,idült dependens cukorbetegség
 idült elzáródásos tüdőbetegség,idült elzáródásos tüdőbetegség
@@ -2179,6 +2192,7 @@ kamra tágulat,kamra tágulat
 kamrai ritmuszavar,kamrai ritmuszavar
 kapilláris szivárgás szindróma,kapilláris szivárgás szindróma
 kapuvéna trombózis,kapuvéna trombózis
+kardiomiopátia,??? kardiomiopátia
 kardiális dekompenzáció,kardiális dekompenzáció
 kemoterapia,kemoterapia
 kemoterápián átesett beteg,kemoterápián átesett beteg
@@ -2225,6 +2239,7 @@ kissejtes tüdőrák (előrehaladott),kissejtes tüdőrák (előrehaladott)
 kiszáradás,kiszáradás
 kisérbetegség,kisérbetegség
 kiterjedt felfekvések,kiterjedt felfekvések
+kiterjedt májdaganat,??? kiterjedt májdaganat
 kiterjedt mélyvénás trombózis,kiterjedt mélyvénás trombózis
 kiterjedt tályog,kiterjedt tályog
 kiterjedt érbetegség,kiterjedt érbetegség
@@ -2386,6 +2401,7 @@ krónikus légúti betegség,krónikus légúti betegség
 krónikus magasvérnyomás-betegség,krónikus magasvérnyomás-betegség
 krónikus mozgásszervi betegség,krónikus mozgásszervi betegség
 krónikus myeloid leukémia,krónikus myeloid leukémia
+krónikus myelomonocitás leukémia,??? krónikus myelomonocitás leukémia
 krónikus máj és vese elégtelenség,krónikus máj és vese elégtelenség
 krónikus májbetegség,krónikus májbetegség
 krónikus májelégtelenség,krónikus májelégtelenség
@@ -2557,6 +2573,7 @@ laktózérzékenység,laktózérzékenység
 laphám daganat,laphám daganat
 laphámrák,laphámrák
 laphámsejtes daganat,laphámsejtes daganat
+laphámsejtes rák,??? laphámsejtes rák
 leiden mutáció (öröklődő trombózishajlam),leiden mutáció (öröklődő trombózishajlam)
 leukaemia,leukaemia
 leukemia,leukemia
@@ -2732,6 +2749,7 @@ magasvérnyomás-betegség (elsődleges),magasvérnyomás-betegség (elsődleges
 magasvérnyomás-betegség betegség,magasvérnyomás-betegség betegség
 magasvérnyomás-betegség cukorbetegség,magasvérnyomás-betegség cukorbetegség
 magasvérnyomás-betegség daganatos megbetegedés,magasvérnyomás-betegség daganatos megbetegedés
+magasvérnyomás-betegség eredetű szívbetegség,??? magasvérnyomás-betegség eredetű szívbetegség
 magasvérnyomás-betegség iszkémiás szívbetegség,magasvérnyomás-betegség iszkémiás szívbetegség
 magasvérnyomás-betegség krónikus veseelégtelenség,magasvérnyomás-betegség krónikus veseelégtelenség
 magasvérnyomás-betegség kóros elhízás,magasvérnyomás-betegség kóros elhízás
@@ -2765,6 +2783,7 @@ maradandó bénulás,maradandó bénulás
 masszív epés reflux,masszív epés reflux
 masszív tüdőembolia heveny pulmonalis szívbetegség említésével,masszív tüdőembolia heveny pulmonalis szívbetegség említésével
 masszív tüdőembolizáció,masszív tüdőembolizáció
+medencei nyirokcsomók rosszindulatú daganata,??? medencei nyirokcsomók rosszindulatú daganata
 medencetörés,medencetörés
 megemelkedett pajzsmirigy-aktivitás,megemelkedett pajzsmirigy-aktivitás
 megemelkedett vérzsírszint,megemelkedett vérzsírszint
@@ -2830,6 +2849,7 @@ mentális zavar,mentális zavar
 mentális és viselkedés zavar,mentális és viselkedés zavar
 mentális és viselkedészavar,mentális és viselkedészavar
 meszesedés,meszesedés
+metabolikus szindróma,??? metabolikus szindróma
 mgasvérnyomás-betegség,mgasvérnyomás-betegség
 microcysta ren l.d.,microcysta ren l.d.
 mielodiszpláziás szindróma,mielodiszpláziás szindróma
@@ -3066,11 +3086,13 @@ nyaki artéria szűkülete,nyaki artéria szűkülete
 nyaki csigolya elváltozás,nyaki csigolya elváltozás
 nyaki daganat,nyaki daganat
 nyaki erek többszörös szűkülete,nyaki erek többszörös szűkülete
+nyaki gerinc meszesedés,??? nyaki gerinc meszesedés
 nyaki gerinc rendellenesség,nyaki gerinc rendellenesség
 nyaki gerincsérv,nyaki gerincsérv
 nyaki nyirokcsomó megnagyobbodás,nyaki nyirokcsomó megnagyobbodás
 nyaki porckorong rendellenesség,nyaki porckorong rendellenesség
 nyaki porckorongsérv,nyaki porckorongsérv
+nyaki tumor,??? nyaki tumor
 nyaki verőerek szűkülete,nyaki verőerek szűkülete
 nyaki verőér meszesedés,nyaki verőér meszesedés
 nyaki verőér szűkület,nyaki verőér szűkület
@@ -3089,6 +3111,7 @@ nyelvgyöktumor,nyelvgyöktumor
 nyelvmandula rosszindulatú daganata,nyelvmandula rosszindulatú daganata
 nyelvtumor,nyelvtumor
 nyelési nehézség,nyelési nehézség
+nyelési zavar,??? nyelési zavar
 nyelészavar,nyelészavar
 nyelőcső betegség,nyelőcső betegség
 nyelőcső daganat,nyelőcső daganat
@@ -3159,6 +3182,7 @@ nyombélgyulladás,nyombélgyulladás
 nyomási fekély,nyomási fekély
 nyugat-nílusi láz,nyugat-nílusi láz
 nyugtalan láb szindróma,nyugtalan láb szindróma
+nyálkahártya daganat,??? nyálkahártya daganat
 nyálmirigy gyulladás,nyálmirigy gyulladás
 nyálmirigy rosszindulatú daganata,nyálmirigy rosszindulatú daganata
 nyálmirigy tumor,nyálmirigy tumor
@@ -3339,6 +3363,7 @@ pitvar fribrilláció,pitvar fribrilláció
 pitvar ritmuszavar,pitvar ritmuszavar
 pitvarfibilláció,pitvarfibilláció
 pitvarfiblláció,pitvarfiblláció
+pitvarfibriiláció,??? pitvarfibriiláció
 pitvarfibrillacio,pitvarfibrillacio
 pitvarfibrillació,pitvarfibrillació
 pitvarfibrillatio,pitvarfibrillatio
@@ -3418,6 +3443,7 @@ prosztata betegség,prosztata betegség
 prosztata betegsége,prosztata betegsége
 prosztata betegségek,prosztata betegségek
 prosztata daganat,prosztata daganat
+prosztata daganat csont áttétekkel,??? prosztata daganat csont áttétekkel
 prosztata daganat áttétekkel,prosztata daganat áttétekkel
 prosztata daganata,prosztata daganata
 prosztata daganatos betegsége,prosztata daganatos betegsége
@@ -3572,6 +3598,7 @@ rögös visszérgyulladás,rögös visszérgyulladás
 sav-bázis egyensúly egyéb zavara,sav-bázis egyensúly egyéb zavara
 sav-bázis egyensúly egyéb zavarai,sav-bázis egyensúly egyéb zavarai
 sav-bázis egyensúly kevert zavara,sav-bázis egyensúly kevert zavara
+sav-bázis egyensúly zavar,??? sav-bázis egyensúly zavar
 sav-bázis egyensúly zavara,sav-bázis egyensúly zavara
 sav-bázis-egyensúly zavar,sav-bázis-egyensúly zavar
 savtúltengés,savtúltengés
@@ -3599,6 +3626,7 @@ sokideg-gyulladás,sokideg-gyulladás
 sokidegbántalom,sokidegbántalom
 sokideggyulladás,sokideggyulladás
 sokk,sokk
+sokkoló emésztőrendszeri vérzés,??? sokkoló emésztőrendszeri vérzés
 sokszervi elégtelenség,sokszervi elégtelenség
 sokérbetegség,sokérbetegség
 sokízületi gyulladás,sokízületi gyulladás
@@ -3606,6 +3634,7 @@ sorvadás,sorvadás
 spasztikus bénulás,spasztikus bénulás
 spontán légmell,spontán légmell
 stent beültetés,stent beültetés
+stent implantáció,??? stent implantáció
 stent trombózis,stent trombózis
 storke,storke
 stressz inkontinencia,stressz inkontinencia
@@ -4260,6 +4289,7 @@ vastagbél átfúródás,vastagbél átfúródás
 vastagbél-betegség,vastagbél-betegség
 vastagbél-daganat,vastagbél-daganat
 vastagbél-divertikulum,vastagbél-divertikulum
+vastagbél-gyulladás,??? vastagbél-gyulladás
 vastagbél-kiöblösödés,vastagbél-kiöblösödés
 vastagbél-polip,vastagbél-polip
 vastagbélbetegség,vastagbélbetegség
@@ -4407,6 +4437,7 @@ visszértágulat a jobb lábszáron,visszértágulat a jobb lábszáron
 viszérgyulladás trombózissal,viszérgyulladás trombózissal
 vizelet incontinencia,vizelet incontinencia
 vizelet- és széklet-inkontinencia,vizelet- és széklet-inkontinencia
+vizeletrekedés,??? vizeletrekedés
 vizeletszepszis,vizeletszepszis
 volumenhiány,volumenhiány
 von Hippel-Lindau szindróma,von Hippel-Lindau szindróma
@@ -4441,6 +4472,7 @@ végbéltályog,végbéltályog
 végelgyengülés,végelgyengülés
 végetagi ütőerek embóliája és rögösödése,végetagi ütőerek embóliája és rögösödése
 végstadiumú veseelégtelenség,végstadiumú veseelégtelenség
+végstádiumú daganatos megbetegedés áttétekkel,??? végstádiumú daganatos megbetegedés áttétekkel
 végstádiumú krónikus tüdőbetegség,végstádiumú krónikus tüdőbetegség
 végstádiumú krónikus veseelégtelenség,végstádiumú krónikus veseelégtelenség
 végstádiumú tumoros beteg,végstádiumú tumoros beteg
@@ -4487,10 +4519,12 @@ vékonybélgyulladás,vékonybélgyulladás
 véna emboliája és trombózis,véna emboliája és trombózis
 vénagyulladás,vénagyulladás
 vénák embóliája és trombózisa,vénák embóliája és trombózisa
+vénás keringési elégtelenség,??? vénás keringési elégtelenség
 vénás thrombosis,vénás thrombosis
 vénás trombózis,vénás trombózis
 vér anyagcsere zavara,vér anyagcsere zavara
 vér anyagcserezavar,vér anyagcserezavar
+vér káliumszintjének csökkenése,??? vér káliumszintjének csökkenése
 vér káliumtartalmának csökkenése,vér káliumtartalmának csökkenése
 vér nagyfokú húgysav tartalma,vér nagyfokú húgysav tartalma
 vér nátriumszintjének emelkedése,vér nátriumszintjének emelkedése
@@ -4634,6 +4668,7 @@ zöldhályog,zöldhályog
 áttétes tüdő tumor,áttétes tüdő tumor
 áttétes tüdődaganat,áttétes tüdődaganat
 áttétes tüdőrák,áttétes tüdőrák
+áttétes vastagbél daganat,??? áttétes vastagbél daganat
 áttétes vastagbélrák,áttétes vastagbélrák
 áttétet képző rosszindulatú festékes bőrdaganat,áttétet képző rosszindulatú festékes bőrdaganat
 ér- és idegkárosodás,ér- és idegkárosodás
@@ -4665,6 +4700,7 @@ zöldhályog,zöldhályog
 érgyulladás,érgyulladás
 érgörcs,érgörcs
 érműtét,érműtét
+érrendszeri autoimmun rendellenesség,??? érrendszeri autoimmun rendellenesség
 érrendszeri betegség,érrendszeri betegség
 érrendszeri betegség magasvérnyomás-betegség,érrendszeri betegség magasvérnyomás-betegség
 érrendszeri betegségek,érrendszeri betegségek
