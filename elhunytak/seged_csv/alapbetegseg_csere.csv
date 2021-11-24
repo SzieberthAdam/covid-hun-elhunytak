@@ -155,6 +155,7 @@ Gyomorvérzés,Gyomorvérzés
 Gégeeltávolítás,Gégeeltávolítás
 HCV pozitivitás,HCV pozitivitás
 HCV- fertőzés,HCV- fertőzés
+HELLP-szindróma,HELLP-szindróma
 HIV-fertőzés,HIV-fertőzés
 HT,HT
 HT - autoimmun betegség,HT - autoimmun betegség
@@ -641,6 +642,7 @@ agyvelőgyulladás,agyvelőgyulladás
 agyvelőlágyulás,agyvelőlágyulás
 agyvizenyő,agyvizenyő
 agyvérzés,agyvérzés
+agyvérzés magasvérnyomás-betegség,agyvérzés magasvérnyomás-betegség
 agyvérzés utáni állapot,agyvérzés utáni állapot
 agyvérzésen átesett,agyvérzésen átesett
 agyyi sorvadás,agyyi sorvadás
@@ -1245,6 +1247,7 @@ daganat a légcső-légutak és tüdőben,daganat a légcső-légutak és tüdő
 daganatos,daganatos
 daganatos betegség,daganatos betegség
 daganatos betegség miatt kialakult veseelégtelenség,daganatos betegség miatt kialakult veseelégtelenség
+daganatos betegség áttétekkel,daganatos betegség áttétekkel
 daganatos betegségek,daganatos betegségek
 daganatos betegég,daganatos betegég
 daganatos megbetedés,daganatos megbetedés
@@ -1280,6 +1283,7 @@ demecia,demecia
 demencia,demencia
 demencia  tüdőbetegség,demencia  tüdőbetegség
 demencia (pszichiátriai kezelés),demencia (pszichiátriai kezelés)
+demencia szívritmuszavar,demencia szívritmuszavar
 demencia vascularis,demencia vascularis
 demencia.,demencia
 demenciához társuló delírium,demenciához társuló delírium
@@ -2661,6 +2665,7 @@ magas koleszterin érték,magas koleszterin érték
 magas koleszterin-érték,magas koleszterin-érték
 magas koleszterinszint,magas koleszterinszint
 magas koleszterint,magas koleszterint
+magas koleszterint szint,magas koleszterint szint
 magas koleszterintszint,magas koleszterintszint
 magas koleszterinérték,magas koleszterinérték
 magas kálium koncentráció,magas kálium koncentráció
@@ -3996,6 +4001,7 @@ súlyos mentalis retardáció,súlyos mentalis retardáció
 súlyos mentális betegség,súlyos mentális betegség
 súlyos mentális retardácio,súlyos mentális retardácio
 súlyos mentális retardáció,súlyos mentális retardáció
+súlyos mozgásszervi panaszok,súlyos mozgásszervi panaszok
 súlyos pangásos szívelégtelenség,súlyos pangásos szívelégtelenség
 súlyos perifériás érbetegség,súlyos perifériás érbetegség
 súlyos szívbetegség,súlyos szívbetegség
@@ -4755,4 +4761,4 @@ zöldhályog,zöldhályog
 ütőérszükület,ütőérszükület
 ütőérszőkület,ütőérszőkület
 ütőérszűkület,ütőérszűkület
-őangásos szívelégtelenség,őangásos szívelégtelenség
+őangásos szívelégtelenség,pangásos szívelégtelenség
