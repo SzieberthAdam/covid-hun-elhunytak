@@ -510,6 +510,7 @@ agyi  érelmeszesedés,agyi  érelmeszesedés
 agyi aneurizma,agyi aneurizma
 agyi artéria elzáródás,agyi artéria elzáródás
 agyi artéria elzáródása,agyi artéria elzáródása
+agyi artéria elzáródása magasvérnyomás-betegség,agyi artéria elzáródása magasvérnyomás-betegség
 agyi artéria elzáródása és szűkülete,agyi artéria elzáródása és szűkülete
 agyi artériák elzáródása és sz?külete,agyi artériák elzáródása és szűkülete
 agyi artériák elzáródása és szűkülete,agyi artériák elzáródása és szűkülete
@@ -587,6 +588,7 @@ agyi érbeteg,agyi érbeteg
 agyi érbetegség,agyi érbetegség
 agyi érbetegség betegség,agyi érbetegség betegség
 agyi érbetegségek,agyi érbetegségek
+agyi érellátás zavara,agyi érellátás zavara
 agyi érelmeszesedés,agyi érelmeszesedés
 agyi érelzáródás,agyi érelzáródás
 agyi érelzáródás okozta elbutulás,agyi érelzáródás okozta elbutulás
@@ -628,6 +630,7 @@ agysérülés,agysérülés
 agytumor,agytumor
 agytályog,agytályog
 agytörzsi beékelődés,agytörzsi beékelődés
+agytörzsi keringés zavar,agytörzsi keringés zavar
 agytörzsi keringési zavar,agytörzsi keringési zavar
 agytörzsi keringészavar,agytörzsi keringészavar
 agytörzsi károsodások,agytörzsi károsodások
@@ -767,6 +770,7 @@ alsó végtagi érelzáródás,alsó végtagi érelzáródás
 alsó végtagi érszűkület,alsó végtagi érszűkület
 alsó végtagi érszűkület miatti műtét,alsó végtagi érszűkület miatti műtét
 alsó végtagi ütőérbetegség,alsó végtagi ütőérbetegség
+alsó végtagok ereinek rögösödése,alsó végtagok ereinek rögösödése
 alsó végtagok kétoldali bénulása,alsó végtagok kétoldali bénulása
 alsó végtagok mélyvénáinak gyulladása,alsó végtagok mélyvénáinak gyulladása
 alsó végtagok mélyvénáinak gyulladása és trombózisa,alsó végtagok mélyvénáinak gyulladása és trombózisa
@@ -977,6 +981,7 @@ bal oldali vesetumor miatti veseeltávolítás,bal oldali vesetumor miatti vesee
 bal oldalon állandósult bénulás,bal oldalon állandósult bénulás
 bal szívfélelégtelenség,bal szívfélelégtelenség
 bal szívkamra-megnagyobbodás,bal szívkamra-megnagyobbodás
+bal vese fejletlensége,bal vese fejletlensége
 baleseti agyűri vérzés,baleseti agyűri vérzés
 balkamra elégtelenség,balkamra elégtelenség
 baloldali tüdőgyulladás,baloldali tüdőgyulladás
@@ -1283,6 +1288,7 @@ demecia,demecia
 demencia,demencia
 demencia  tüdőbetegség,demencia  tüdőbetegség
 demencia (pszichiátriai kezelés),demencia (pszichiátriai kezelés)
+demencia Alzheimer-kór,demencia Alzheimer-kór
 demencia szívritmuszavar,demencia szívritmuszavar
 demencia vascularis,demencia vascularis
 demencia.,demencia
@@ -1541,6 +1547,7 @@ folyadék-egyensúly zavarok,folyadék-egyensúly zavarok
 folyadékgyülem a mellhártyában,folyadékgyülem a mellhártyában
 folytonos pitvarfibrilláció,folytonos pitvarfibrilláció
 fundus polypus hyperplasticus ventriculi,fundus polypus hyperplasticus ventriculi
+féloldali agyi bénulás,féloldali agyi bénulás
 féloldali bénulás,féloldali bénulás
 féloldali görcsös bénulás,féloldali görcsös bénulás
 féloldali izomgyengeség,féloldali izomgyengeség
@@ -1621,6 +1628,7 @@ gyomor daganat,gyomor daganat
 gyomor daganatos megbetegedése,gyomor daganatos megbetegedése
 gyomor eltávolítás,gyomor eltávolítás
 gyomor jóindulatú daganata,gyomor jóindulatú daganata
+gyomor nyálkahártya gyulladás,gyomor nyálkahártya gyulladás
 gyomor rosszindulatú daganata,gyomor rosszindulatú daganata
 gyomor tumor,gyomor tumor
 gyomor és bélbetegség,gyomor és bélbetegség
@@ -1682,6 +1690,7 @@ gégeműtét,gégeműtét
 gégerák,gégerák
 gégeszűkület,gégeszűkület
 gégetumor,gégetumor
+gégetumor csont áttéttel,gégetumor csont áttéttel
 göbös golyva,göbös golyva
 göbös pajzsmirigy,göbös pajzsmirigy
 göbös struma,göbös struma
@@ -1863,6 +1872,7 @@ hólyagsérv,hólyagsérv
 hólyagtumor,hólyagtumor
 hólyagtumor eltávolítás,hólyagtumor eltávolítás
 hólyagtumor májáttétekkel,hólyagtumor májáttétekkel
+hörghrut,hörghrut
 hörghurut,hörghurut
 hörghurut gyulladás,hörghurut gyulladás
 hörgi asztma,hörgi asztma
@@ -2298,6 +2308,7 @@ korábbi tüdőembólia,korábbi tüdőembólia
 korábbi vastagbél tumor,korábbi vastagbél tumor
 koszorú érszűkület,koszorú érszűkület
 koszorú- és verőér meszesedés,koszorú- és verőér meszesedés
+koszorúerek rendellenessége,koszorúerek rendellenessége
 koszorúverőr-betegségek,koszorúverőr-betegségek
 koszorúverőér-elkeményedés,koszorúverőér-elkeményedés
 koszorúverőér-meszesedés,koszorúverőér-meszesedés
@@ -2726,6 +2737,7 @@ magas vérzsír szint,magas vérzsír szint
 magas vérzsír-szint,magas vérzsír-szint
 magas vérzsírszint,magas vérzsírszint
 magas vérzsírszint  szívbetegség,magas vérzsírszint  szívbetegség
+magas vérzsírszint daganatos megbetegedés,magas vérzsírszint daganatos megbetegedés
 magas vérzsírszint kóros elhízás,magas vérzsírszint kóros elhízás
 magas vérzsírszit,magas vérzsírszit
 magas vérzsírzint,magas vérzsírzint
@@ -2761,6 +2773,7 @@ magasvérnyomás-betegség kóros elhízás,magasvérnyomás-betegség kóros el
 magasvérnyomás-betegség köszvény,magasvérnyomás-betegség köszvény
 magasvérnyomás-betegség pajzsmirigy-alulműködés,magasvérnyomás-betegség pajzsmirigy-alulműködés
 magasvérnyomás-betegség szívbetegség,magasvérnyomás-betegség szívbetegség
+magasvérnyomás-betegség szívritmuszavar,magasvérnyomás-betegség szívritmuszavar
 magasvérnyomás-betegség szövődményekkel,magasvérnyomás-betegség szövődményekkel
 magasvérnyomás-betegség súlyos mentális hanyatlás,magasvérnyomás-betegség súlyos mentális hanyatlás
 magasvérnyomás-betegség tüdőbetegség,magasvérnyomás-betegség tüdőbetegség
@@ -2776,6 +2789,7 @@ magasvérnyomás-betegség. pajzsmirigy-alulműködés,magasvérnyomás-betegsé
 magasvérnyomás-betegség. szívműtét,magasvérnyomás-betegség. szívműtét
 magasvérnyomás-betegség. érszűkület,magasvérnyomás-betegség. érszűkület
 magasvérnyomás-betegségi,magasvérnyomás-betegségi
+magasvérnyomás-betegég,magasvérnyomás-betegég
 magasvérnyomás-betegéség,magasvérnyomás-betegéség
 magasvérnyomás-betgeség,magasvérnyomás-betgeség
 magasvérnyomásos-betegség,magasvérnyomásos-betegség
@@ -2862,6 +2876,7 @@ mielodiszplázás szindróma,mielodiszplázás szindróma
 mielóma multiplex,mielóma multiplex
 migrén,migrén
 migrén miatti neurológiai gondozás,migrén miatti neurológiai gondozás
+migrénszerű fejfájás,migrénszerű fejfájás
 miokardinális infarktus,miokardinális infarktus
 miokardiális infarktus,miokardiális infarktus
 mioma,mioma
@@ -3110,6 +3125,7 @@ nyaki érelzáródás,nyaki érelzáródás
 nyaki érszűkület,nyaki érszűkület
 nyaki ütőér szűkülete,nyaki ütőér szűkülete
 nyaki ütőérszűkület,nyaki ütőérszűkület
+nyelvgyök tumor,nyelvgyök tumor
 nyelvgyök-tumor,nyelvgyök-tumor
 nyelvgyöki tumor,nyelvgyöki tumor
 nyelvgyöktumor,nyelvgyöktumor
@@ -3488,6 +3504,7 @@ prosztatatumor,prosztatatumor
 prosztatatúltengés,prosztatatúltengés
 proteinuria miatti nephrologiai gondozás,proteinuria miatti nephrologiai gondozás
 pszichiatriai gondozás,pszichiatriai gondozás
+pszichiátriai beteg,pszichiátriai beteg
 pszichiátriai betegség,pszichiátriai betegség
 pszichiátriai gondozott,pszichiátriai gondozott
 pszichiátriai gondozás,pszichiátriai gondozás
@@ -4026,6 +4043,7 @@ tbc-n átesett,tbc-n átesett
 tejallergia,tejallergia
 teljes gégeeltávolítás,teljes gégeeltávolítás
 teljes méheltávolítás,teljes méheltávolítás
+teljes pitvar-kamrai blokk,teljes pitvar-kamrai blokk
 testi leromlás,testi leromlás
 testi senyvesség,testi senyvesség
 testnedvek csökkenése,testnedvek csökkenése
@@ -4077,6 +4095,7 @@ térd arthrosis,térd arthrosis
 térd izületi betegség,térd izületi betegség
 térdhajlathoz tartozó trombózis,térdhajlathoz tartozó trombózis
 térdizületi porckopás,térdizületi porckopás
+térdprotézis implantáció,térdprotézis implantáció
 térdízület kopása,térdízület kopása
 térdízületi porc-kopás,térdízületi porc-kopás
 téveszmés zavar,téveszmés zavar
@@ -4761,4 +4780,5 @@ zöldhályog,zöldhályog
 ütőérszükület,ütőérszükület
 ütőérszőkület,ütőérszőkület
 ütőérszűkület,ütőérszűkület
+ütőérszűkülett,ütőérszűkülett
 őangásos szívelégtelenség,pangásos szívelégtelenség
