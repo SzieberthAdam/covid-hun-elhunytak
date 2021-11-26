@@ -33356,7 +33356,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 33355,N,79,magasvérnyomás-betegség; érelmeszesedés; stroke
 33356,N,51,magasvérnyomás-betegség
 33357,N,62,magasvérnyomás-betegség; iszkémiás szívbetegség; skizofrénia
-33358,N,66,magasvérnyomás-betegség; ??? gyomor nyálkahártya gyulladás
+33358,N,66,magasvérnyomás-betegség; gyomor nyálkahártya gyulladás
 33359,N,80,magasvérnyomás-betegség; iszkémiás szívbetegség
 33360,N,42,-NI-
 33361,N,69,cukorbetegség; magasvérnyomás-betegség; veseelégtelenség
@@ -33444,7 +33444,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 33443,N,83,magasvérnyomás-betegség; cukorbetegség; csontritkulás
 33444,N,80,iszkémiás szívbetegség
 33445,N,83,daganatos megbetegedés; pajzsmirigy-alulműködés; tüdőembólia; magasvérnyomás-betegség
-33446,N,76,magasvérnyomás-betegség; érelmeszesedés; ??? koszorúerek rendellenessége
+33446,N,76,magasvérnyomás-betegség; érelmeszesedés; koszorúerek rendellenessége
 33447,N,86,magasvérnyomás-betegség; cukorbetegség; szívbetegség; vérszegénység
 33448,N,83,tüdőembólia; magasvérnyomás-betegség; cukorbetegség
 33449,N,66,reflux; agyi infarktus; vérszegénység; érelmeszesedés
@@ -33472,7 +33472,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 33471,N,54,magasvérnyomás-betegség; cukorbetegség
 33472,N,70,magasvérnyomás-betegség; mélyvénás trombózis
 33473,N,83,magasvérnyomás-betegség; krónikus obstruktív tüdőbetegség
-33474,N,90,??? agyi érellátás zavara; veseelégtelenség; szívbetegség
+33474,N,90,agyi érellátás zavara; veseelégtelenség; szívbetegség
 33475,N,61,daganatos megbetegedés; magasvérnyomás-betegség; vérszegénység
 33476,N,90,magasvérnyomás-betegség; cukorbetegség; iszkémiás szívbetegség
 33477,N,78,magasvérnyomás-betegség; elhízás; szívbetegség
@@ -33512,14 +33512,14 @@ Sorszám,Nem,Kor,Alapbetegségek
 33511,N,67,cukorbetegség; magasvérnyomás-betegség; asztma
 33512,N,75,magasvérnyomás-betegség; daganatos megbetegedés
 33513,N,68,agyi érszűkület
-33514,N,70,??? pszichiátriai beteg
+33514,N,70,pszichiátriai beteg
 33515,N,89,magasvérnyomás-betegség; daganatos megbetegedés; reflux
 33516,N,94,magasvérnyomás-betegség; iszkémiás szívbetegség
 33517,N,83,magasvérnyomás-betegség; epilepszia; érelmeszesedés; daganatos megbetegedés
 33518,N,83,szívbetegség; cukorbetegség; veseelégtelenség
 33519,N,72,magasvérnyomás-betegség
 33520,N,62,szepszis; pitvarfibrilláció
-33521,N,76,??? teljes pitvar-kamrai blokk; szívelégtelenség; magasvérnyomás-betegség
+33521,N,76,teljes pitvar-kamrai blokk; szívelégtelenség; magasvérnyomás-betegség
 33522,N,92,-NI-
 33523,N,55,-NI-
 33524,N,79,daganatos megbetegedés
@@ -33535,7 +33535,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 33534,N,60,magasvérnyomás-betegség; krónikus obstruktív tüdőbetegség; hörgőasztma
 33535,N,83,idült veseelégtelenség; cukorbetegség
 33536,N,80,magasvérnyomás-betegség
-33537,N,72,érszűkület; magasvérnyomás-betegség; anyagcsere-betegség; ??? féloldali agyi bénulás
+33537,N,72,érszűkület; magasvérnyomás-betegség; anyagcsere-betegség; féloldali agyi bénulás
 33538,N,55,-NI-
 33539,N,73,anyagcsere-betegség; mentális zavar; magasvérnyomás-betegség; anyagcsere-betegség; szívelégtelenség; veseelégtelenség
 33540,N,55,tüdőtranszplantált személy
@@ -33546,9 +33546,9 @@ Sorszám,Nem,Kor,Alapbetegségek
 33545,N,68,-NI-
 33546,N,75,iszkémiás szívbetegség
 33547,N,76,agyvérzés; jóindulatú prosztata megnagyobbodás
-33548,N,38,??? magasvérnyomás-betegég; elhízás
+33548,N,38,magasvérnyomás-betegég; elhízás
 33549,N,71,magasvérnyomás-betegség; iszkémiás szívbetegség; ízületi gyulladás; húgyhólyag daganat; tüdőtágulat
-33550,N,70,??? bal vese fejletlensége; magasvérnyomás-betegség
+33550,N,70,bal vese fejletlensége; magasvérnyomás-betegség
 33551,N,56,cukorbetegség; vesebetegség; elhízás; magasvérnyomás-betegség
 33552,N,78,magasvérnyomás-betegség; iszkémiás szívbetegség; Alzheimer-kór
 33553,N,52,-NI-
@@ -33556,7 +33556,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 33555,N,54,légzési elégtelenség; magasvérnyomás-betegség
 33556,N,76,magasvérnyomás-betegség; aorta billentyű szűkülete; szívelégtelenség; krónikus obstruktív tüdőbetegség
 33557,N,80,magasvérnyomás-betegség; prosztata megnagyobbodás; leukémia
-33558,N,79,??? magasvérnyomás-betegég; csontritkulás
+33558,N,79,magasvérnyomás-betegég; csontritkulás
 33559,N,59,magasvérnyomás-betegség
 33560,N,40,-NI-
 33561,N,54,magasvérnyomás-betegség; elhízás
@@ -33572,9 +33572,9 @@ Sorszám,Nem,Kor,Alapbetegségek
 33571,N,46,magasvérnyomás-betegség
 33572,N,61,magasvérnyomás-betegség; elhízás; cukorbetegség
 33573,N,79,magasvérnyomás-betegség
-33574,N,59,magasvérnyomás-betegség; ??? magas vérzsírszint daganatos megbetegedés
+33574,N,59,magasvérnyomás-betegség; magas vérzsírszint daganatos megbetegedés
 33575,N,52,magasvérnyomás-betegség
-33576,N,63,magasvérnyomás-betegség; agyvérzés; porckorong rendellenesség; ??? agytörzsi keringés zavar; érelmeszesedés
+33576,N,63,magasvérnyomás-betegség; agyvérzés; porckorong rendellenesség; agytörzsi keringés zavar; érelmeszesedés
 33577,N,53,magasvérnyomás-betegség; cukorbetegség; mélyvénás trombózis
 33578,N,72,mélyvénás trombózis; reflux; lumbágó; daganatos megbetegedés
 33579,N,82,magasvérnyomás-betegség; cukorbetegség; magas vérzsírszint; epekő
@@ -33596,11 +33596,11 @@ Sorszám,Nem,Kor,Alapbetegségek
 33595,N,88,iszkémiás szívbetegség; magasvérnyomás-betegség
 33596,N,82,magasvérnyomás-betegség; cukorbetegség
 33597,N,49,-NI-
-33598,N,79,magasvérnyomás-betegség; reflux; ??? migrénszerű fejfájás; érelmeszesedés; nőgyógyászati betegség; ??? hörghrut
+33598,N,79,magasvérnyomás-betegség; reflux; migrénszerű fejfájás; érelmeszesedés; nőgyógyászati betegség; hörghrut
 33599,N,90,combnyaktörés
 33600,N,83,cukorbetegség; magasvérnyomás-betegség; szívizomelhalás; agyvérzés
 33601,N,79,magasvérnyomás-betegség; iszkémiás szívbetegség; cukorbetegség
-33602,N,76,??? alsó végtagok ereinek rögösödése; tüdőembólia
+33602,N,76,alsó végtagok ereinek rögösödése; tüdőembólia
 33603,N,86,veseelégtelenség
 33604,N,76,daganatos megbetegedés
 33605,N,76,elhízás; obstruktív tüdőbetegség
@@ -33615,7 +33615,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 33614,N,71,magasvérnyomás-betegség; cukorbetegség; reflux
 33615,N,71,magasvérnyomás-betegség; iszkémiás szívbetegség
 33616,N,67,cukorbetegség; elhízás
-33617,N,85,??? agyi artéria elzáródása magasvérnyomás-betegség; vaszkuláris demencia
+33617,N,85,agyi artéria elzáródása magasvérnyomás-betegség; vaszkuláris demencia
 33618,N,72,szívbelhártya gyulladás; aorta billentyű szűkület; krónikus veseelégtelenség
 33619,N,32,elhízás
 33620,N,73,infarktus; Parkinson-kór; szívritmuszavar
@@ -33639,7 +33639,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 33638,N,88,demencia
 33639,N,76,-NI-
 33640,N,86,általános érelmeszesedés; magasvérnyomás-betegség; iszkémiás szívbetegség; demencia; cukorbetegség
-33641,N,86,magasvérnyomás-betegség; cukorbetegség; ??? demencia Alzheimer-kór
+33641,N,86,magasvérnyomás-betegség; cukorbetegség; demencia Alzheimer-kór
 33642,N,82,csontritkulás; magasvérnyomás-betegség; cukorbetegség; általános érelmeszesedés
 33643,N,92,magasvérnyomás-betegség; iszkémiás szívbetegség; veseelégtelenség
 33644,N,74,magasvérnyomás-betegség
@@ -33655,14 +33655,14 @@ Sorszám,Nem,Kor,Alapbetegségek
 33654,N,64,cukorbetegség; magasvérnyomás-betegség
 33655,N,66,pangásos szívelégtelenség; magasvérnyomás-betegség; iszkémiás szívbetegség
 33656,N,56,magas vérnyomás; cukorbetegség
-33657,N,59,magasvérnyomás-betegség; ??? nyelvgyök tumor
+33657,N,59,magasvérnyomás-betegség; nyelvgyök tumor
 33658,N,88,magasvérnyomás-betegség; koponyaűri vérzés
 33659,N,77,vérmérgezés; demencia; érelmeszesedés
-33660,N,66,ízületi megbetegedés; ??? térdprotézis implantáció
+33660,N,66,ízületi megbetegedés; térdprotézis implantáció
 33661,N,71,magasvérnyomás-betegség; iszkémiás szívbetegség; cukorbetegség
-33662,N,90,??? magasvérnyomás-betegség szívritmuszavar; daganatos megbetegedés
+33662,N,90,magasvérnyomás-betegség szívritmuszavar; daganatos megbetegedés
 33663,N,73,magasvérnyomás-betegség; cukorbetegség
-33664,N,66,??? ütőérszűkülett; szív- és érrendszeri betegség; magasvérnyomás-betegség
+33664,N,66,ütőérszűkülett; szív- és érrendszeri betegség; magasvérnyomás-betegség
 33665,N,61,epilepszia; krónikus szívelégtelenség
 33666,N,93,szívelégtelenség
 33667,N,89,prosztata megnagyobbodás
@@ -33691,7 +33691,7 @@ Sorszám,Nem,Kor,Alapbetegségek
 33690,N,61,magas vérnyomás; szívritmuszavar; perifériás érbetegség
 33691,N,74,cukorbetegség; magasvérnyomás-betegség; májbetegség
 33692,N,77,magasvérnyomás-betegség; köszvény
-33693,N,71,??? gégetumor csont áttéttel
+33693,N,71,gégetumor csont áttéttel
 33694,N,97,-NI-
 33695,N,76,iszkémiás szívbetegség; magasvérnyomás-betegség; cukorbetegség; elhízás; obstruktív tüdőbetegség
 33696,N,52,tüdőbetegség; cukorbetegség; elhízás
@@ -33703,3 +33703,165 @@ Sorszám,Nem,Kor,Alapbetegségek
 33702,N,84,vesebetegség; általános érelmeszesedés
 33703,N,53,kóros elhízás; magas vérnyomás
 33704,N,87,övsömör; magasvérnyomás-betegség; szívelégtelenség
+33705,N,66,légzési elégtelenség; mentális betegség
+33706,N,56,magas vérnyomás; cukorbetegség
+33707,N,69,daganatos megbetegedés
+33708,N,92,magas vérnyomás; pajzsmirigy-alulműködés; demencia
+33709,N,53,májbetegség
+33710,N,55,leukémia
+33711,N,78,cukorbetegség; vérszegénység; szívelégtelenség; magas vérnyomás
+33712,N,68,cukorbetegség; érelmeszesedés
+33713,N,75,iszkémiás szívbetegség; pitvarfibrilláció; magas vérnyomás
+33714,N,63,magas vérnyomás; magas koleszterin
+33715,N,96,szívbetegség
+33716,N,74,magas vérnyomás; pitvarfibrilláció; szívelégtelenség
+33717,N,64,magas vérnyomás; általános érelmeszesedés
+33718,N,80,vérszegénység; érelmeszesedés; kóros elhízás; depresszió; pajzsmirigy-alulműködés; cukorbetegség
+33719,N,76,veseelégtelenség; magas vérnyomás; cukorbetegség
+33720,N,69,-NI-
+33721,N,28,agyi bénulás
+33722,N,74,stroke; magas vérnyomás
+33723,N,27,cukorbetegség
+33724,N,72,magas vérnyomás; cukorbetegség; stroke
+33725,N,79,krónikus obstruktív tüdőbetegség; magas vérnyomás; iszkémiás szívbetegség; pitvarfibrilláció; krónikus veseelégtelenség
+33726,N,57,tüdőtágulat
+33727,N,75,cukorbetegség
+33728,N,68,magas vérnyomás; szív- és érrendszer betegség; krónikus obstruktív tüdőbetegség
+33729,N,62,veseelégtelenség
+33730,N,69,magas vérnyomás; pajzsmirigy-alulműködés; krónikus obstruktív tüdőbetegség
+33731,N,73,magas vérnyomás; alkoholizmus; szívelégtelenség
+33732,N,80,szívelégtelenség
+33733,N,65,cukorbetegség; Parkinson-kór; féloldali bénulás
+33734,N,59,magas vérnyomás; májbetegség
+33735,N,62,-NI-
+33736,N,68,cukorbetegség; magas vérnyomás; kóros elhízás
+33737,N,48,magas vérnyomás; cukorbetegség; daganatos megbetegedés
+33738,N,84,mélyvénás trombózis; tüdőembólia
+33739,N,71,szívelégtelenség
+33740,N,81,magas vérnyomás; cukorbetegség; agyi infarktus
+33741,N,82,magas vérnyomás; iszkémiás szívbetegség; kóros elhízás
+33742,N,85,magas vérnyomás
+33743,N,67,idült obstruktív tüdőbetegség; légzési elégtelenség
+33744,N,58,pitvarfibrilláció; kóros elhízás
+33745,N,81,cukorbetegség; pitvarfibrilláció; magas vérnyomás; krónikus veseelégtelenség; vérszegénység
+33746,N,47,magas vérnyomás; cukorbetegség; csontritkulás
+33747,N,73,magas vérnyomás; krónikus veseelégtelenség; alultápláltság
+33748,N,68,magas vérnyomás
+33749,N,84,cukorbetegség; magas vérnyomás; idült iszkémiás szívbetegség
+33750,N,53,-NI-
+33751,N,70,magas vérnyomás; vérszegénység
+33752,N,74,magas vérnyomás; hörghurut; tüdőtágulat; depresszió
+33753,N,79,magas vérnyomás
+33754,N,86,cukorbetegség
+33755,N,61,krónikus obstruktív tüdőbetegség; magas vérnyomás
+33756,N,72,magas vérnyomás; reflux; jóindulatú prosztata megnagyobbodás
+33757,N,65,-NI-
+33758,N,76,magas vérnyomás; krónikus veseelégtelenség
+33759,N,70,-NI-
+33760,N,34,-NI-
+33761,N,70,magas vérnyomás
+33762,N,60,agyi infarktus; magas vérnyomás; krónikus obstruktív tüdőbetegség
+33763,N,81,cukorbetegség; magas vérnyomás; iszkémiás szívbetegség; érgörcs
+33764,N,79,-NI-
+33765,N,93,iszkémiás szívbetegség; magas vérnyomás
+33766,N,30,-NI-
+33767,N,76,magas vérnyomás; agyi érelmeszesedés
+33768,N,93,tüdőembólia; érelmeszesedés; magas vérnyomás; iszkémiás szívbetegség
+33769,N,50,-NI-
+33770,N,70,vérszegénység; cukorbetegség
+33771,N,82,magas vérnyomás; iszkémiás szívbetegség; stroke; demencia
+33772,N,67,magas vérnyomás; reflux; daganatos megbetegedés
+33773,N,47,magas vérnyomás
+33774,N,72,érgörcs; elhízás
+33775,N,27,magas vérnyomás; mentális betegség; epilepszia
+33776,N,69,szívelégtelenség; magas vérnyomás; pitvarfibrilláció
+33777,N,84,magas vérnyomás; veseelégtelenség
+33778,N,75,cukorbetegség; magas vérnyomás; iszkémiás szívbetegség
+33779,N,82,szívbetegség; cukorbetegség; krónikus veseelégtelenség
+33780,N,60,magas vérnyomás; reflux; tüdőembólia
+33781,N,75,-NI-
+33782,N,51,magas vérnyomás; hörghurut
+33783,N,77,magas vérnyomás; cukorbetegség; kóros elhízás
+33784,N,70,cukorbetegség; magas vérnyomás; iszkémiás szívbetegség
+33785,N,74,magas vérnyomás; krónikus veseelégtelenség
+33786,N,65,magas vérnyomás
+33787,N,76,magas vérnyomás; iszkémiás szívbetegség; szívelégtelenség
+33788,N,82,magas vérnyomás; pitvarfibrilláció; stroke
+33789,N,72,általános érelmeszesedés; magas vérnyomás
+33790,N,76,veseelégtelenség; demencia; ütőérszűkület
+33791,N,82,pajzsmirigy-alulműködés
+33792,N,71,magas vérnyomás
+33793,N,71,magas vérnyomás
+33794,N,83,magas vérnyomás; veseelégtelenség
+33795,N,73,magas vérnyomás; krónikus hasnyálmirigy-gyulladás
+33796,N,64,vérszegénység; magas vérnyomás; vesekövesség
+33797,N,68,magas vérnyomás; epilepszia; szívinfarktus
+33798,N,49,-NI-
+33799,N,84,magas vérnyomás
+33800,N,80,-NI-
+33801,N,63,magas vérnyomás
+33802,N,68,cukorbetegség; magas vérnyomás
+33803,N,82,magas vérnyomás; veseelégtelenség
+33804,N,63,vérszegénység; krónikus veseelégtelenség
+33805,N,90,daganatos megbetegedés; iszkémiás szívbetegség
+33806,N,61,veseelégtelenség; cukorbetegség; magas vérnyomás
+33807,N,89,pitvarfibrilláció; idült iszkémiás szívbetegség; leukémia; pangásos szívelégtelenség
+33808,N,64,cukorbetegség; érelmeszesedés
+33809,N,89,érelmeszesedés; magas vérnyomás; iszkémiás szívbetegség
+33810,N,63,daganatos megbetegedés; vérszegénység
+33811,N,72,demencia; májbetegség
+33812,N,69,magas vérnyomás; cukorbetegség; vérszegénység; krónikus veseelégtelenség
+33813,N,86,-NI-
+33814,N,65,magas vérnyomás
+33815,N,94,magas vérnyomás; idült iszkémiás szívbetegség; cukorbetegség
+33816,N,73,magas vérnyomás
+33817,N,87,magas vérnyomás; érelmeszesedés; idült iszkémiás szívbetegség
+33818,N,56,személyiségzavar
+33819,N,91,cukorbetegség; magas vérnyomás; demencia
+33820,N,52,heveny hasnyálmirigy-gyulladás; daganatos megbetegedés; akut veseelégtelenség
+33821,N,90,érelmeszesedés; magas vérnyomás
+33822,N,71,reflux
+33823,N,97,cukorbetegség; magas vérnyomás
+33824,N,75,magas vérnyomás; cukorbetegség
+33825,N,70,magas vérnyomás; cukorbetegség; pitvarfibrilláció; stroke; asztma; veseelégtelenség
+33826,N,87,magas vérnyomás; érelmeszesedés
+33827,N,85,magas vérnyomás; demencia; daganatos megbetegedés
+33828,N,83,iszkémiás szívbetegség; pitvarfibrilláció; reflux
+33829,N,50,cukorbetegség; gyomorfekély; alkoholizmus; véralvadási zavar
+33830,N,62,magas vérnyomás; cukorbetegség
+33831,N,80,daganatos megbetegedés; magas vérnyomás
+33832,N,67,demencia
+33833,N,40,magas vérnyomás; kóros elhízás
+33834,N,75,magas vérnyomás; daganatos megbetegedés; reflux
+33835,N,78,cukorbetegség; krónikus obstruktív tüdőbetegség; kóros elhízás
+33836,N,63,cukorbetegség
+33837,N,89,magas vérnyomás; cukorbetegség
+33838,N,92,-NI-
+33839,N,78,érszűkület; pitvarfibrilláció; tüdőbetegség
+33840,N,83,pitvarfibrilláció; krónikus veseelégtelenség; idült iszkémiás szívbetegség
+33841,N,64,iszkémiás szívbetegség; krónikus veseelégtelenség
+33842,N,69,daganatos megbetegedés
+33843,N,70,daganatos megbetegedés
+33844,N,89,pajzsmirigy-alulműködés; cukorbetegség
+33845,N,70,krónikus obstruktív tüdőbetegség
+33846,N,79,daganatos megbetegedés; magas vérnyomás
+33847,N,94,érelmeszesedés; demencia; magas vérnyomás; cukorbetegség
+33848,N,73,-NI-
+33849,N,68,krónikus veseelégtelenség; cukorbetegség
+33850,N,86,magas vérnyomás
+33851,N,83,magas vérnyomás; leukémia; ??? Willan-Plumbe-szindróma
+33852,N,77,idült obstruktív tüdőbetegség; magas vérnyomás; veseelégtelenség
+33853,N,67,cukorbetegség; kóros elhízás; szívbetegség
+33854,N,61,magas vérnyomás; kóros elhízás
+33855,N,65,-NI-
+33856,N,65,magas vérnyomás; hörghurut; cukorbetegség; iszkémiás szívbetegség
+33857,N,42,-NI-
+33858,N,85,cukorbetegség; magas vérnyomás; krónikus veseelégtelenség; érelmeszesedés
+33859,N,86,pitvarfibrilláció
+33860,N,70,magas vérnyomás; cukorbetegség; stroke; kóros elhízás
+33861,N,82,magas vérnyomás
+33862,N,79,iszkémiás szívbetegség; cukorbetegség
+33863,N,79,stroke
+33864,N,57,-NI-
+33865,N,78,érelmeszesedés; magas vérnyomás; cukorbetegség; iszkémiás szívbetegség; depresszió
+33866,N,65,magas vérnyomás
